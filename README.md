@@ -1,2 +1,1 @@
-# VaseMuseum
-VaseMuseum: Digital Intelligent Museum for Ancient Greek Pottery
+# VaseMuseum: Digital Intelligent Museum for Ancient Greek Pottery
