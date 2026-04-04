@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digital Exhibition Space</title>
+    <link rel="stylesheet" href="exhibition.css">
+    <style>
+        /* Block default selection/drag; default grab cursor on canvas */
+        canvas {
+            -webkit-user-select: none !important;
+            user-select: none !important;
+            -webkit-user-drag: none !important;
+            cursor: -webkit-grab !important;
+            cursor: grab !important;
+        }
+
+        /* Grabbing cursor while dragging */
+        body.is-grabbing, body.is-grabbing * {
+            cursor: -webkit-grabbing !important;
+            cursor: grabbing !important;
+        }
+    </style>
+</head>
+<body>
+    <div class="exhibition-root">
+        <div id="canvas-container"></div>
+
+        <!-- Top bar -->
+        <header class="exhibition-top-bar">
+            <span class="title">Digital Exhibition</span>
+            <div class="top-actions">
+                <button type="button" class="top-btn" id="showGuideBtn" title="Instructions">Instructions</button>
+                <button type="button" class="top-btn" id="fullscreenBtn" title="Fullscreen">Fullscreen</button>
+            </div>
+        </header>
+
+        <!-- Guide drawer -->
+        <div class="exhibition-guide-overlay" id="guideOverlay"></div>
+        <div class="exhibition-guide-drawer" id="guideDrawer">
+            <h2>How to use</h2>
+            <div class="exhibition-guide-section">
+                <h3>Camera</h3>
+                <p>Hover the canvas · Left drag orbit · Wheel zoom · Right drag pan · Use the panel below for model settings</p>
+            </div>
+            <div class="exhibition-guide-section">
+                <h3>Display case</h3>
+                <p>←/→/↑/↓ rotate · J raise pedestal · K lower pedestal</p>
+            </div>
+            <button type="button" class="close-btn" id="closeGuideBtn">Close</button>
+        </div>
+
+        <!-- First-visit tip -->
+        <div class="exhibition-first-tip" id="firstTip">Hover the canvas · Left drag orbit · Wheel zoom · Right drag pan · Use the panel below for model settings</div>
+
+    </div>
+
+    <script>
+        (function() {
+            var guideDrawer = document.getElementById('guideDrawer');
+            var guideOverlay = document.getElementById('guideOverlay');
+            document.getElementById('showGuideBtn').addEventListener('click', function() {
+                guideDrawer.classList.add('open');
+                guideOverlay.classList.add('open');
+            });
+            document.getElementById('closeGuideBtn').addEventListener('click', closeGuide);
+            guideOverlay.addEventListener('click', closeGuide);
+            function closeGuide() {
+                guideDrawer.classList.remove('open');
+                guideOverlay.classList.remove('open');
+            }
+
+            var firstTip = document.getElementById('firstTip');
+            if (localStorage.getItem('exhibition-first-tip-seen')) {
+                firstTip.classList.add('hidden');
+            } else {
+                setTimeout(function() {
+                    firstTip.classList.add('hidden');
+                    localStorage.setItem('exhibition-first-tip-seen', '1');
+                }, 3000);
+            }
+
+            document.getElementById('fullscreenBtn').addEventListener('click', function() {
+                if (!document.fullscreenElement && !document.webkitFullscreenElement) {
+                    var el = document.querySelector('.exhibition-root') || document.documentElement;
+                    var req = el.requestFullscreen || el.webkitRequestFullscreen;
+                    if (req) req.call(el).catch(function(){});
+                } else {
+                    var exit = document.exitFullscreen || document.webkitExitFullscreen;
+                    if (exit) exit.call(document);
+                }
+            });
+
+            function updateFullscreenBtn() {
+                var btn = document.getElementById('fullscreenBtn');
+                var isFs = !!(document.fullscreenElement || document.webkitFullscreenElement);
+                btn.textContent = isFs ? 'Exit fullscreen' : 'Fullscreen';
+            }
+            document.addEventListener('fullscreenchange', updateFullscreenBtn);
+            document.addEventListener('webkitfullscreenchange', updateFullscreenBtn);
+        })();
+    </script>
+    <script>
+        function loadThreeJS() {
+            var scripts = ['https://cdn.jsdelivr.net/npm/three@0.144.0/build/three.min.js','https://unpkg.com/three@0.144.0/build/three.min.js'];
+            var i = 0;
+            function tryLoad() {
+                if (i >= scripts.length) { console.error('Failed to load Three.js'); return; }
+                var s = document.createElement('script'); s.src = scripts[i]; s.crossOrigin = 'anonymous';
+                s.onload = loadGLTFLoader; s.onerror = function(){ i++; tryLoad(); };
+                document.head.appendChild(s);
+            }
+            function loadGLTFLoader() {
+                var srcs = ['https://cdn.jsdelivr.net/npm/three@0.144.0/examples/js/loaders/GLTFLoader.js','https://unpkg.com/three@0.144.0/examples/js/loaders/GLTFLoader.js'];
+                var j = 0;
+                var base = (window.location.pathname.replace(/\/[^/]*$/, '') || '') || '';
+                var cacheBust = '20260312-resetfix4';
+                var jsPath = (base ? base + '/js/exhibition.js' : 'js/exhibition.js') + '?v=' + cacheBust;
+                function tryLoader() {
+                    if (j >= srcs.length) {
+                        loadOrbitControls();
+                        return;
+                    }
+                    var l = document.createElement('script'); l.src = srcs[j]; l.crossOrigin = 'anonymous';
+                    l.onload = function(){ loadOrbitControls(); };
+                    l.onerror = function(){ j++; tryLoader(); };
+                    document.head.appendChild(l);
+                }
+                function loadOrbitControls() {
+                    var ocSrcs = ['https://cdn.jsdelivr.net/npm/three@0.144.0/examples/js/controls/OrbitControls.js','https://unpkg.com/three@0.144.0/examples/js/controls/OrbitControls.js'];
+                    var k = 0;
+                    function tryOC() {
+                        if (k >= ocSrcs.length) {
+                            var m = document.createElement('script'); m.src = jsPath; document.body.appendChild(m);
+                            return;
+                        }
+                        var oc = document.createElement('script'); oc.src = ocSrcs[k]; oc.crossOrigin = 'anonymous';
+                        oc.onload = function(){ var m = document.createElement('script'); m.src = jsPath; document.body.appendChild(m); };
+                        oc.onerror = function(){ k++; tryOC(); };
+                        document.head.appendChild(oc);
+                    }
+                    tryOC();
+                }
+                tryLoader();
+            }
+            tryLoad();
+        }
+        window.addEventListener('DOMContentLoaded', loadThreeJS);
+    </script>
+</body>
+</html>

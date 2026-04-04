@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>VaseMuseum: Digital Intelligent Museum for Ancient Greek Pottery</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+  <div class="container">
+    <!-- Header: title, venue, authors, buttons -->
+    <header class="header">
+      <h1 class="title">VaseMuseum: Digital Intelligent Museum for Ancient Greek Pottery</h1>
+      <!-- <p class="venue">TPAMI</p> -->
+      <ul class="authors">
+        <li><a href="#">Jiazi Wang<sup>1*</sup></a></li>
+        <li><a href="#">Qiushi Xie<sup>2*</sup></a></li>
+        <li><a href="https://steve-zeyu-zhang.github.io/">Zeyu Zhang<sup>3*†</sup></a></li>
+        <li><a href="#">Nonghai Zhang<sup>3</sup></a></li>
+        <li><a href="#">Yufeng Chen<sup>1</sup></a></li>
+        <li><a href="https://yangyangkiki.github.io/">Yang Zhao<sup>4</sup></a></li>
+        <li><a href="https://ha0tang.github.io/">Hao Tang<sup>1‡</sup></a></li>
+      </ul>
+      <p class="affiliations">
+        <sup>1</sup>Beijing Jiaotong University &nbsp;
+        <sup>2</sup>Huazhong University of Science and Technology &nbsp; 
+        <sup>3</sup>Peking University &nbsp; 
+        <sup>4</sup>La Trobe University<br> 
+        <sup>*</sup>Equal contribution. <sup>†</sup>Project lead. <sup>‡</sup>Corresponding author.</p>
+      <div class="links">
+        <a href="#" class="btn">Paper</a>
+        <a href="https://github.com/AIGeeksGroup/VaseMuseum" class="btn">Code</a>
+        <a href="https://huggingface.co/AIGeeksGroup/VaseMuseum" class="btn">Model</a>
+      </div>
+    </header>
+
+    <!-- TL;DR -->
+    <section class="section tldr">
+      <p class="tldr-text"><strong>TL;DR:</strong> VaseMuseum is a digital museum powered by VaseAgent, combining multimodal perception, 3D reasoning, and knowledge retrieval to reduce hallucinations, deliver more reliable and trustworthy cultural heritage understanding.</p>
+    </section>
+
+    <!-- Video -->
+    <!-- <section class="section">
+      <h2 class="section-title">Video</h2>
+      <div class="video-wrap">
+        <video class="demo-video" controls preload="metadata" poster="">
+          <source src="example.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </div>
+    </section> -->
+
+    <!-- Digital Exhibition -->
+    <section class="section section-exhibition">
+      <h2 class="section-title">Digital Exhibition</h2>
+      <div class="exhibition-model-cards mesh-grid">
+        <div class="mesh-card mesh-card-import">
+          <model-viewer src="models/1_06E7DF47-40BF-438A-AB6D-1BD7A3C4E383_1_ac001001_textured_2k.glb_shaded.glb" camera-controls auto-rotate alt="Vase 1"></model-viewer>
+          <p class="mesh-caption">Athenian black-figure lekythos, c. 575–525 BCE, adorned with dogs and owls; National Museum, Copenhagen.</p>
+          <button type="button" class="btn-import" data-glb="models/1_06E7DF47-40BF-438A-AB6D-1BD7A3C4E383_1_ac001001_textured_2k.glb_shaded.glb">Import to viewer</button>
+        </div>
+        <div class="mesh-card mesh-card-import">
+          <model-viewer src="models/2_7A252211-16C3-45FB-AA55-067F30C10791_2_ac001001_textured_2k.glb_shaded.glb" camera-controls auto-rotate alt="Vase 2"></model-viewer>
+          <p class="mesh-caption">Squat Athenian red-figure lekythos, c. 425–375 BCE, depicting a woman and Eros; Cleveland Museum of Art.</p>
+          <button type="button" class="btn-import" data-glb="models/2_7A252211-16C3-45FB-AA55-067F30C10791_2_ac001001_textured_2k.glb_shaded.glb">Import to viewer</button>
+        </div>
+        <div class="mesh-card mesh-card-import">
+          <model-viewer src="models/3_8F8A0565-7884-4B41-BB15-CCC92DA56DF5_3_ac001001_textured_2k.glb_shaded.glb" camera-controls auto-rotate alt="Vase 3"></model-viewer>
+          <p class="mesh-caption">Athenian red-figure cup by Epiktetos, c. 525–475 BCE, featuring symposium scene with reclining woman.</p>
+          <button type="button" class="btn-import" data-glb="models/3_8F8A0565-7884-4B41-BB15-CCC92DA56DF5_3_ac001001_textured_2k.glb_shaded.glb">Import to viewer</button>
+        </div>
+        <div class="mesh-card mesh-card-import">
+          <model-viewer src="models/4_21C34DB6-84EF-4465-A1FD-5B99AC7475A5_1_ac001001_textured_2k.glb_shaded.glb" camera-controls auto-rotate alt="Vase 1"></model-viewer>
+          <p class="mesh-caption">Athenian black-figure lekythos, c. 500–450 BCE, Beldam Workshop, ivy and berry motif, Nola provenance.<br>&nbsp;</p>
+          <button type="button" class="btn-import" data-glb="models/4_21C34DB6-84EF-4465-A1FD-5B99AC7475A5_1_ac001001_textured_2k.glb_shaded.glb">Import to viewer</button>
+        </div>
+        <div class="mesh-card mesh-card-import">
+          <model-viewer src="models/5_8B85AFFA-C8CF-48DD-8BC3-85924914704D_1_ac001001_textured_2k.glb_shaded.glb" camera-controls auto-rotate alt="Vase 2"></model-viewer>
+          <p class="mesh-caption">Athenian black-figure lekythos, c. 500–450 BCE, adorned with ivy leaf and berry motifs; National Museum, Warsaw.</p>
+          <button type="button" class="btn-import" data-glb="models/5_8B85AFFA-C8CF-48DD-8BC3-85924914704D_1_ac001001_textured_2k.glb_shaded.glb">Import to viewer</button>
+        </div>
+        <div class="mesh-card mesh-card-import">
+          <model-viewer src="models/6_10D9A280-1C1C-40A8-B0F1-1CCBFD4B897D_1_ac001001_textured_2k.glb_shaded.glb" camera-controls auto-rotate alt="Vase 3"></model-viewer>
+          <p class="mesh-caption">Athenian black-figure Panathenaic amphora, c. 525–475 BCE, Athena and chariot motifs, attributed to Kleophrades Painter.</p>
+          <button type="button" class="btn-import" data-glb="models/6_10D9A280-1C1C-40A8-B0F1-1CCBFD4B897D_1_ac001001_textured_2k.glb_shaded.glb">Import to viewer</button>
+        </div>
+      </div>
+      <div class="exhibition-wrap">
+        <iframe src="DigitalExhibition/index.html" title="Digital Exhibition Space" class="exhibition-iframe" id="exhibition-iframe"></iframe>
+      </div>
+      <div class="exhibition-controls-block" id="exhibition-controls-block">
+        <div class="exhibition-controls-grid">
+          <div class="exhibition-control-group">
+            <h4>File import</h4>
+            <input type="file" id="glb-file" accept=".glb" hidden>
+            <button type="button" class="exhibition-primary-btn" id="selectFileBtn">Choose file</button>
+            <p class="exhibition-file-tip" id="fileName">No file selected</p>
+          </div>
+
+          <div class="exhibition-control-group">
+            <h4>Scale</h4>
+            <input type="range" class="exhibition-param-slider" id="scale-slider" min="1" max="200" value="100">
+            <button type="button" class="exhibition-reset-btn" id="scale-reset" title="Reset">Reset</button>
+          </div>
+
+          <div class="exhibition-control-group">
+            <h4>Pedestal height</h4>
+            <input type="range" class="exhibition-param-slider" id="pedestal-slider" min="5" max="100" value="32">
+            <button type="button" class="exhibition-reset-btn" id="pedestal-reset" title="Reset">Reset</button>
+          </div>
+
+          <div class="exhibition-control-group">
+            <h4>Display case rotation</h4>
+            <div class="exhibition-rotate-grid">
+              <button type="button" class="exhibition-rotate-btn" id="rot-left" title="Rotate left">◀ Left</button>
+              <button type="button" class="exhibition-rotate-btn" id="rot-right" title="Rotate right">Right ▶</button>
+              <button type="button" class="exhibition-rotate-btn" id="rot-up" title="Tilt up">▲ Up</button>
+              <button type="button" class="exhibition-rotate-btn" id="rot-down" title="Tilt down">Down ▼</button>
+            </div>
+          </div>
+        </div>
+        <div class="exhibition-shortcut-tip">
+          <p>🖱️ Hover the canvas to control · Left drag orbit · Wheel zoom · Right drag pan · Use the controls below for the model</p>
+        </div>
+      </div>
+    </section>
+
+
+
+    <section class="section">
+      <h2 class="section-title">VaseMuseum</h2>
+      <figure class="architecture-figure">
+        <img src="img/main_page-0001.jpg" alt="Overall Architecture of the VaseMuseum System">
+        <figcaption class="architecture-caption">Overall Architecture of the VaseMuseum System</figcaption>
+      </figure>
+    </section>
+
+    <section class="section">
+      <h2 class="section-title">Workflow</h2>
+      <figure class="architecture-figure">
+        <img src="img/museum_workflow_pages-to-jpg-0001.jpg" alt="Museum Workflow">
+        <figcaption class="architecture-caption">Museum Workflow</figcaption>
+      </figure>
+    </section>
+
+    <section class="section">
+      <h2 class="section-title">VaseAgent</h2>
+      <figure class="architecture-figure">
+        <img src="img/vaseagent_pages-to-jpg-0001.jpg" alt="VaseAgent Framework">
+        <figcaption class="architecture-caption">VaseAgent Framework</figcaption>
+      </figure>
+    </section>
+
+    <!-- BibTeX -->
+    <section class="section">
+      <h2 class="section-title">BibTeX</h2>
+      <pre id="bibtex">@article{zhang2025vasevqa,
+  title={VaseVQA-3D: Benchmarking 3D VLMs on Ancient Greek Pottery},
+  author={Zhang, Nonghai and Zhang, Zeyu and Wang, Jiazi and Zhao, Yang and Tang, Hao},
+  journal={arXiv preprint arXiv:2510.04479},
+  year={2025}
+}</pre>
+      <button type="button" id="copy-bibtex" class="btn btn-secondary">Copy BibTeX</button>
+    </section>
+  </div>
+
+  <script>
+    (function () {
+      var modelViewerSources = [
+        'https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js',
+        'https://cdn.jsdelivr.net/npm/@google/model-viewer/dist/model-viewer.min.js'
+      ];
+      var current = 0;
+
+      function loadNext() {
+        if (current >= modelViewerSources.length) {
+          console.error('[model-viewer] All CDN sources failed to load');
+          return;
+        }
+        var script = document.createElement('script');
+        script.type = 'module';
+        script.src = modelViewerSources[current++];
+        script.onload = function () {
+          window.__modelViewerLoaded = true;
+        };
+        script.onerror = loadNext;
+        document.head.appendChild(script);
+      }
+
+      loadNext();
+    })();
+  </script>
+  <script src="js/app.js"></script>
+</body>
+</html>

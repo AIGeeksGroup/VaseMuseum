@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Control Panel</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: Arial, sans-serif;
+            background: #0a0a0a;
+            color: #eee;
+            padding: 12px;
+            font-size: 13px;
+        }
+        h3 { color: #00BCD4; margin-bottom: 8px; font-size: 14px; }
+        .block { margin-bottom: 14px; }
+        .block label { display: block; margin-bottom: 4px; color: #aaa; font-size: 11px; }
+        input[type="file"] { margin-bottom: 6px; width: 100%; font-size: 12px; }
+        .row { display: flex; align-items: center; gap: 6px; margin-bottom: 6px; }
+        input[type="number"] {
+            flex: 1; padding: 6px; text-align: center; font-size: 13px;
+            background: rgba(255,255,255,0.1); color: #fff; border: 1px solid #555; border-radius: 4px;
+        }
+        button {
+            padding: 6px 12px; font-size: 12px; font-weight: bold; border: none; border-radius: 4px;
+            cursor: pointer; user-select: none;
+        }
+        .btn-min { background: #f44336; color: #fff; width: 36px; }
+        .btn-plus { background: #4CAF50; color: #fff; width: 36px; }
+        .btn-rotate { flex: 1; }
+        .btn-left { background: #2196F3; color: #fff; }
+        .btn-right { background: #FF9800; color: #fff; }
+        .btn-up { background: #9C27B0; color: #fff; }
+        .btn-down { background: #607D8B; color: #fff; }
+        hr { border: none; border-top: 1px solid #444; margin: 10px 0; }
+    </style>
+</head>
+<body>
+    <div class="block">
+        <h3>Import GLB</h3>
+        <input type="file" id="glb-file" accept=".glb">
+        <div class="row">
+            <label>Scale:</label>
+            <button class="btn-min" id="scale-minus">−</button>
+            <input type="number" id="scale-input" value="100" min="1" max="200" step="1">
+            <button class="btn-plus" id="scale-plus">+</button>
+        </div>
+    </div>
+    <hr>
+    <div class="block">
+        <h3>Pedestal height</h3>
+        <div class="row">
+            <button class="btn-min" id="pedestal-minus">−</button>
+            <input type="number" id="pedestal-input" value="32" min="5" max="100" step="1">
+            <button class="btn-plus" id="pedestal-plus">+</button>
+        </div>
+    </div>
+    <hr>
+    <div class="block">
+        <h3>Display case rotation</h3>
+        <div class="row">
+            <button class="btn-rotate btn-left" id="rot-left">◄ Left</button>
+            <button class="btn-rotate btn-right" id="rot-right">Right ►</button>
+        </div>
+        <div class="row">
+            <button class="btn-rotate btn-up" id="rot-up">↑ Up</button>
+            <button class="btn-rotate btn-down" id="rot-down">↓ Down</button>
+        </div>
+        <div class="row" style="margin-top:6px">
+            <label style="flex:0 0 auto">Speed:</label>
+            <button class="btn-min" id="speed-minus">−</button>
+            <input type="number" id="speed-input" value="80" min="1" max="100">
+            <button class="btn-plus" id="speed-plus">+</button>
+        </div>
+    </div>
+    <script>
+        (function() {
+            function post(cmd) {
+                if (window.parent !== window) {
+                    window.parent.postMessage(Object.assign({ source: 'vase-exhibition-controls' }, cmd), '*');
+                }
+            }
+            var scaleEl = document.getElementById('scale-input');
+            var pedestalEl = document.getElementById('pedestal-input');
+            var speedEl = document.getElementById('speed-input');
+            document.getElementById('glb-file').addEventListener('change', function(e) {
+                var f = e.target.files[0];
+                if (!f || !f.name.toLowerCase().endsWith('.glb')) return;
+                var r = new FileReader();
+                r.onload = function() {
+                    post({ type: 'loadGLB', arrayBuffer: r.result, fileName: f.name, scale: parseFloat(scaleEl.value) || 100 });
+                };
+                r.readAsArrayBuffer(f);
+                e.target.value = '';
+            });
+            function btn(id, fn) { document.getElementById(id).addEventListener('click', fn); }
+            btn('scale-minus', function() { var v = Math.max(1, (parseFloat(scaleEl.value) || 100) - 1); scaleEl.value = v; post({ type: 'setScale', value: v }); });
+            btn('scale-plus', function() { var v = Math.min(200, (parseFloat(scaleEl.value) || 100) + 1); scaleEl.value = v; post({ type: 'setScale', value: v }); });
+            scaleEl.addEventListener('change', function() { var v = parseFloat(scaleEl.value); if (!isNaN(v)) post({ type: 'setScale', value: Math.max(1, Math.min(200, v)) }); });
+            btn('pedestal-minus', function() { var v = Math.max(5, (parseFloat(pedestalEl.value) || 32) - 1); pedestalEl.value = v; post({ type: 'setPedestal', value: v }); });
+            btn('pedestal-plus', function() { var v = Math.min(100, (parseFloat(pedestalEl.value) || 32) + 1); pedestalEl.value = v; post({ type: 'setPedestal', value: v }); });
+            pedestalEl.addEventListener('change', function() { var v = parseFloat(pedestalEl.value); if (!isNaN(v)) post({ type: 'setPedestal', value: Math.max(5, Math.min(100, v)) }); });
+            function rotBtn(id, dir) {
+                var el = document.getElementById(id);
+                el.addEventListener('mousedown', function() { post({ type: 'rotate', direction: dir, active: true }); });
+                el.addEventListener('mouseup', function() { post({ type: 'rotate', direction: dir, active: false }); });
+                el.addEventListener('mouseleave', function() { post({ type: 'rotate', direction: dir, active: false }); });
+            }
+            rotBtn('rot-left', 'left'); rotBtn('rot-right', 'right'); rotBtn('rot-up', 'up'); rotBtn('rot-down', 'down');
+            btn('speed-minus', function() { var v = Math.max(1, (parseFloat(speedEl.value) || 80) - 5); speedEl.value = v; post({ type: 'setRotationSpeed', value: v }); });
+            btn('speed-plus', function() { var v = Math.min(100, (parseFloat(speedEl.value) || 80) + 5); speedEl.value = v; post({ type: 'setRotationSpeed', value: v }); });
+            speedEl.addEventListener('change', function() { var v = parseFloat(speedEl.value); if (!isNaN(v)) post({ type: 'setRotationSpeed', value: Math.max(1, Math.min(100, v)) }); });
+        })();
+    </script>
+</body>
+</html>
