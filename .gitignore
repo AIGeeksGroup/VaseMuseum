@@ -1,0 +1,31 @@
+# Secrets and local config
+.env
+**/.env
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Experiment / runtime artifacts
+vase-agent/tools/.serp_cache/
+!vase-agent/tools/.serp_cache/.gitkeep
+vllm_run/vllm_deploy_logs/
+retriever_runs/
+vase-agent/runs/
+vase-agent/agent_runs.jsonl
+*.log
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*~

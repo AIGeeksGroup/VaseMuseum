@@ -1,0 +1,5602 @@
+[
+  {
+    "id": 10415,
+    "image": "https://YOUR_IMAGE_HOST/images/4039C94F-FD7E-4949-9826-FA8785284C4F_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-550 to -500",
+        "Attribution": "<em>Compare</em> WÜRZBURG 199, GROUP OF by LO PORTO",
+        "Decoration": "A,B: HERAKLES AND THE BULL"
+      },
+      "Additional Content": {
+        "Description": "Herakles captures and ties up the Cretan Bull.",
+        "Mythological": "Herakles: divine Greek hero",
+        "Findspot": "Vulci",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "AMPHORA, NECK"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-550 to -500"
+        },
+        {
+          "field": "attribution",
+          "question": "Who’s this attributed to?",
+          "answer": "<em>Compare</em> WÜRZBURG 199, GROUP OF by LO PORTO"
+        },
+        {
+          "field": "decoration",
+          "question": "What’s depicted on the vase?",
+          "answer": "A,B: HERAKLES AND THE BULL"
+        }
+      ]
+    }
+  },
+  {
+    "id": 10443,
+    "image": "https://YOUR_IMAGE_HOST/images/8403443C-EDF2-4711-8111-47D6EFDAC3F2_4_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "OLPE",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "Body: AJAX WITH THE BODY OF ACHILLES, WOMAN, ARCHER, OLD MAN"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Achilleus: son of Peleus :: Phoinix I: brother of Europe I and Kadmos I :: Teukros I: king of the Troad :: Thetis: nereid :: Paris: Trojan hero",
+        "Findspot": "Vulci",
+        "Artist": "",
+        "Dating": "530 - 520 BCE"
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used on this vase?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "OLPE"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-550 to -500"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this vase?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s painted on the body of the vase?",
+          "answer": "Body: AJAX WITH THE BODY OF ACHILLES, WOMAN, ARCHER, OLD MAN"
+        }
+      ]
+    }
+  },
+  {
+    "id": 10546,
+    "image": "https://YOUR_IMAGE_HOST/images/8D5BB663-2474-408D-934F-9F8F8EB4E6BE_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "PELIKE",
+        "Date": "-400 to -300",
+        "Attribution": "KERCH by UNKNOWN",
+        "Decoration": "A: ORESTES AT DELPHI, OMPHALOS, ERINYES WITH TORCHES AND SNAKES"
+      },
+      "Additional Content": {
+        "Description": "A: Hercle fights Ketos. B: Hercle puts his arm around a woman (Hesione?).",
+        "Mythological": "Hercle :: Hesione: daughter of Laomedon I",
+        "Findspot": "Perugia",
+        "Artist": "Hesione Painter: Etruscan vase painter",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is this?",
+          "answer": "RED-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "PELIKE"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-400 to -300"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this?",
+          "answer": "KERCH by UNKNOWN"
+        },
+        {
+          "field": "decoration",
+          "question": "What’s depicted on the vase?",
+          "answer": "A: ORESTES AT DELPHI, OMPHALOS, ERINYES WITH TORCHES AND SNAKES"
+        }
+      ]
+    }
+  },
+  {
+    "id": 10571,
+    "image": "https://YOUR_IMAGE_HOST/images/7219E748-1474-4A47-BA7F-C9D3D92022AF_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "STAMNOS",
+        "Date": "-475 to -425",
+        "Attribution": "",
+        "Decoration": "A: CULT SCENE, SATYR OFFERING KANTHAROS TO MASK OF DIONYSOS ON TREE, MAENAD PLAYING PIPES | B: WOMEN, ONE WITH TORCH"
+      },
+      "Additional Content": {
+        "Description": "Dionysos-Maskenidol an einer mit Efeu geschmückten Säule; nach rechts gewandt, mit Opferkuchen (?) an der Schulter, bekleidet mit einem kurzen Chiton. Links hinter dem Idol steht eine Mänade mit Doppelaulos, vor der Säule hält ein Satyr dem Idol einen Kantharos an die Lippen. Zuordnung zu Fest: Lenaia (Simon, Parke); Anthesteria (Burkert); Dionysos-Fest allgemein (Frontisi-Ducroux).",
+        "Mythological": "Dionysos: Greek god",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": "460 - 450 BCE"
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "RED-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "STAMNOS"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-475 to -425"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this piece?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s painted on the vase?",
+          "answer": "A: CULT SCENE, SATYR OFFERING KANTHAROS TO MASK OF DIONYSOS ON TREE, MAENAD PLAYING PIPES | B: WOMEN, ONE WITH TORCH"
+        }
+      ]
+    }
+  },
+  {
+    "id": 10668,
+    "image": "https://YOUR_IMAGE_HOST/images/5E089DE3-9C32-4EAA-B376-A0FC9B7F17DB_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "LEKYTHOS",
+        "Date": "-500 to -450",
+        "Attribution": "SAPPHO P by HASPELS",
+        "Decoration": "Body: AJAX AND CASSANDRA, ALTAR, STATUE OF ATHENA, WARRIOR (DEVICE, PEGASOS)"
+      },
+      "Additional Content": {
+        "Description": "Aias with sword in his right hand is moving to the right pursuing a naked Kassandra who is seeking refuge at the altar of Athena (Basis, rechteckiger Altarkörper, Abschlussprofil, Volutenaufsatz nach innen gerollt). Right of the altar stands Athena. Behind her a hoplite.",
+        "Mythological": "Aias II: leader :: Athena: goddess :: Kassandra I: daughter of Priamos",
+        "Findspot": "Agrigento",
+        "Artist": "Sappho Painter: Attic vase painter",
+        "Dating": "510 - 500 BCE"
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is this?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "LEKYTHOS"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-500 to -450"
+        },
+        {
+          "field": "attribution",
+          "question": "Who’s this vase attributed to?",
+          "answer": "SAPPHO P by HASPELS"
+        },
+        {
+          "field": "decoration",
+          "question": "What’s painted on the body?",
+          "answer": "Body: AJAX AND CASSANDRA, ALTAR, STATUE OF ATHENA, WARRIOR (DEVICE, PEGASOS)"
+        }
+      ]
+    }
+  },
+  {
+    "id": 10683,
+    "image": "https://YOUR_IMAGE_HOST/images/D6F849D6-8A7A-48BE-A530-7B40EA981089_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "LEKYTHOS",
+        "Date": "-525 to -475",
+        "Attribution": "",
+        "Decoration": "Body: BIRTH OF ATHENA, ZEUS, ATHENA, EILEITHYIAI, HEPHAISTOS, HERMES, WARRIORS | Shoulder: HORSEMEN"
+      },
+      "Additional Content": {
+        "Description": "Eileithyia and Zeus giving birth to Athena. Hephaistos, Hermes and warriors at each side watching.",
+        "Mythological": "Eileithyia: goddess :: Athena: goddess :: Zeus: god :: Hephaistos: god :: Hermes: messenger of the gods",
+        "Findspot": "Vulci",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "LEKYTHOS"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-525 to -475"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s depicted on the vase?",
+          "answer": "Body: BIRTH OF ATHENA, ZEUS, ATHENA, EILEITHYIAI, HEPHAISTOS, HERMES, WARRIORS | Shoulder: HORSEMEN"
+        }
+      ]
+    }
+  },
+  {
+    "id": 10697,
+    "image": "https://YOUR_IMAGE_HOST/images/ABB7FCE0-3978-4643-B822-F5810ED9A87A_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "KRATER, CALYX",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "A: WARRIORS, ONE WITH BOEOTIAN SHIELD, CHARIOT | At handle: GRAPE VINE | B: HERAKLES AND THE LION, ATHENA (?), IOLAOS (?), HORSEMAN, DOG"
+      },
+      "Additional Content": {
+        "Description": "Herakles and the Nemean Lion. With Athena and Iolaos.",
+        "Mythological": "Herakles: divine Greek hero",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "KRATER, CALYX"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-550 to -500"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this vase?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s depicted on the vase?",
+          "answer": "A: WARRIORS, ONE WITH BOEOTIAN SHIELD, CHARIOT | At handle: GRAPE VINE | B: HERAKLES AND THE LION, ATHENA (?), IOLAOS (?), HORSEMAN, DOG"
+        }
+      ]
+    }
+  },
+  {
+    "id": 10699,
+    "image": "https://YOUR_IMAGE_HOST/images/AE4DDE66-B513-4E32-B40A-56EE1ABD8D84_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "KRATER, COLUMN",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "A: SYMPOSIUM, DIONYSOS, SATYRS (WITH WINESKIN, PLAYING KITHARA AND PIPES) | B: AJAX WITH BODY OF ACHILLES (?) WOMAN, ARCHERS | Rim: ANIMALS"
+      },
+      "Additional Content": {
+        "Description": "Dionysos on a kline surrounded by three satyrs and one menad",
+        "Mythological": "",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": "530 BCE"
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used on this?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the shape of this vessel called?",
+          "answer": "KRATER, COLUMN"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-550 to -500"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this piece?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s painted on the vase?",
+          "answer": "A: SYMPOSIUM, DIONYSOS, SATYRS (WITH WINESKIN, PLAYING KITHARA AND PIPES) | B: AJAX WITH BODY OF ACHILLES (?) WOMAN, ARCHERS | Rim: ANIMALS"
+        }
+      ]
+    }
+  },
+  {
+    "id": 10701,
+    "image": "https://YOUR_IMAGE_HOST/images/DFCD3CC4-C609-48DD-892F-99AB17CEE072_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "KRATER, COLUMN",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "A: HERAKLES AND NESSOS, DEIANEIRA, DRAPED MAN WITH STAFF | B: PELEUS AND THETIS, NEREIDS"
+      },
+      "Additional Content": {
+        "Description": "Oineus watching Herakles running after Nessos and Deianeira. B: Peleus seizing Thetis.",
+        "Mythological": "Nessos: centaur :: Oineus I: king of Kalydon in Aetolia :: Peleus: father of Achilleus",
+        "Findspot": "Italy",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "KRATER, COLUMN"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-550 to -500"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this vase?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What scenes are painted on it?",
+          "answer": "A: HERAKLES AND NESSOS, DEIANEIRA, DRAPED MAN WITH STAFF | B: PELEUS AND THETIS, NEREIDS"
+        }
+      ]
+    }
+  },
+  {
+    "id": 10702,
+    "image": "https://YOUR_IMAGE_HOST/images/F7E7FE43-BF78-4452-94F8-2A03AA8653B5_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "KRATER, COLUMN",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "A: HERAKLES AND IOLAOS (?) IN CHARIOT, APOLLO PLAYING LYRE, ATHENA, YOUTH | B: WARRIOR AND ARCHER BETWEEN DRAPED MEN WITH SPEARS"
+      },
+      "Additional Content": {
+        "Description": "Iolaos and Herakles in a chariot. With Apollon, Athena and a youth.",
+        "Mythological": "Herakles: divine Greek hero :: Iolaos: companion of Herakles",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "KRATER, COLUMN"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-550 to -500"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this vase?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What scenes are painted on it?",
+          "answer": "A: HERAKLES AND IOLAOS (?) IN CHARIOT, APOLLO PLAYING LYRE, ATHENA, YOUTH | B: WARRIOR AND ARCHER BETWEEN DRAPED MEN WITH SPEARS"
+        }
+      ]
+    }
+  },
+  {
+    "id": 10708,
+    "image": "https://YOUR_IMAGE_HOST/images/F88F1739-75BD-4BBE-80F0-8A31D4433EDD_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, BELLY, TYPE B",
+        "Date": "-575 to -525",
+        "Attribution": "",
+        "Decoration": "A: HERAKLES AND NESSOS, DEIANEIRA (?), DRAPED MAN | B: HORSEMAN BETWEEN YOUTH AND DRAPED MAN"
+      },
+      "Additional Content": {
+        "Description": "Oineus gestures to Herakles and Nessos. Between them Deianeira.",
+        "Mythological": "Nessos: centaur :: Oineus I: king of Kalydon in Aetolia",
+        "Findspot": "Etruria",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "AMPHORA, BELLY, TYPE B"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-575 to -525"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this vase?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s depicted on the vase?",
+          "answer": "A: HERAKLES AND NESSOS, DEIANEIRA (?), DRAPED MAN | B: HORSEMAN BETWEEN YOUTH AND DRAPED MAN"
+        }
+      ]
+    }
+  },
+  {
+    "id": 10713,
+    "image": "https://YOUR_IMAGE_HOST/images/D87B3333-F5C6-4F09-AAE3-85D2FDCFC175_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, BELLY, TYPE B",
+        "Date": "-575 to -525",
+        "Attribution": "",
+        "Decoration": "A: PROCESSION OF GODS, HERMES, APOLLO PLAYING KITHARA, GODDESSES, DIONYSOS, DEER | B: DIONYSOS MOUNTING CHARIOT, SATYR, MAENADS"
+      },
+      "Additional Content": {
+        "Description": "Dionysos mounting a chariot, around him silens and maenads.",
+        "Mythological": "Dionysos: Greek god :: Mousa: goddesses",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "AMPHORA, BELLY, TYPE B"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-575 to -525"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this vase?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s painted on the vase?",
+          "answer": "A: PROCESSION OF GODS, HERMES, APOLLO PLAYING KITHARA, GODDESSES, DIONYSOS, DEER | B: DIONYSOS MOUNTING CHARIOT, SATYR, MAENADS"
+        }
+      ]
+    }
+  },
+  {
+    "id": 10714,
+    "image": "https://YOUR_IMAGE_HOST/images/2015869D-E55E-4F69-A27B-104A1C4F0B8E_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, BELLY, TYPE B",
+        "Date": "-575 to -525",
+        "Attribution": "",
+        "Decoration": "A: HERAKLES (WITHOUT LION SKIN AND CLUB) AND KERBEROS, ATHENA, IOLAOS OR HERMES (?) | B: FRONTAL HORSEMEN (DIOSKOUROI ?) BETWEEN WOMEN"
+      },
+      "Additional Content": {
+        "Description": "Seite A: Links steht Herakles nach rechts (ohne Attribute), die Leine des zweiköpfigen Kerberos haltend, der rechts von ihm steht und einen Kopf zu ihm zurückgewandt hat. Hinter dem Kerberos steht Athena mit Schild. Rechts vom Kerberos ein Jüngling (Iolaos?). Seite B: Zwei Reiter (Dioskuren?), frontal, zwischen zwei Frauen. Im Zentrum ein weißer Hund.",
+        "Mythological": "Athena: goddess :: Dioskouroi: Kastor and Polydeukes :: Herakles: divine Greek hero :: Iolaos: companion of Herakles :: Kerberos: guard-dog :: Persephone: daughter of Demeter",
+        "Findspot": "unknown",
+        "Artist": "",
+        "Dating": "550 - 525 BCE"
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is this?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "AMPHORA, BELLY, TYPE B"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-575 to -525"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s painted on it?",
+          "answer": "A: HERAKLES (WITHOUT LION SKIN AND CLUB) AND KERBEROS, ATHENA, IOLAOS OR HERMES (?) | B: FRONTAL HORSEMEN (DIOSKOUROI ?) BETWEEN WOMEN"
+        }
+      ]
+    }
+  },
+  {
+    "id": 10721,
+    "image": "https://YOUR_IMAGE_HOST/images/0C326AA1-620A-4805-858C-B402E0C78003_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "A: DIONYSOS, ATHENA, HERMES, HERAKLES (?), GODDESS, ALL SEATED | B: DIONYSOS SEATED BETWEEN SATYRS AND MAENADS"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Hermes: messenger of the gods",
+        "Findspot": "Etruria",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is this?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "AMPHORA, NECK"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-550 to -500"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s depicted on the vase?",
+          "answer": "A: DIONYSOS, ATHENA, HERMES, HERAKLES (?), GODDESS, ALL SEATED | B: DIONYSOS SEATED BETWEEN SATYRS AND MAENADS"
+        }
+      ]
+    }
+  },
+  {
+    "id": 10730,
+    "image": "https://YOUR_IMAGE_HOST/images/342E25D4-DCB1-422E-82DA-7A5BC59C1960_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "PSEUDO-PANATHENAIC AMPHORA",
+        "Date": "-525 to -475",
+        "Attribution": "",
+        "Decoration": "A: ATHENA (SHIELD DEVICE, CHARIOT BOX) | B: MUSIC CONTEST, DRAPED MAN PLAYING THE KITHARA, ONLOOKERS, ONE SEATED, ALTAR"
+      },
+      "Additional Content": {
+        "Description": "A: Athena;B: Music contest, draped man playing kithara, onlookers, one seated, altar (Basis, rechteckiger Block, Deckplatte, Windschutz, Feuer).",
+        "Mythological": "",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": "525 - 475 BCE"
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used on this vase?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "PSEUDO-PANATHENAIC AMPHORA"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-525 to -475"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this vase?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s depicted on the vase?",
+          "answer": "A: ATHENA (SHIELD DEVICE, CHARIOT BOX) | B: MUSIC CONTEST, DRAPED MAN PLAYING THE KITHARA, ONLOOKERS, ONE SEATED, ALTAR"
+        }
+      ]
+    }
+  },
+  {
+    "id": 10739,
+    "image": "https://YOUR_IMAGE_HOST/images/88663DCF-8586-48C5-8A94-5352F17B3554_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "A: HERAKLES AND THE BOAR BETWEEN ATHENA AND HERMES | B: WARRIOR (?)"
+      },
+      "Additional Content": {
+        "Description": "Herakles and the Erymanthian Boar.",
+        "Mythological": "Herakles: divine Greek hero",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What type of vase is this?",
+          "answer": "AMPHORA, NECK"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-550 to -500"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this vase?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s the scene on the vase?",
+          "answer": "A: HERAKLES AND THE BOAR BETWEEN ATHENA AND HERMES | B: WARRIOR (?)"
+        }
+      ]
+    }
+  },
+  {
+    "id": 10747,
+    "image": "https://YOUR_IMAGE_HOST/images/D3C90715-7C3F-4C91-8B9B-DB0522CAA091_3_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "A: HERAKLES AND APOLLO, STRUGGLE FOR THE TRIPOD, DEER | B: DIONYSOS WITH KANTHAROS BETWEEN SATYR AND MAENAD, VINE"
+      },
+      "Additional Content": {
+        "Description": "Herakles carrying off the tripod, pursued by Apollon. Deer between them.",
+        "Mythological": "Apollon: god :: Herakles: divine Greek hero",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is this?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "AMPHORA, NECK"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-550 to -500"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this vase?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s painted on it?",
+          "answer": "A: HERAKLES AND APOLLO, STRUGGLE FOR THE TRIPOD, DEER | B: DIONYSOS WITH KANTHAROS BETWEEN SATYR AND MAENAD, VINE"
+        }
+      ]
+    }
+  },
+  {
+    "id": 10754,
+    "image": "https://YOUR_IMAGE_HOST/images/F6ADCD33-0404-4AA8-9799-07C2F0EECDEB_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "CHOUS",
+        "Date": "-450 to -400",
+        "Attribution": "",
+        "Decoration": "Body: BOY (AMULETS AROUND BODY) AND HARE"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Nessos: centaur",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "RED-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "CHOUS"
+        },
+        {
+          "field": "date",
+          "question": "Around what time was this made?",
+          "answer": "-450 to -400"
+        },
+        {
+          "field": "attribution",
+          "question": "Who is this attributed to?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s painted on the body?",
+          "answer": "Body: BOY (AMULETS AROUND BODY) AND HARE"
+        }
+      ]
+    }
+  },
+  {
+    "id": 10766,
+    "image": "https://YOUR_IMAGE_HOST/images/7611A8F4-0C0B-42C8-B3E9-87A075E7B097_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "A: FRONTAL CHARIOT | B: DIONYSOS WITH DRINKING HORN BETWEEN HERMES AND SATYR PLAYING PIPES"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Hermes: messenger of the gods",
+        "Findspot": "Italy",
+        "Artist": "manner of the Lysippides Painter: Attic vase painter(s)",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What type of vase is this?",
+          "answer": "AMPHORA, NECK"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-550 to -500"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this vase?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What scenes are painted on it?",
+          "answer": "A: FRONTAL CHARIOT | B: DIONYSOS WITH DRINKING HORN BETWEEN HERMES AND SATYR PLAYING PIPES"
+        }
+      ]
+    }
+  },
+  {
+    "id": 10774,
+    "image": "https://YOUR_IMAGE_HOST/images/2C23BCCA-816B-40A2-A227-E7C36D83B493_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "A: ATHENA MOUNTING CHARIOT, HERAKLES WITH TRIPOD (?) | B: DIONYSOS WITH SATYRS AND MAENAD (?)"
+      },
+      "Additional Content": {
+        "Description": "Athena in a chariot, young Herakles beyond it carrying a tripod, waving his club.",
+        "Mythological": "Herakles: divine Greek hero",
+        "Findspot": "Etruria",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is this?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the shape of this vase called?",
+          "answer": "AMPHORA, NECK"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-550 to -500"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s painted on it?",
+          "answer": "A: ATHENA MOUNTING CHARIOT, HERAKLES WITH TRIPOD (?) | B: DIONYSOS WITH SATYRS AND MAENAD (?)"
+        }
+      ]
+    }
+  },
+  {
+    "id": 10874,
+    "image": "https://YOUR_IMAGE_HOST/images/058C52C4-58E2-440F-9DA2-47B5234700C6_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "SOUTH ITALIAN, APULIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "KRATER, BELL",
+        "Date": "-400 to -300",
+        "Attribution": "ATTIC QUERY by UNKNOWN",
+        "Decoration": "A: APOLLO SEATED ON ALTAR, ARTEMIS IN PATTERNED SUIT, HERMES, YOUTH WITH SPEAR | B: DRAPED YOUTHS WITH STAFFS"
+      },
+      "Additional Content": {
+        "Description": "Links steht Artemis und blickt zu Apollon, der auf einem Altar (Basis, rechteckiger Block mit Blutspur, Deckplatte) sitzt und einen Lorbeerzweig und eine Schale hält. Rechts Hermes und ein Jüngling mit einem Speer.",
+        "Mythological": "Apollon: god :: Artemis: goddess :: Hermes: messenger of the gods :: Orestes: son of Agamemnon",
+        "Findspot": "",
+        "Artist": "Bendis Painter: Apulian vase painter",
+        "Dating": "380 - 365 BCE"
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "SOUTH ITALIAN, APULIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is this?",
+          "answer": "RED-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the shape of this vase called?",
+          "answer": "KRATER, BELL"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-400 to -300"
+        },
+        {
+          "field": "attribution",
+          "question": "Who’s this vase attributed to?",
+          "answer": "ATTIC QUERY by UNKNOWN"
+        },
+        {
+          "field": "decoration",
+          "question": "What’s depicted on the vase?",
+          "answer": "A: APOLLO SEATED ON ALTAR, ARTEMIS IN PATTERNED SUIT, HERMES, YOUTH WITH SPEAR | B: DRAPED YOUTHS WITH STAFFS"
+        }
+      ]
+    }
+  },
+  {
+    "id": 10879,
+    "image": "https://YOUR_IMAGE_HOST/images/4E64A4E9-E11D-4D66-90E8-5848B41084DB_3_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "KRATER, BELL",
+        "Date": "-400 to -300",
+        "Attribution": "",
+        "Decoration": "A: HERAKLES (?) SEATED BETWEEN WOMEN, ONE CARRYING BASKET, YOUTH WITH CLOTH LEANING ON STAFF, COLUMNS | B: DRAPED YOUTHS, ONE WITH STRIGIL"
+      },
+      "Additional Content": {
+        "Description": "Young Herakles, wreathed, with club, seated in a shrine. With two women, one of them with a phiale, and a youth bearing a club.",
+        "Mythological": "Herakles: divine Greek hero",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "RED-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "KRATER, BELL"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-400 to -300"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this vase?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s depicted on the vase?",
+          "answer": "A: HERAKLES (?) SEATED BETWEEN WOMEN, ONE CARRYING BASKET, YOUTH WITH CLOTH LEANING ON STAFF, COLUMNS | B: DRAPED YOUTHS, ONE WITH STRIGIL"
+        }
+      ]
+    }
+  },
+  {
+    "id": 10935,
+    "image": "https://YOUR_IMAGE_HOST/images/D815A1A4-C2F3-4BD9-9113-055B6FFC06F4_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "HYDRIA",
+        "Date": "-400 to -300",
+        "Attribution": "",
+        "Decoration": "Body: CULT (ELEUSIS ?), DEMETER SEATED, PERSEPHONE WITH TORCHES, DIONYSOS SEATED ON OMPHALOS WITH THYRSOS, WOMEN (MAENADS ?), ONE WITH TYMPANON, DRAPED MAN WITH STAFF (TRIPTOLEMOS ?)"
+      },
+      "Additional Content": {
+        "Description": "Eleusinische Gottheiten (Demeter sitzend, Kore mit Fackeln), auf einem Omphalos sitzender jugendlicher Dionysos mit Thyrsos. Der links hinter Demeter stehende Jüngling im bestickten Chiton, langem Mantel und Szepter wird Eumolpos, Eubouleus oder Triptolemos genannt.",
+        "Mythological": "Demeter: Greek goddess :: Dionysos: Greek god :: Kore: (Persephone) :: Persephone: daughter of Demeter",
+        "Findspot": "Capua",
+        "Artist": "Tyszkiewicz Painter: Attic vase painter",
+        "Dating": "375 - 350 BCE"
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is this?",
+          "answer": "RED-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "HYDRIA"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-400 to -300"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s painted on the vase?",
+          "answer": "Body: CULT (ELEUSIS ?), DEMETER SEATED, PERSEPHONE WITH TORCHES, DIONYSOS SEATED ON OMPHALOS WITH THYRSOS, WOMEN (MAENADS ?), ONE WITH TYMPANON, DRAPED MAN WITH STAFF (TRIPTOLEMOS ?)"
+        }
+      ]
+    }
+  },
+  {
+    "id": 10962,
+    "image": "https://YOUR_IMAGE_HOST/images/650D9897-47FB-4878-BA4A-4030FF167B7D_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "OLPE",
+        "Date": "-525 to -475",
+        "Attribution": "",
+        "Decoration": "Body: SATYR RIDING DEER"
+      },
+      "Additional Content": {
+        "Description": "Silen riding a doe.",
+        "Mythological": "Silenoi: satyr",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "OLPE"
+        },
+        {
+          "field": "date",
+          "question": "Around what time was this made?",
+          "answer": "-525 to -475"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this piece?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s depicted on the body?",
+          "answer": "Body: SATYR RIDING DEER"
+        }
+      ]
+    }
+  },
+  {
+    "id": 10971,
+    "image": "https://YOUR_IMAGE_HOST/images/F6CEE178-0408-428C-B097-CD5963C34E92_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, BELLY, TYPE B",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "A: WARRIOR BETWEEN DRAPED YOUTHS HOLDING SPEARS (DEVICE, LEG) | B: WOMAN BETWEEN WARRIORS (DEVICES, BOAR, PANTHER)"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Helene: cause of the Trojan war",
+        "Findspot": "Rhodes (Dodecanese)",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is this?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the shape of this vase called?",
+          "answer": "AMPHORA, BELLY, TYPE B"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-550 to -500"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s painted on it?",
+          "answer": "A: WARRIOR BETWEEN DRAPED YOUTHS HOLDING SPEARS (DEVICE, LEG) | B: WOMAN BETWEEN WARRIORS (DEVICES, BOAR, PANTHER)"
+        }
+      ]
+    }
+  },
+  {
+    "id": 10991,
+    "image": "https://YOUR_IMAGE_HOST/images/21E3BD78-EA9D-496B-807B-21ACCC6BD2C5_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "A: GIGANTOMACHY, DIONYSOS WITH HELMET AND GIANTS (SHIELD DEVICES, IVY WREATH, TRIPOD (?)) | B: YOUTH (APOLLO (?)) MOUNTING CHARIOT, WARRIOR"
+      },
+      "Additional Content": {
+        "Description": "Dionysos against a giant, another giant walking away.",
+        "Mythological": "Dionysos: Greek god :: Gigantes: giants",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "AMPHORA, NECK"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-550 to -500"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this vase?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s painted on the vase?",
+          "answer": "A: GIGANTOMACHY, DIONYSOS WITH HELMET AND GIANTS (SHIELD DEVICES, IVY WREATH, TRIPOD (?)) | B: YOUTH (APOLLO (?)) MOUNTING CHARIOT, WARRIOR"
+        }
+      ]
+    }
+  },
+  {
+    "id": 10993,
+    "image": "https://YOUR_IMAGE_HOST/images/EA0E4182-F1E7-48DA-8E7C-7CB710EE715E_5_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "A,B: GIGANTOMACHY, ATHENA AND GIANT FALLING (SHIELD DEVICES, IVY WREATH, TRIPOD)"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Gigantes: giants",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What type of vessel is this?",
+          "answer": "AMPHORA, NECK"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-550 to -500"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this piece?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s depicted on the vase?",
+          "answer": "A,B: GIGANTOMACHY, ATHENA AND GIANT FALLING (SHIELD DEVICES, IVY WREATH, TRIPOD)"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11043,
+    "image": "https://YOUR_IMAGE_HOST/images/56CCF0DE-FE56-4519-92E2-C30F693500EA_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "LEBES",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "A: PROCESSION OF WOMEN WITH BOXES ON HEADS | Stand: DOMESTIC, WOMEN SEATED, WOOL WORKING, KALATHOS, BIRD | Under handle: WINGED WOMAN (IRIS ?) AND HERMES"
+      },
+      "Additional Content": {
+        "Description": "Kυβέλη, νέος, νέα",
+        "Mythological": "Hermes: messenger of the gods :: Iris I: messenger of the gods :: Kybele: Anatolian goddess",
+        "Findspot": "Athens",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "LEBES"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-550 to -500"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this piece?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s depicted on the vase?",
+          "answer": "A: PROCESSION OF WOMEN WITH BOXES ON HEADS | Stand: DOMESTIC, WOMEN SEATED, WOOL WORKING, KALATHOS, BIRD | Under handle: WINGED WOMAN (IRIS ?) AND HERMES"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11081,
+    "image": "https://YOUR_IMAGE_HOST/images/DBA474A9-223C-4C37-AC95-F6E1C8A45F4F_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "KRATER, CALYX",
+        "Date": "-475 to -425",
+        "Attribution": "<em>Perhaps</em> DINOS P by KAHIL | <em>Perhaps</em> KLEOPHON P by KAHIL",
+        "Decoration": "A: HERAKLES AND BUSIRIS, ON ALTAR, BLACK YOUTH WITH SACRIFICIAL BASKET FLEEING, TABLE | B: KOMOS, YOUTHS, ONE WITH LYRE, ONE WITH STAFF"
+      },
+      "Additional Content": {
+        "Description": "Herakles (mit Löwenfell, Köcher und Bogen) attackiert den unbekleideten Bousiris, der auf einem Altar sitzt (Basis, rechteckiger Block, triglyphenartig verziertes Abschlussprofil, Volutenaufsatz). Mit der Linken packt Herakles Bousiris am Hals, in der Rechten hält er ein Messer (vielleicht das Opfermesser, alternativ ein kurzes Schwert), an Bousiris Brust. Links davon ein Aithiop, der auf seinem ausgestreckten Arm einen Opferkorb (kanoun) trägt. Am Boden ein umgeworfener Tisch.",
+        "Mythological": "Aithiopes: remote people :: Bousiris: king of Egypt :: Herakles: divine Greek hero",
+        "Findspot": "unknown",
+        "Artist": "",
+        "Dating": "460 BCE"
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "RED-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "KRATER, CALYX"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-475 to -425"
+        },
+        {
+          "field": "attribution",
+          "question": "Who might have made this?",
+          "answer": "<em>Perhaps</em> DINOS P by KAHIL | <em>Perhaps</em> KLEOPHON P by KAHIL"
+        },
+        {
+          "field": "decoration",
+          "question": "What’s depicted on the vase?",
+          "answer": "A: HERAKLES AND BUSIRIS, ON ALTAR, BLACK YOUTH WITH SACRIFICIAL BASKET FLEEING, TABLE | B: KOMOS, YOUTHS, ONE WITH LYRE, ONE WITH STAFF"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11106,
+    "image": "https://YOUR_IMAGE_HOST/images/16E6110C-B70E-4709-971B-7C5981050070_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "CUP LITTLE MASTER BAND",
+        "Date": "-575 to -525",
+        "Attribution": "",
+        "Decoration": "A: SACRIFICE, PROCESSION TO ALTAR, BULL, BOAR, RAM, MEN, MAN PLAYING PIPES, WARRIORS, HORSEMAN, WOMAN (ATHENA) | B: FIGHT, WARRIORS, ONE FALLEN, ARCHER"
+      },
+      "Additional Content": {
+        "Description": "A: Ganz rechts steht Athena, vor ihr eine Priesterin, die die Hand über einen brennenden Altar streckt (Quader, einseitiger Windschutz, Holzstoß). Dabei steht ein Mann mit Zweigen, der eine Prozession, bestehend aus einer Kanephoros mit geflochtem kanoun mit drei sehr spitzen, hohen Henkeln und 5 thallophoroi, die eine Kuh, ein Mutterschwein und ein Schaf halten, anführt.Zuordnung zu Festen: Panathenäen (Simon).B: Fight over a fallen warrior.",
+        "Mythological": "Athena: goddess",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": "560 - 550 BCE"
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used on this?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "CUP LITTLE MASTER BAND"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-575 to -525"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this piece?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What scenes are painted on it?",
+          "answer": "A: SACRIFICE, PROCESSION TO ALTAR, BULL, BOAR, RAM, MEN, MAN PLAYING PIPES, WARRIORS, HORSEMAN, WOMAN (ATHENA) | B: FIGHT, WARRIORS, ONE FALLEN, ARCHER"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11167,
+    "image": "https://YOUR_IMAGE_HOST/images/81146523-700A-4723-87A0-CF5AD9EAA858_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "LEBES",
+        "Date": "-450 to -400",
+        "Attribution": "<em>Manner of</em> WASHING P by JOHANSEN",
+        "Decoration": "A: WINGED WOMAN (NIKE ?) FLYING, HOLDING SPRIG, BETWEEN FLORALS AND COLUMNS | B: WINGED YOUTH (EROS ?) FLYING, HOLDING SPRIG, BETWEEN FLORALS AND COLUMNS"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Eros: personification",
+        "Findspot": "Bari",
+        "Artist": "Washing Painter: Attic vase painter",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "RED-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "LEBES"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-450 to -400"
+        },
+        {
+          "field": "attribution",
+          "question": "Who is this vase attributed to?",
+          "answer": "<em>Manner of</em> WASHING P by JOHANSEN"
+        },
+        {
+          "field": "decoration",
+          "question": "What’s depicted on the vase?",
+          "answer": "A: WINGED WOMAN (NIKE ?) FLYING, HOLDING SPRIG, BETWEEN FLORALS AND COLUMNS | B: WINGED YOUTH (EROS ?) FLYING, HOLDING SPRIG, BETWEEN FLORALS AND COLUMNS"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11258,
+    "image": "https://YOUR_IMAGE_HOST/images/C4D5DEDA-F9E0-499B-95C0-EA34F67E29BC_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "LEKYTHOS",
+        "Date": "-525 to -475",
+        "Attribution": "ARMING LEKYTHOI, GROUP OF THE by HASPELS | PHANYLLIS GROUP by HASPELS",
+        "Decoration": "Body: DIONYSOS SEATED ON STOOL WITH DRINKING HORN, SATYRS AND MAENADS DANCING"
+      },
+      "Additional Content": {
+        "Description": "Διόνυσος, Σάτυροι και Mαινάδες.",
+        "Mythological": "Dionysos: Greek god",
+        "Findspot": "Ritsona (Boeotia)",
+        "Artist": "Phanyllis Group B: Attic vase painters",
+        "Dating": "530 BCE"
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is this?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What kind of vase is this?",
+          "answer": "LEKYTHOS"
+        },
+        {
+          "field": "date",
+          "question": "When was this made?",
+          "answer": "-525 to -475"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this?",
+          "answer": "ARMING LEKYTHOI, GROUP OF THE by HASPELS | PHANYLLIS GROUP by HASPELS"
+        },
+        {
+          "field": "decoration",
+          "question": "What’s painted on it?",
+          "answer": "Body: DIONYSOS SEATED ON STOOL WITH DRINKING HORN, SATYRS AND MAENADS DANCING"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11267,
+    "image": "https://YOUR_IMAGE_HOST/images/25422A66-5267-424E-8B6E-21730D605865_3_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "HYDRIA",
+        "Date": "-525 to -475",
+        "Attribution": "",
+        "Decoration": "Body: WOMEN AT FOUNTAIN | Predella: ANIMALS, GOATS, PANTHERS | Shoulder: ATHENA (?) DRIVING CHARIOT BETWEEN WARRIORS, FIGHTING (DEVICES, SNAKE, DISCS)"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Gigantes: giants",
+        "Findspot": "Kyme, Cumae",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "HYDRIA"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-525 to -475"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this vase?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What scenes are painted on it?",
+          "answer": "Body: WOMEN AT FOUNTAIN | Predella: ANIMALS, GOATS, PANTHERS | Shoulder: ATHENA (?) DRIVING CHARIOT BETWEEN WARRIORS, FIGHTING (DEVICES, SNAKE, DISCS)"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11283,
+    "image": "https://YOUR_IMAGE_HOST/images/2767C729-022E-442A-B7AC-94A746C31D0C_3_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-475 to -425",
+        "Attribution": "",
+        "Decoration": "A: EROS WITH OINOCHOE AND PHIALE | B: DRAPED YOUTH WITH STAFF"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Eros: personification",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is this?",
+          "answer": "RED-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What type of vase is this?",
+          "answer": "AMPHORA, NECK"
+        },
+        {
+          "field": "date",
+          "question": "When was this made?",
+          "answer": "-475 to -425"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s painted on it?",
+          "answer": "A: EROS WITH OINOCHOE AND PHIALE | B: DRAPED YOUTH WITH STAFF"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11291,
+    "image": "https://YOUR_IMAGE_HOST/images/35B63F05-1B6F-42CC-94DA-11A6EA5C3B18_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "PELIKE",
+        "Date": "-425 to -375",
+        "Attribution": "",
+        "Decoration": "A: EROS CROWNING YOUTH IN PATTERNED SUIT AND PERSIAN CAP (PARIS ?), WOMEN, ONE SEATED NAKED, (HELEN ?), ONE WITH OINOCHOE AND PHIALE, YOUTH | B: DRAPED YOUTHS"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Helene: cause of the Trojan war",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is this?",
+          "answer": "RED-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "PELIKE"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-425 to -375"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s painted on it?",
+          "answer": "A: EROS CROWNING YOUTH IN PATTERNED SUIT AND PERSIAN CAP (PARIS ?), WOMEN, ONE SEATED NAKED, (HELEN ?), ONE WITH OINOCHOE AND PHIALE, YOUTH | B: DRAPED YOUTHS"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11294,
+    "image": "https://YOUR_IMAGE_HOST/images/2245A931-4711-4DD3-88EF-9047A35262A1_4_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "HYDRIA",
+        "Date": "-575 to -525",
+        "Attribution": "",
+        "Decoration": "Body: WEDDED PAIR (PELEUS AND THETIS ?) IN CHARIOT, WOMEN | Shoulder: SACRIFICE, PROCESSION OF DRAPED FIGURES, MEN HOLDING WREATHS, LEADING BULL, BOY WITH SPRIG, ALTAR, MAN PLAYING PIPES"
+      },
+      "Additional Content": {
+        "Description": "Epaule (sacrifice): autel avec flammes; procession de figures habillées: homme et auletes, garçon avec rameaux:; femme avec couronne; jeune homme portant couronne et jeune homme conduisant un taureau lié à une corde. Hoher rechteckiger Altar, gemauert aus rautenförmig angeordneten Quadern; darauf ein auf dünnen Stangen ruhender Baldachin (kegelförmiges Schutzdach mit Knauf). Dabei handelt es sich um ein abnehmbares Dach aus Metall oder Stein, das in der Regel kleiner ist, als der Altar. Auf die Deckplatte aufgesetzt schützt es die Opfergaben im Focus (Für real erhaltene Altäre bezeugen Einlasslöcher sowie Inschriften die Existenz solcher Baldachinaufsätze).",
+        "Mythological": "",
+        "Findspot": "Etruria",
+        "Artist": "Affecter: Attic vase painter",
+        "Dating": "550 BCE"
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "HYDRIA"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-575 to -525"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this vase?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s depicted on the vase?",
+          "answer": "Body: WEDDED PAIR (PELEUS AND THETIS ?) IN CHARIOT, WOMEN | Shoulder: SACRIFICE, PROCESSION OF DRAPED FIGURES, MEN HOLDING WREATHS, LEADING BULL, BOY WITH SPRIG, ALTAR, MAN PLAYING PIPES"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11344,
+    "image": "https://YOUR_IMAGE_HOST/images/F0FD6BB3-59DF-46B3-91FA-FDA738E8E4C5_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "LEKYTHOS",
+        "Date": "-525 to -475",
+        "Attribution": "GELA P by HASPELS",
+        "Decoration": "Body: HERAKLES AND APOLLO, THE STRUGGLE FOR THE TRIPOD, ALTAR DORIC COLUMN, WARRIOR (IOLAOS ?)"
+      },
+      "Additional Content": {
+        "Description": "Herakles and Apollon struggling for the tripod. Flaming altar between the contenders. To the right of Herakles is Iolaos or Athena. To the left of Apollon is a column.",
+        "Mythological": "Herakles: divine Greek hero",
+        "Findspot": "",
+        "Artist": "Gela Painter: Attic vase painter",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is this?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "LEKYTHOS"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-525 to -475"
+        },
+        {
+          "field": "attribution",
+          "question": "Who’s this vase attributed to?",
+          "answer": "GELA P by HASPELS"
+        },
+        {
+          "field": "decoration",
+          "question": "What’s painted on the body?",
+          "answer": "Body: HERAKLES AND APOLLO, THE STRUGGLE FOR THE TRIPOD, ALTAR DORIC COLUMN, WARRIOR (IOLAOS ?)"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11354,
+    "image": "https://YOUR_IMAGE_HOST/images/CA718D2A-A58B-45B8-A85D-1177E1145B55_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "OLPE",
+        "Date": "-525 to -475",
+        "Attribution": "",
+        "Decoration": "AMAZONOMACHY, WARRIOR WITH BOEOTIAN SHIELD FIGHTING AMAZON, DEVICE BUKRANION"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Amazones: warrior women",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is this?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "OLPE"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-525 to -475"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s the scene on the vase?",
+          "answer": "AMAZONOMACHY, WARRIOR WITH BOEOTIAN SHIELD FIGHTING AMAZON, DEVICE BUKRANION"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11522,
+    "image": "https://YOUR_IMAGE_HOST/images/937ACCF0-0A3C-490D-8F81-4EB91EF2BD18_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "HYDRIA",
+        "Date": "-450 to -400",
+        "Attribution": "",
+        "Decoration": "Body: WOMAN SEATED ON BED OR KLINE (DANAE ?), EROS WITH FILLET FLYING TOWARDS HER"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Danae: mother of Perseus",
+        "Findspot": "Greece",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is this?",
+          "answer": "RED-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "HYDRIA"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-450 to -400"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s depicted on the body?",
+          "answer": "Body: WOMAN SEATED ON BED OR KLINE (DANAE ?), EROS WITH FILLET FLYING TOWARDS HER"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11677,
+    "image": "https://YOUR_IMAGE_HOST/images/807CE100-6F52-4A0A-86B6-922C5A973AEF_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "HYDRIA",
+        "Date": "-400 to -300",
+        "Attribution": "",
+        "Decoration": "Body: POSEIDON OR OKEANOS ON HIPPALEKTRYON, DRAPED YOUTH (PELOPS ?)"
+      },
+      "Additional Content": {
+        "Description": "Poseidon riding a hippocamp and greeting Theseus.",
+        "Mythological": "Pelops: eponym :: Poseidon: god :: Theseus: Athenian hero",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is this?",
+          "answer": "RED-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What kind of vase is this?",
+          "answer": "HYDRIA"
+        },
+        {
+          "field": "date",
+          "question": "When was this made?",
+          "answer": "-400 to -300"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What's the scene on the vase?",
+          "answer": "Body: POSEIDON OR OKEANOS ON HIPPALEKTRYON, DRAPED YOUTH (PELOPS ?)"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11793,
+    "image": "https://YOUR_IMAGE_HOST/images/7AF246AA-023E-4593-8194-6CDB7103CE87_6_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "A: WEDDED PAIR IN CHARIOT (?) (HERA AND ZEUS ?), GODDESSES, HERMES, APOLLO (?) | B: DIONYSOS WITH DRINKING HORN BETWEEN SATYRS AND WOMAN (ARIADNE ?)"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Hera: wife of Zeus",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used on this?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "AMPHORA, NECK"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-550 to -500"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this vase?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s depicted on the vase?",
+          "answer": "A: WEDDED PAIR IN CHARIOT (?) (HERA AND ZEUS ?), GODDESSES, HERMES, APOLLO (?) | B: DIONYSOS WITH DRINKING HORN BETWEEN SATYRS AND WOMAN (ARIADNE ?)"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11824,
+    "image": "https://YOUR_IMAGE_HOST/images/4A09D9C8-6ECB-41D1-85F6-5192FF21418E_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, BELLY, TYPE B",
+        "Date": "-575 to -525",
+        "Attribution": "<em>Compare</em> ANDOKIDES P by BEAZLEY | <em>Compare</em> BATEMAN P by BEAZLEY | <em>Perhaps</em> BATEMAN GROUP by BEAZLEY",
+        "Decoration": "A: DIONYSOS SEATED WITH DRINKING HORN BETWEEN SATYRS, VINE | B: WARRIORS FIGHTING BETWEEN WOMEN"
+      },
+      "Additional Content": {
+        "Description": "Dionysos bearded and seated, around him dancing silens.",
+        "Mythological": "Dionysos: Greek god",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "AMPHORA, BELLY, TYPE B"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-575 to -525"
+        },
+        {
+          "field": "attribution",
+          "question": "Who might have made this?",
+          "answer": "<em>Compare</em> ANDOKIDES P by BEAZLEY | <em>Compare</em> BATEMAN P by BEAZLEY | <em>Perhaps</em> BATEMAN GROUP by BEAZLEY"
+        },
+        {
+          "field": "decoration",
+          "question": "What’s painted on the vase?",
+          "answer": "A: DIONYSOS SEATED WITH DRINKING HORN BETWEEN SATYRS, VINE | B: WARRIORS FIGHTING BETWEEN WOMEN"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11916,
+    "image": "https://YOUR_IMAGE_HOST/images/32A2887F-5D7E-4383-8E89-12DBE54D5DF9_6_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, BELLY, TYPE B",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "A: BIRTH OF ATHENA (?), ZEUS SEATED WITH SCEPTRE, LION UNDER CHAIR, HERMES BETWEEN YOUTHS WITH SPEARS, SOME DRAPED, SOME IN CHITONISKOI | B: HERAKLES AND GERYON (ATTACKING WITH SWORD), BODY OF EURYTION, ATHENA, BIRD (SHIELD DEVICE, ROSETTE)"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Eurytion II: herdsman :: Hermes: messenger of the gods",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used on this vase?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "AMPHORA, BELLY, TYPE B"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-550 to -500"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this vase?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What scenes are painted on it?",
+          "answer": "A: BIRTH OF ATHENA (?), ZEUS SEATED WITH SCEPTRE, LION UNDER CHAIR, HERMES BETWEEN YOUTHS WITH SPEARS, SOME DRAPED, SOME IN CHITONISKOI | B: HERAKLES AND GERYON (ATTACKING WITH SWORD), BODY OF EURYTION, ATHENA, BIRD (SHIELD DEVICE, ROSETTE)"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11928,
+    "image": "https://YOUR_IMAGE_HOST/images/04CA48DA-5EEE-4EB7-9A77-86963CDDF908_6_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "A: THESEUS (IN NEBRIS) AND MINOTAUR BETWEEN WOMAN AND DRAPED YOUTH EACH HOLDING SCEPTRE | B: WARRIORS DEPARTING, WARRIOR (SHIELD DEVICE, STOOL) AND ARCHERS, OLD MAN"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Ariadne: daughter of Minos",
+        "Findspot": "Vulci",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used on this?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the shape of this vase called?",
+          "answer": "AMPHORA, NECK"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-550 to -500"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this vase?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s depicted on the vase?",
+          "answer": "A: THESEUS (IN NEBRIS) AND MINOTAUR BETWEEN WOMAN AND DRAPED YOUTH EACH HOLDING SCEPTRE | B: WARRIORS DEPARTING, WARRIOR (SHIELD DEVICE, STOOL) AND ARCHERS, OLD MAN"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11930,
+    "image": "https://YOUR_IMAGE_HOST/images/9EA2DADD-A0F3-4F68-A923-DFCF903BF421_3_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "A: INTRODUCTION TO OLYMPOS, HERAKLES AND ATHENA IN CHARIOT, APOLLO PLAYING KITHARA, HERMES, GODDESS (HEBE ?), DIONYSOS, YOUTH | B: HERMES, NYMPHS (?)"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Hermes: messenger of the gods",
+        "Findspot": "Vulci",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "AMPHORA, NECK"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-550 to -500"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this vase?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s painted on the vase?",
+          "answer": "A: INTRODUCTION TO OLYMPOS, HERAKLES AND ATHENA IN CHARIOT, APOLLO PLAYING KITHARA, HERMES, GODDESS (HEBE ?), DIONYSOS, YOUTH | B: HERMES, NYMPHS (?)"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11933,
+    "image": "https://YOUR_IMAGE_HOST/images/B67862B0-B6E4-4E2A-BAD3-779EC9987B71_3_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, BELLY, TYPE B",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "A: GODDESS (DEMETER ?) ON CHARIOT, HERMES, APOLLO PLAYING KITHARA, YOUTH, DEER | B: DIONYSOS WITH KANTHAROS AND VINE, MAENADS, SATYRS"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Hermes: messenger of the gods",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is this?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "AMPHORA, BELLY, TYPE B"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-550 to -500"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s painted on it?",
+          "answer": "A: GODDESS (DEMETER ?) ON CHARIOT, HERMES, APOLLO PLAYING KITHARA, YOUTH, DEER | B: DIONYSOS WITH KANTHAROS AND VINE, MAENADS, SATYRS"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11934,
+    "image": "https://YOUR_IMAGE_HOST/images/ECEB832D-8724-4207-9582-BF4A138223D1_5_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, BELLY, TYPE B",
+        "Date": "-525 to -475",
+        "Attribution": "",
+        "Decoration": "A: DIONYSOS WITH VINE AND KANTHAROS BETWEEN KERYKEIA | B: DIONYSOS WITH DRINKING HORN AND VINE SPRIG"
+      },
+      "Additional Content": {
+        "Description": "Two long kerykeia fram Dionysos who holds a branch of vine.",
+        "Mythological": "Kerykeion: heralds baton",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "AMPHORA, BELLY, TYPE B"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-525 to -475"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this vase?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s painted on the vase?",
+          "answer": "A: DIONYSOS WITH VINE AND KANTHAROS BETWEEN KERYKEIA | B: DIONYSOS WITH DRINKING HORN AND VINE SPRIG"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11936,
+    "image": "https://YOUR_IMAGE_HOST/images/1984B77E-4850-4EF1-AA57-C2F16DC4BD81_3_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "KRATER, COLUMN",
+        "Date": "-500 to -450",
+        "Attribution": "EUCHARIDES P | EUCHARIDES P by UNKNOWN",
+        "Decoration": "A: HERMES KILLING ARGOS | B: DRAPED YOUTH WITH STAFF"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Hermes: messenger of the gods :: Io I: priestess",
+        "Findspot": "Capua",
+        "Artist": "Eucharides Painter: Attic vase painter",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "RED-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the shape of this vase called?",
+          "answer": "KRATER, COLUMN"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-500 to -450"
+        },
+        {
+          "field": "attribution",
+          "question": "Who’s this vase attributed to?",
+          "answer": "EUCHARIDES P | EUCHARIDES P by UNKNOWN"
+        },
+        {
+          "field": "decoration",
+          "question": "What scenes are painted on it?",
+          "answer": "A: HERMES KILLING ARGOS | B: DRAPED YOUTH WITH STAFF"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11957,
+    "image": "https://YOUR_IMAGE_HOST/images/3820B1DC-E994-481B-A681-A9400C00A12E_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "A: GIGANTOMACHY, ATHENA IN CHARIOT, FALLEN GIANT | B: WARRIOR AND ARCHER DEPARTING, OLD MAN, WOMAN, DOG, SHIELD DEVICE, LEG"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Gigantes: giants",
+        "Findspot": "Vulci",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "AMPHORA, NECK"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-550 to -500"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this vase?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s depicted on the vase?",
+          "answer": "A: GIGANTOMACHY, ATHENA IN CHARIOT, FALLEN GIANT | B: WARRIOR AND ARCHER DEPARTING, OLD MAN, WOMAN, DOG, SHIELD DEVICE, LEG"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11963,
+    "image": "https://YOUR_IMAGE_HOST/images/166DDDDF-A7D0-474D-8565-8C0D75A34C69_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "A: HERAKLES BATHING AT FOUNTAIN (ROCK WITH LION HEAD SPOUT), HERMES, BOW, CLUB, AND QUIVER | B: MAENADS, VINE, DEER"
+      },
+      "Additional Content": {
+        "Description": "Herakles, nude, bathes in water flowing from a lion-head spout in a rock. Before him his dress, quiver, bow and club. Behind the rock is Hermes, apparently espying him.",
+        "Mythological": "Herakles: divine Greek hero :: Hermes: messenger of the gods",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is this?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the shape of this vase called?",
+          "answer": "AMPHORA, NECK"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-550 to -500"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s painted on it?",
+          "answer": "A: HERAKLES BATHING AT FOUNTAIN (ROCK WITH LION HEAD SPOUT), HERMES, BOW, CLUB, AND QUIVER | B: MAENADS, VINE, DEER"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11966,
+    "image": "https://YOUR_IMAGE_HOST/images/732E5980-C4D7-4636-BB8A-83C384A73EDE_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "CHOUS",
+        "Date": "-425 to -375",
+        "Attribution": "",
+        "Decoration": "Body: KOMOS, YOUTHS, ONE CARRYING BOX, TORCH AND OINOCHOE"
+      },
+      "Additional Content": {
+        "Description": "Bildfeld: Komos. Junger Mann und Knabe mit Fackel und bekränztem Ch.-> ID 54042",
+        "Mythological": "",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": "410 BCE"
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is this?",
+          "answer": "RED-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "CHOUS"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-425 to -375"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s painted on the body?",
+          "answer": "Body: KOMOS, YOUTHS, ONE CARRYING BOX, TORCH AND OINOCHOE"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11967,
+    "image": "https://YOUR_IMAGE_HOST/images/18F22DC1-00D3-43AA-88DC-5B27C11FD9D9_3_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "A: AMAZONOMACHY, WARRIOR AND AMAZON ON HORSEBACK FIGHTING OVER FALLEN AMAZON (SHIELD DEVICE, BULL HEAD) | B: AMAZONOMACHY, WARRIOR AND AMAZON ON HORSEBACK FIGHTING OVER FALLEN WARRIOR, BOEOTIAN SHIELD, DEVICE, DISCS"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Amazones: warrior women",
+        "Findspot": "Vulci",
+        "Artist": "",
+        "Dating": "540 BCE"
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is this?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the shape of this vase called?",
+          "answer": "AMPHORA, NECK"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-550 to -500"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s painted on it?",
+          "answer": "A: AMAZONOMACHY, WARRIOR AND AMAZON ON HORSEBACK FIGHTING OVER FALLEN AMAZON (SHIELD DEVICE, BULL HEAD) | B: AMAZONOMACHY, WARRIOR AND AMAZON ON HORSEBACK FIGHTING OVER FALLEN WARRIOR, BOEOTIAN SHIELD, DEVICE, DISCS"
+        }
+      ]
+    }
+  },
+  {
+    "id": 12058,
+    "image": "https://YOUR_IMAGE_HOST/images/AF5A6893-4B2E-4CD1-B4DA-AEF00B176D20_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-525 to -475",
+        "Attribution": "",
+        "Decoration": "A: HERAKLES AND PHOLOS AT PITHOS | B: WARRIOR DEPARTING (WARRIOR BETWEEN OLD MEN WITH STAFFS, SHIELD DEVICE, CHARIOT BOX)"
+      },
+      "Additional Content": {
+        "Description": "Herakles ladling wine from the barrel. Pholos.",
+        "Mythological": "Kentauroi und Kentaurides: hybrid creature",
+        "Findspot": "Attica",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used on this vase?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "AMPHORA, NECK"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-525 to -475"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this vase?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s depicted on the vase?",
+          "answer": "A: HERAKLES AND PHOLOS AT PITHOS | B: WARRIOR DEPARTING (WARRIOR BETWEEN OLD MEN WITH STAFFS, SHIELD DEVICE, CHARIOT BOX)"
+        }
+      ]
+    }
+  },
+  {
+    "id": 12083,
+    "image": "https://YOUR_IMAGE_HOST/images/F9866DA2-8C81-4176-9482-504B28C726C1_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, BELLY, TYPE B",
+        "Date": "-550 to -500",
+        "Attribution": "<em>Compare</em> BRUSSELS R 309, GROUP OF by BEAZLEY",
+        "Decoration": "A: DIONYSOS WITH DRINKING HORN BETWEEN HERMES AND WOMAN | B: AMAZONOMACHY, WARRIORS AND AMAZON"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Amazones: warrior women",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": "510 - 500 BCE"
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used on this?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "AMPHORA, BELLY, TYPE B"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-550 to -500"
+        },
+        {
+          "field": "attribution",
+          "question": "Who is this vase attributed to?",
+          "answer": "<em>Compare</em> BRUSSELS R 309, GROUP OF by BEAZLEY"
+        },
+        {
+          "field": "decoration",
+          "question": "What’s depicted on the vase?",
+          "answer": "A: DIONYSOS WITH DRINKING HORN BETWEEN HERMES AND WOMAN | B: AMAZONOMACHY, WARRIORS AND AMAZON"
+        }
+      ]
+    }
+  },
+  {
+    "id": 12086,
+    "image": "https://YOUR_IMAGE_HOST/images/BBF90FD8-C9AB-4D94-A389-9BF2EB69E150_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "LEKYTHOS",
+        "Date": "-475 to -425",
+        "Attribution": "",
+        "Decoration": "Body: WOMAN WITH PHIALE AND OINOCHOE AND YOUTH IN PETASOS AND CHLAMYS WITH STAFF AT STELE WITH FILLET"
+      },
+      "Additional Content": {
+        "Description": "Mittig befindet sich eine Grabstele um die Tänien gebunden sind. Links steht eine Frau mit Kanne in der Linken und Phiale in der ausgestreckten Rechten. Rechts steht ein Wanderer, an Hut und Stab zu erkennen.",
+        "Mythological": "",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is this?",
+          "answer": "RED-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "LEKYTHOS"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-475 to -425"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s painted on the body?",
+          "answer": "Body: WOMAN WITH PHIALE AND OINOCHOE AND YOUTH IN PETASOS AND CHLAMYS WITH STAFF AT STELE WITH FILLET"
+        }
+      ]
+    }
+  },
+  {
+    "id": 12140,
+    "image": "https://YOUR_IMAGE_HOST/images/8AD9E601-6C24-488F-8D11-93C672AA9238_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "HYDRIA",
+        "Date": "-450 to -400",
+        "Attribution": "",
+        "Decoration": "Body: WOMAN PURSUING MAN IN CHLAMYS, PETASOS AND BOOTS"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Eos: Greek goddess",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "RED-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What type of vessel is this?",
+          "answer": "HYDRIA"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-450 to -400"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this piece?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s the scene on the body?",
+          "answer": "Body: WOMAN PURSUING MAN IN CHLAMYS, PETASOS AND BOOTS"
+        }
+      ]
+    }
+  },
+  {
+    "id": 12145,
+    "image": "https://YOUR_IMAGE_HOST/images/A5D2857C-9FC9-4BFE-8453-31F7DCEB8E5C_4_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "OLPE",
+        "Date": "-525 to -475",
+        "Attribution": "",
+        "Decoration": "Body: APOLLO PLAYING KITHARA BETWEEN ARTEMIS AND LETO, DEER"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is this?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "OLPE"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-525 to -475"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s painted on the body?",
+          "answer": "Body: APOLLO PLAYING KITHARA BETWEEN ARTEMIS AND LETO, DEER"
+        }
+      ]
+    }
+  },
+  {
+    "id": 12336,
+    "image": "https://YOUR_IMAGE_HOST/images/67C844AA-DA2C-4443-8005-FADDDFE375F3_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "KRATER, CALYX",
+        "Date": "-400 to -300",
+        "Attribution": "KERCH by GREIFENHAGEN",
+        "Decoration": "A: EROS ON PANTHER | B: WOMAN (MAENAD) WITH TYMPANON DANCING, COLUMN"
+      },
+      "Additional Content": {
+        "Description": "Bellerophon stretches out his hand to a man with sceptre holding a letter. Bellerophon and Iobates or Bellerophon and Proitos.",
+        "Mythological": "Proitos: king of Tiryns",
+        "Findspot": "",
+        "Artist": "Hearst Painter: Apulian vase painter",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "RED-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "KRATER, CALYX"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-400 to -300"
+        },
+        {
+          "field": "attribution",
+          "question": "Who is this vase attributed to?",
+          "answer": "KERCH by GREIFENHAGEN"
+        },
+        {
+          "field": "decoration",
+          "question": "What scenes are painted on it?",
+          "answer": "A: EROS ON PANTHER | B: WOMAN (MAENAD) WITH TYMPANON DANCING, COLUMN"
+        }
+      ]
+    }
+  },
+  {
+    "id": 12383,
+    "image": "https://YOUR_IMAGE_HOST/images/3973877B-650B-4834-8E08-6C671C12B0BA_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "LEKYTHOS",
+        "Date": "-500 to -450",
+        "Attribution": "BELDAM P by HASPELS",
+        "Decoration": "Body: CULT, SACRIFICE, PROCESSION, DRAPED YOUTH WITH TRUMPET, WOMEN, ONE WITH INCENSE BURNER, ONE WITH SACRIFICIAL BASKET, DRAPED FIGURE WITH THYRSOS, ANOTHER LEADING BULL"
+      },
+      "Additional Content": {
+        "Description": "Procession of four figures: man playing the salpinx (trumpeter), kanephoros, man carrying a thymiaterion, and a man leading a bull, which is decorated with stemmata. Zuordnung zu Festen: Dionysia (?).",
+        "Mythological": "",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": "500 - 475 BCE"
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "LEKYTHOS"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-500 to -450"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this piece?",
+          "answer": "BELDAM P by HASPELS"
+        },
+        {
+          "field": "decoration",
+          "question": "What’s depicted on the vase?",
+          "answer": "Body: CULT, SACRIFICE, PROCESSION, DRAPED YOUTH WITH TRUMPET, WOMEN, ONE WITH INCENSE BURNER, ONE WITH SACRIFICIAL BASKET, DRAPED FIGURE WITH THYRSOS, ANOTHER LEADING BULL"
+        }
+      ]
+    }
+  },
+  {
+    "id": 12446,
+    "image": "https://YOUR_IMAGE_HOST/images/D8BC2813-3C49-4570-A888-18343BE4D1D2_3_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, BELLY, TYPE A",
+        "Date": "-550 to -500",
+        "Attribution": "<em>Manner of</em> LYSIPPIDES P by HAFNER",
+        "Decoration": "A: BIRTH OF ATHENA (?), ZEUS SEATED BETWEEN EILEITHYIAI, HERMES | B: DIONYSOS WITH IVY AND WOMAN (ARIADNE ?) BETWEEN SATYRS"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Athena: goddess",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is this?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What type of vase is this?",
+          "answer": "AMPHORA, BELLY, TYPE A"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-550 to -500"
+        },
+        {
+          "field": "attribution",
+          "question": "Who is this vase attributed to?",
+          "answer": "<em>Manner of</em> LYSIPPIDES P by HAFNER"
+        },
+        {
+          "field": "decoration",
+          "question": "What scenes are painted on it?",
+          "answer": "A: BIRTH OF ATHENA (?), ZEUS SEATED BETWEEN EILEITHYIAI, HERMES | B: DIONYSOS WITH IVY AND WOMAN (ARIADNE ?) BETWEEN SATYRS"
+        }
+      ]
+    }
+  },
+  {
+    "id": 12477,
+    "image": "https://YOUR_IMAGE_HOST/images/CA8CBE89-FED8-4DFF-B254-6E5B3A1F3F5E_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, BELLY, TYPE B",
+        "Date": "-525 to -475",
+        "Attribution": "<em>Circle of</em> LYSIPPIDES P by UNKNOWN",
+        "Decoration": "A: AMAZONOMACHY, HERAKLES AND AMAZONS, ONE FALLEN (ANDROMACHE ?), (SHIELD DEVICE, BIRD) | B: APOLLO PLAYING KITHARA, DIONYSOS HOLDING KANTHAROS, ATHENA (SHIELD DEVICE, DRINKING HORN), HERMES"
+      },
+      "Additional Content": {
+        "Description": "Dionysos with Athena, to the left Apollo with cithara, to the right Hermes.",
+        "Mythological": "Dionysos: Greek god :: Herakles: divine Greek hero :: Amazones: warrior women :: Athena: goddess :: Apollon: god :: Hermes: messenger of the gods",
+        "Findspot": "Agrigento",
+        "Artist": "manner of the Lysippides Painter: Attic vase painter(s)",
+        "Dating": "530 BCE"
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "AMPHORA, BELLY, TYPE B"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-525 to -475"
+        },
+        {
+          "field": "attribution",
+          "question": "Who’s this attributed to?",
+          "answer": "<em>Circle of</em> LYSIPPIDES P by UNKNOWN"
+        },
+        {
+          "field": "decoration",
+          "question": "What’s depicted on the vase?",
+          "answer": "A: AMAZONOMACHY, HERAKLES AND AMAZONS, ONE FALLEN (ANDROMACHE ?), (SHIELD DEVICE, BIRD) | B: APOLLO PLAYING KITHARA, DIONYSOS HOLDING KANTHAROS, ATHENA (SHIELD DEVICE, DRINKING HORN), HERMES"
+        }
+      ]
+    }
+  },
+  {
+    "id": 12507,
+    "image": "https://YOUR_IMAGE_HOST/images/D981707B-3846-4250-8C5A-C25A6B5DFE9B_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "CUP LITTLE MASTER LIP",
+        "Date": "-575 to -525",
+        "Attribution": "XENOKLES by UNKNOWN",
+        "Decoration": "A1: CENTAURS FIGHTING | AB2: INSCRIPTION BETWEEN PALMETTES | B1: COCKS FIGHTING | I: WINGED POTNIA WITH LIONS (ARTEMIS ?)"
+      },
+      "Additional Content": {
+        "Description": "I: Winged Potnia with two lions.",
+        "Mythological": "Potnia: title",
+        "Findspot": "Capodimonte",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "CUP LITTLE MASTER LIP"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-575 to -525"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this?",
+          "answer": "XENOKLES by UNKNOWN"
+        },
+        {
+          "field": "decoration",
+          "question": "What scenes are painted on it?",
+          "answer": "A1: CENTAURS FIGHTING | AB2: INSCRIPTION BETWEEN PALMETTES | B1: COCKS FIGHTING | I: WINGED POTNIA WITH LIONS (ARTEMIS ?)"
+        }
+      ]
+    }
+  },
+  {
+    "id": 12509,
+    "image": "https://YOUR_IMAGE_HOST/images/7688A5D4-5F0F-4A82-B6FA-3D0D5F266CDC_12_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-525 to -475",
+        "Attribution": "",
+        "Decoration": "A: CHARIOT, WARRIOR, MAN IN PATTERNED SUIT RUNNING | B: WARRIORS DEPARTING (WARRIORS, OLD MAN WITH STAFF SEATED ON STOOL, YOUTH WITH SPEAR)"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Nessos: centaur",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "AMPHORA, NECK"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-525 to -475"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this vase?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What scenes are painted on it?",
+          "answer": "A: CHARIOT, WARRIOR, MAN IN PATTERNED SUIT RUNNING | B: WARRIORS DEPARTING (WARRIORS, OLD MAN WITH STAFF SEATED ON STOOL, YOUTH WITH SPEAR)"
+        }
+      ]
+    }
+  },
+  {
+    "id": 12552,
+    "image": "https://YOUR_IMAGE_HOST/images/4F00E0EE-B24A-4B92-BEC7-0CA01F62D95F_6_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-525 to -475",
+        "Attribution": "",
+        "Decoration": "A: APOLLO PLAYING KITHARA, DEER, BETWEEN LETO (?) AND ARTEMIS (?) OR MUSES | B: DIONYSOS WITH KANTHAROS AND GRAPE VINE BETWEEN MAENADS"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Artemis: goddess",
+        "Findspot": "Tarquinia, Corneto",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the shape of this vase called?",
+          "answer": "AMPHORA, NECK"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-525 to -475"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this vase?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s painted on the vase?",
+          "answer": "A: APOLLO PLAYING KITHARA, DEER, BETWEEN LETO (?) AND ARTEMIS (?) OR MUSES | B: DIONYSOS WITH KANTHAROS AND GRAPE VINE BETWEEN MAENADS"
+        }
+      ]
+    }
+  },
+  {
+    "id": 12553,
+    "image": "https://YOUR_IMAGE_HOST/images/C9578B4D-DA1A-4C85-A71F-E78428A917E4_3_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "A: APOLLO PLAYING KITHARA, DEER, BETWEEN LETO AND ARTEMIS OR MUSES | B: SCYTHIAN WARRIOR WITH HORSE BETWEEN WOMAN AND DRAPED MAN WITH STAFF (WARRIOR DEPARTING)"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is this?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the shape of this vase called?",
+          "answer": "AMPHORA, NECK"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-550 to -500"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this vase?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s painted on the vase?",
+          "answer": "A: APOLLO PLAYING KITHARA, DEER, BETWEEN LETO AND ARTEMIS OR MUSES | B: SCYTHIAN WARRIOR WITH HORSE BETWEEN WOMAN AND DRAPED MAN WITH STAFF (WARRIOR DEPARTING)"
+        }
+      ]
+    }
+  },
+  {
+    "id": 12570,
+    "image": "https://YOUR_IMAGE_HOST/images/8F77E3DB-0FB5-426F-A75C-B5591917B51E_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "CHOUS",
+        "Date": "-475 to -425",
+        "Attribution": "",
+        "Decoration": "Body: HERM"
+      },
+      "Additional Content": {
+        "Description": "Herm of Dionysos.",
+        "Mythological": "Dionysos: Greek god :: Hermes: messenger of the gods",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "RED-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "CHOUS"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-475 to -425"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this piece?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s depicted on the body?",
+          "answer": "Body: HERM"
+        }
+      ]
+    }
+  },
+  {
+    "id": 12584,
+    "image": "https://YOUR_IMAGE_HOST/images/867F91DE-D694-47DE-8ED2-D107583C8BFB_3_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-525 to -475",
+        "Attribution": "",
+        "Decoration": "A: HERAKLES AND KERBEROS, ATHENA, HERMES | B: DIONYSOS WITH KANTHAROS AND VINE BETWEEN SATYR WITH WINESKIN AND SATYR PLAYING PIPES"
+      },
+      "Additional Content": {
+        "Description": "Herakles, Kerberos, Hermes and Athena.",
+        "Mythological": "Herakles: divine Greek hero",
+        "Findspot": "Tarquinia, Corneto",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the shape of this vase called?",
+          "answer": "AMPHORA, NECK"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-525 to -475"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this vase?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s depicted on the vase?",
+          "answer": "A: HERAKLES AND KERBEROS, ATHENA, HERMES | B: DIONYSOS WITH KANTHAROS AND VINE BETWEEN SATYR WITH WINESKIN AND SATYR PLAYING PIPES"
+        }
+      ]
+    }
+  },
+  {
+    "id": 12709,
+    "image": "https://YOUR_IMAGE_HOST/images/22191CB2-9AE6-48C3-A12A-7CF3C0988090_5_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "HYDRIA",
+        "Date": "-525 to -475",
+        "Attribution": "",
+        "Decoration": "Body: HERAKLES AND TRITON, BETWEEN NEREIDS, (NAMED, PONTIA, KALLICHORA) | Shoulder: FIGHT (?), WARRIOR FALLING BETWEEN CHARIOTS, SHIELD DEVICE, TRIPOD"
+      },
+      "Additional Content": {
+        "Description": "Herakles fighting against Triton, two nereids are watching the scene: Pontia and Kallichora.",
+        "Mythological": "Kallichora: nereid :: Nereides: sea nymphs :: Pontia: nereid",
+        "Findspot": "Vulci",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "HYDRIA"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-525 to -475"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s painted on the vase?",
+          "answer": "Body: HERAKLES AND TRITON, BETWEEN NEREIDS, (NAMED, PONTIA, KALLICHORA) | Shoulder: FIGHT (?), WARRIOR FALLING BETWEEN CHARIOTS, SHIELD DEVICE, TRIPOD"
+        }
+      ]
+    }
+  },
+  {
+    "id": 12717,
+    "image": "https://YOUR_IMAGE_HOST/images/83B5000A-4326-484F-82BC-CEEDE8166D4C_3_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, BELLY, TYPE B",
+        "Date": "-525 to -475",
+        "Attribution": "",
+        "Decoration": "A: AINEIAS CARRYING ANCHISES BETWEEN WOMEN (KREUSA ?, APHRODITE ?), ARCHER CARRYING AXE | B: DIONYSOS, MAENADS, SATYR"
+      },
+      "Additional Content": {
+        "Description": "Kreousa, Aphrodite and an archer.",
+        "Mythological": "Kreousa III: wife of Aineias",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "AMPHORA, BELLY, TYPE B"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-525 to -475"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this vase?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s depicted on the vase?",
+          "answer": "A: AINEIAS CARRYING ANCHISES BETWEEN WOMEN (KREUSA ?, APHRODITE ?), ARCHER CARRYING AXE | B: DIONYSOS, MAENADS, SATYR"
+        }
+      ]
+    }
+  },
+  {
+    "id": 12730,
+    "image": "https://YOUR_IMAGE_HOST/images/7DE302B0-8EA9-41DC-A090-6A39C11B23E7_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "LEKYTHOS, SQUAT",
+        "Date": "-500 to -450",
+        "Attribution": "",
+        "Decoration": "Body: WINGED WOMAN (NIKE ?)"
+      },
+      "Additional Content": {
+        "Description": "Companion vase to ID 14172.",
+        "Mythological": "Eos: Greek goddess :: Kephalos: Athenian hero",
+        "Findspot": "",
+        "Artist": "Aischines Painter: Attic vase painter",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "RED-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "LEKYTHOS, SQUAT"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-500 to -450"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this vase?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s painted on the body?",
+          "answer": "Body: WINGED WOMAN (NIKE ?)"
+        }
+      ]
+    }
+  },
+  {
+    "id": 12770,
+    "image": "https://YOUR_IMAGE_HOST/images/88B047B1-E1BB-4A7B-A554-508E127A7992_3_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "HYDRIA",
+        "Date": "-525 to -475",
+        "Attribution": "",
+        "Decoration": "Body: WARRIOR DEPARTING, CHARIOT, ARCHER, OLD MAN SEATED (SHIELD DEVICE,BOX) | Shoulder: GIGANTOMACHY, ATHENA AND GIANT (TWICE)"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Gigantes: giants",
+        "Findspot": "Vulci",
+        "Artist": "Leagros Group: Attic vase painters",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is this?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "HYDRIA"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-525 to -475"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s painted on the vase?",
+          "answer": "Body: WARRIOR DEPARTING, CHARIOT, ARCHER, OLD MAN SEATED (SHIELD DEVICE,BOX) | Shoulder: GIGANTOMACHY, ATHENA AND GIANT (TWICE)"
+        }
+      ]
+    }
+  },
+  {
+    "id": 12771,
+    "image": "https://YOUR_IMAGE_HOST/images/E1450CEA-7B68-4037-A9E5-A4289E972902_4_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "A: GIGANTOMACHY, ATHENA AND GIANT BETWEEN DRAPED YOUTH AND DRAPED MAN WITH STAFF (SHIELD DEVICE, IVY WREATH) | B: DIONYSOS WITH DRINKING HORN BETWEEN WOMEN AND SATYRS"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Gigantes: giants",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the shape of this vase called?",
+          "answer": "AMPHORA, NECK"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-550 to -500"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this vase?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s painted on the vase?",
+          "answer": "A: GIGANTOMACHY, ATHENA AND GIANT BETWEEN DRAPED YOUTH AND DRAPED MAN WITH STAFF (SHIELD DEVICE, IVY WREATH) | B: DIONYSOS WITH DRINKING HORN BETWEEN WOMEN AND SATYRS"
+        }
+      ]
+    }
+  },
+  {
+    "id": 12783,
+    "image": "https://YOUR_IMAGE_HOST/images/F0034C9D-F347-48B1-B9AF-30F468F665E7_3_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "HYDRIA",
+        "Date": "-525 to -475",
+        "Attribution": "",
+        "Decoration": "Body: HERAKLES AND BOAR, ATHENA"
+      },
+      "Additional Content": {
+        "Description": "Herakles and the Erymanthian Boar. With Athena.",
+        "Mythological": "Herakles: divine Greek hero",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used on this?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "HYDRIA"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-525 to -475"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this piece?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s painted on the body?",
+          "answer": "Body: HERAKLES AND BOAR, ATHENA"
+        }
+      ]
+    }
+  },
+  {
+    "id": 12785,
+    "image": "https://YOUR_IMAGE_HOST/images/AFF99053-2EA1-423B-9C13-083B44C9E7A1_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "LEKYTHOS",
+        "Date": "-500 to -450",
+        "Attribution": "<em>Near</em> BELDAM P by HASPELS",
+        "Decoration": "Body: HERAKLES FIGHTING SATYRS"
+      },
+      "Additional Content": {
+        "Description": "Herakles threatening a satyr who crouches before him.",
+        "Mythological": "Herakles: divine Greek hero",
+        "Findspot": "Athens",
+        "Artist": "Beldam-Python Group: Attic vase painters",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is this?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "LEKYTHOS"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-500 to -450"
+        },
+        {
+          "field": "attribution",
+          "question": "Who’s this attributed to?",
+          "answer": "<em>Near</em> BELDAM P by HASPELS"
+        },
+        {
+          "field": "decoration",
+          "question": "What’s painted on the body?",
+          "answer": "Body: HERAKLES FIGHTING SATYRS"
+        }
+      ]
+    }
+  },
+  {
+    "id": 12816,
+    "image": "https://YOUR_IMAGE_HOST/images/1D6911F7-F2DB-4BF0-83EC-5C390B4C07F3_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "PELIKE",
+        "Date": "-450 to -400",
+        "Attribution": "",
+        "Decoration": "A: MAN (ZEUS ?) SEATED WITH SCEPTRE, YOUTH IN PETASOS, CHLAMYS, BOOTS, CARRYING SPEARS (THESEUS AND AIGEUS ?) | B: DRAPED YOUTHS"
+      },
+      "Additional Content": {
+        "Description": "Theseus and Aigeus.",
+        "Mythological": "Aigeus: Attic king :: Theseus: Athenian hero",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": "440 BCE"
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "RED-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "PELIKE"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-450 to -400"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this piece?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s depicted on the vase?",
+          "answer": "A: MAN (ZEUS ?) SEATED WITH SCEPTRE, YOUTH IN PETASOS, CHLAMYS, BOOTS, CARRYING SPEARS (THESEUS AND AIGEUS ?) | B: DRAPED YOUTHS"
+        }
+      ]
+    }
+  },
+  {
+    "id": 12952,
+    "image": "https://YOUR_IMAGE_HOST/images/98AF6D7B-C9C7-4730-BB94-DC708C487389_3_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "KRATER, CALYX",
+        "Date": "-400 to -300",
+        "Attribution": "",
+        "Decoration": "A: HERAKLES (BEARDLESS) SEATED AT BUILDING, IOLAOS, SATYRS, ONE WITH TRAY, MAENAD SEATED WITH TYMPANON AND SPRIG, ALTAR | B: DRAPED YOUTHS, SOME WITH ARYBALLOI, POST, FILLET SUSPENDED"
+      },
+      "Additional Content": {
+        "Description": "Drei unterschiedlich verkürzte Säulen deuten den Herakles-Schrein an. Sitzender Herakles von dionysischem Thiasos umgeben:(A): Above left handle altar, Mainas (?) or female worshipper, a tympanum in right hand, branch in left seated to left and looks right. Ivy leaves in background. Below her a naked satyros with ivy wreath holds a phiale (?). In center a naked male sits to right with club in right hand (Herakles). A table above his head. At right naked male (Dionysos?) with ivy crown holds tow spears. Behind him bearded Satyros runs to right. (B) Three youths in mantles standing.",
+        "Mythological": "Dionysos: Greek god :: Herakles: divine Greek hero :: Mainas: maenad",
+        "Findspot": "unknown",
+        "Artist": "",
+        "Dating": "400 - 300 BCE"
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is this?",
+          "answer": "RED-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "KRATER, CALYX"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-400 to -300"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s painted on it?",
+          "answer": "A: HERAKLES (BEARDLESS) SEATED AT BUILDING, IOLAOS, SATYRS, ONE WITH TRAY, MAENAD SEATED WITH TYMPANON AND SPRIG, ALTAR | B: DRAPED YOUTHS, SOME WITH ARYBALLOI, POST, FILLET SUSPENDED"
+        }
+      ]
+    }
+  },
+  {
+    "id": 12959,
+    "image": "https://YOUR_IMAGE_HOST/images/8E0758A4-1618-4695-B773-62E97002DC7E_4_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "KRATER, CALYX FRAGMENT",
+        "Date": "-500 to -450",
+        "Attribution": "AEGISTHUS P by UNKNOWN | COPENHAGEN P by SIMON",
+        "Decoration": "A,B: DEATH OF AIGISTHOS, ORESTES, KLYTAIMESTRA, TALTHYBIOS, WOMEN, ERIGONE (?) WITH PENTHILOS (?)"
+      },
+      "Additional Content": {
+        "Description": "Death of Aigisthos: Aigisthos seated. Orestes in hair-grabber pose, looking back at Klytaimestra who swings an axe and advances to the right. Orestes plunges a sword into Aigisthos right breast. Elektra behind the throne, advances to the left to warn Orestes. Behind Orestes a young nurse holding a baby clad in a short cloak (Erigone or Aletes). Talthybios tries to restrain Klytaimestra. B: A bearded man with staff, two agitated women, two standing men.",
+        "Mythological": "Aigisthos: murderer of Agamemnon :: Elektra I: daughter of Agamemnon :: Erigone II: daughter of Aigisthos :: Klytaimestra: wife of Agamemnon :: Orestes: son of Agamemnon :: Talthybios: Greek herald at Troy",
+        "Findspot": "",
+        "Artist": "Aegisthus Painter: Attic vase painter",
+        "Dating": "475 - 450 BCE"
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "RED-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the shape of this vase?",
+          "answer": "KRATER, CALYX FRAGMENT"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-500 to -450"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this vase?",
+          "answer": "AEGISTHUS P by UNKNOWN | COPENHAGEN P by SIMON"
+        },
+        {
+          "field": "decoration",
+          "question": "What’s depicted on the vase?",
+          "answer": "A,B: DEATH OF AIGISTHOS, ORESTES, KLYTAIMESTRA, TALTHYBIOS, WOMEN, ERIGONE (?) WITH PENTHILOS (?)"
+        }
+      ]
+    }
+  },
+  {
+    "id": 13023,
+    "image": "https://YOUR_IMAGE_HOST/images/ADD30C4A-81F7-4313-A013-8AAC9E5E2910_3_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-550 to -500",
+        "Attribution": "RED-LINE P by BEAZLEY",
+        "Decoration": "A: AINEIAS, WITH BOEOTIAN SHIELD, CARRYING ANCHISES, WOMAN | B: CHARIOT, ARCHER IN NEBRIS"
+      },
+      "Additional Content": {
+        "Description": "A: Scene showing an older male figure carried by a young male figure; interpreted as Aineias carrying his father Anchises",
+        "Mythological": "Aineias: son of Aphrodite :: Anchises: father of Aineias",
+        "Findspot": "Cerveteri, Caere",
+        "Artist": "Red-Line Painter: Attic vase painter",
+        "Dating": "510 - 490 BCE"
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "AMPHORA, NECK"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-550 to -500"
+        },
+        {
+          "field": "attribution",
+          "question": "Who is this vase attributed to?",
+          "answer": "RED-LINE P by BEAZLEY"
+        },
+        {
+          "field": "decoration",
+          "question": "What’s depicted on the vase?",
+          "answer": "A: AINEIAS, WITH BOEOTIAN SHIELD, CARRYING ANCHISES, WOMAN | B: CHARIOT, ARCHER IN NEBRIS"
+        }
+      ]
+    }
+  },
+  {
+    "id": 13046,
+    "image": "https://YOUR_IMAGE_HOST/images/BA3B6742-479E-46D5-9824-81551CA5F6CE_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "KRATER, COLUMN",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "A: HERAKLES WITH THE BOAR, EURYSTHEUS IN PITHOS BETWEEN ATHENA AND WOMAN | B: WARRIORS AND ARCHERS, SHIELD DEVICES, SNAKE"
+      },
+      "Additional Content": {
+        "Description": "Herakles delivers the Erymanthian Boar to Eurystheus. With Athena and a woman.",
+        "Mythological": "Herakles: divine Greek hero",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the shape of this vase called?",
+          "answer": "KRATER, COLUMN"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-550 to -500"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this vase?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s depicted on the vase?",
+          "answer": "A: HERAKLES WITH THE BOAR, EURYSTHEUS IN PITHOS BETWEEN ATHENA AND WOMAN | B: WARRIORS AND ARCHERS, SHIELD DEVICES, SNAKE"
+        }
+      ]
+    }
+  },
+  {
+    "id": 13049,
+    "image": "https://YOUR_IMAGE_HOST/images/C2FD83CE-2ED5-4176-8182-9C3FBEF4AE21_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "A: APOLLO PLAYING KITHARA BETWEEN MAENADS WITH KROTALA | B: WARRIOR DEPARTING, OLD MAN, WOMAN, SHIELD DEVICE, LION PROTOME | Frieze below: ANIMAL FRIEZE, LIONS AND BOARS"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Apollon: god :: Mousa: goddesses",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used on this?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "AMPHORA, NECK"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-550 to -500"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this vase?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What scenes are painted on it?",
+          "answer": "A: APOLLO PLAYING KITHARA BETWEEN MAENADS WITH KROTALA | B: WARRIOR DEPARTING, OLD MAN, WOMAN, SHIELD DEVICE, LION PROTOME | Frieze below: ANIMAL FRIEZE, LIONS AND BOARS"
+        }
+      ]
+    }
+  },
+  {
+    "id": 13085,
+    "image": "https://YOUR_IMAGE_HOST/images/D476525A-E9AE-45E1-9C8E-E55DE8CEC800_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "A: APOLLO PLAYING KITHARA BETWEEN ARTEMIS AND LETO (?), PANTHER | B: GIGANTOMACHY (?), ATHENA AND GIANT (?)"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Apollon: god :: Artemis: goddess",
+        "Findspot": "Veii",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the shape of this vase called?",
+          "answer": "AMPHORA, NECK"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-550 to -500"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this vase?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s painted on the vase?",
+          "answer": "A: APOLLO PLAYING KITHARA BETWEEN ARTEMIS AND LETO (?), PANTHER | B: GIGANTOMACHY (?), ATHENA AND GIANT (?)"
+        }
+      ]
+    }
+  },
+  {
+    "id": 13162,
+    "image": "https://YOUR_IMAGE_HOST/images/D75BB748-B4BE-4D8A-827E-CA858C32A519_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "LEKYTHOS",
+        "Date": "-525 to -475",
+        "Attribution": "DIOSPHOS P by HASPELS",
+        "Decoration": "Body: GODDESS MOUNTING CHARIOT, APOLLO WITH LYRE, HERMES"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Artemis: goddess",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is this?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "LEKYTHOS"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-525 to -475"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this?",
+          "answer": "DIOSPHOS P by HASPELS"
+        },
+        {
+          "field": "decoration",
+          "question": "What’s painted on the body?",
+          "answer": "Body: GODDESS MOUNTING CHARIOT, APOLLO WITH LYRE, HERMES"
+        }
+      ]
+    }
+  },
+  {
+    "id": 13230,
+    "image": "https://YOUR_IMAGE_HOST/images/ED044E83-699F-461E-A9ED-85E58A1D6D6D_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "LEKYTHOS",
+        "Date": "-450 to -400",
+        "Attribution": "",
+        "Decoration": "Body: MAN IN PILOS RUNNING WITH SWORD AND CLUB"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Odysseus: king of Ithaka",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "RED-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "LEKYTHOS"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-450 to -400"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this vase?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s painted on the body?",
+          "answer": "Body: MAN IN PILOS RUNNING WITH SWORD AND CLUB"
+        }
+      ]
+    }
+  },
+  {
+    "id": 13260,
+    "image": "https://YOUR_IMAGE_HOST/images/9AB2DF89-5AC8-4AAB-806C-2563A6AF9F50_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "PSEUDO-PANATHENAIC AMPHORA",
+        "Date": "-525 to -475",
+        "Attribution": "",
+        "Decoration": "A: ATHENA, SHIELD DEVICE, HORSE HINDQUARTERS, OWLS ON COLUMNS | B: ATHLETES, ONE RECEIVING FILLET (VICTOR), TRAINER"
+      },
+      "Additional Content": {
+        "Description": "Der Sieger wird vom Kampfrichter bekränzt und mit Tänien geschmückt. Ein anderer Preisrichter hinter ihm ruft seinen Namen aus, während sich der unterlegene Gegner entfernt.",
+        "Mythological": "",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": "510 - 490 BCE"
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "PSEUDO-PANATHENAIC AMPHORA"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-525 to -475"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this vase?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s depicted on the vase?",
+          "answer": "A: ATHENA, SHIELD DEVICE, HORSE HINDQUARTERS, OWLS ON COLUMNS | B: ATHLETES, ONE RECEIVING FILLET (VICTOR), TRAINER"
+        }
+      ]
+    }
+  },
+  {
+    "id": 13263,
+    "image": "https://YOUR_IMAGE_HOST/images/E008AFCA-7982-493D-A12C-DD879CE33D6C_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-500 to -450",
+        "Attribution": "",
+        "Decoration": "A: ZEUS | B: GANYMEDE"
+      },
+      "Additional Content": {
+        "Description": "A: Zeus. B: Ganymedes.",
+        "Mythological": "Ganymedes: son of Tros :: Zeus: god",
+        "Findspot": "Nola",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is this?",
+          "answer": "RED-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the shape of this vase called?",
+          "answer": "AMPHORA, NECK"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-500 to -450"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this vase?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s depicted on the vase?",
+          "answer": "A: ZEUS | B: GANYMEDE"
+        }
+      ]
+    }
+  },
+  {
+    "id": 13294,
+    "image": "https://YOUR_IMAGE_HOST/images/DA0046A6-F0CD-4779-8CA5-1F05FAAE8F97_4_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "HYDRIA",
+        "Date": "-575 to -525",
+        "Attribution": "<em>Compare</em> LYDOS by AHLBERG-CORNELL",
+        "Decoration": "Body: HERAKLES AND TRITON, NEREUS, NEREIDS, DOLPHINS | Shoulder: COCK, SIREN AND LION BETWEEN BIRDS"
+      },
+      "Additional Content": {
+        "Description": "Fight between Herakles and Triton. Nereus as onlooker.",
+        "Mythological": "Nereus: sea god",
+        "Findspot": "Nola",
+        "Artist": "Lydos: Attic vase painter",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is this?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "HYDRIA"
+        },
+        {
+          "field": "date",
+          "question": "When was this made?",
+          "answer": "-575 to -525"
+        },
+        {
+          "field": "attribution",
+          "question": "Who’s this attributed to?",
+          "answer": "<em>Compare</em> LYDOS by AHLBERG-CORNELL"
+        },
+        {
+          "field": "decoration",
+          "question": "What’s depicted on the vase?",
+          "answer": "Body: HERAKLES AND TRITON, NEREUS, NEREIDS, DOLPHINS | Shoulder: COCK, SIREN AND LION BETWEEN BIRDS"
+        }
+      ]
+    }
+  },
+  {
+    "id": 13295,
+    "image": "https://YOUR_IMAGE_HOST/images/F2AC1E83-ED32-4484-90D3-F0404C6B8A89_7_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "HYDRIA",
+        "Date": "-400 to -300",
+        "Attribution": "",
+        "Decoration": "Body: HERAKLES IN THE GARDEN OF THE HESPERIDES, TREE, EROS, IOLAOS (?), APHRODITE, YOUTH"
+      },
+      "Additional Content": {
+        "Description": "Herakles in the Garden of the Hesperides: Herakles, seated, turns to a standing Hesperid offering him an object. A seated youth and another Hesperid are behind her. A small Eros at Herakles back offers two apples. Above right Aphrodite, seated, and a Hesperid behind her. Below, a youth hurrying right.",
+        "Mythological": "Herakles: divine Greek hero :: Hesperides: nymph",
+        "Findspot": "Cyrenaica",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is this?",
+          "answer": "RED-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "HYDRIA"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-400 to -300"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s painted on the body?",
+          "answer": "Body: HERAKLES IN THE GARDEN OF THE HESPERIDES, TREE, EROS, IOLAOS (?), APHRODITE, YOUTH"
+        }
+      ]
+    }
+  },
+  {
+    "id": 13306,
+    "image": "https://YOUR_IMAGE_HOST/images/0546F482-002C-40A0-8C35-5AF987ACD359_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "HYDRIA",
+        "Date": "-525 to -475",
+        "Attribution": "HALF-PALMETTES, P OF THE by HASPELS",
+        "Decoration": "Body: ANODOS (?), ALTAR, HEAD OF WOMAN"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "HYDRIA"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-525 to -475"
+        },
+        {
+          "field": "attribution",
+          "question": "Who is this vase attributed to?",
+          "answer": "HALF-PALMETTES, P OF THE by HASPELS"
+        },
+        {
+          "field": "decoration",
+          "question": "What’s painted on the body?",
+          "answer": "Body: ANODOS (?), ALTAR, HEAD OF WOMAN"
+        }
+      ]
+    }
+  },
+  {
+    "id": 13330,
+    "image": "https://YOUR_IMAGE_HOST/images/412D4062-352F-4DBC-B244-8A844E00765E_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "CUP A",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "A: FIGHT, WARRIORS, DEVICES, TRIPOD, DISCS, BETWEEN EYES | B: WARRIOR LEADING WOMAN (MENELAOS AND HELEN ?) BETWEEN EYES | Under handle: FIGHT, WARRIORS"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Helene: cause of the Trojan war",
+        "Findspot": "Taranto",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is this?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "CUP A"
+        },
+        {
+          "field": "date",
+          "question": "When was this made?",
+          "answer": "-550 to -500"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s painted on it?",
+          "answer": "A: FIGHT, WARRIORS, DEVICES, TRIPOD, DISCS, BETWEEN EYES | B: WARRIOR LEADING WOMAN (MENELAOS AND HELEN ?) BETWEEN EYES | Under handle: FIGHT, WARRIORS"
+        }
+      ]
+    }
+  },
+  {
+    "id": 13342,
+    "image": "https://YOUR_IMAGE_HOST/images/C69A7AFD-037B-49E5-A669-AD0F3003CEA1_3_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "CUP B FRAGMENT",
+        "Date": "-500 to -450",
+        "Attribution": "DOURIS by SIGNATURE | KLEOPHRADES by SIGNATURE",
+        "Decoration": "A: HERAKLES AND THE SONS OF EURYTOS (ARCHERS) | B: ATHLETES, WRESTLING, ONLOOKERS | I: YOUTH SEATED AND MAN, BOTH DRAPED, SPONGE, STRIGIL AND ARYBALLOS SUSPENDED"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Odysseus: king of Ithaka",
+        "Findspot": "",
+        "Artist": "Douris: Attic potter and vase painter",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is this?",
+          "answer": "RED-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the shape of this cup called?",
+          "answer": "CUP B FRAGMENT"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-500 to -450"
+        },
+        {
+          "field": "attribution",
+          "question": "Who painted this?",
+          "answer": "DOURIS by SIGNATURE | KLEOPHRADES by SIGNATURE"
+        },
+        {
+          "field": "decoration",
+          "question": "What’s painted on it?",
+          "answer": "A: HERAKLES AND THE SONS OF EURYTOS (ARCHERS) | B: ATHLETES, WRESTLING, ONLOOKERS | I: YOUTH SEATED AND MAN, BOTH DRAPED, SPONGE, STRIGIL AND ARYBALLOS SUSPENDED"
+        }
+      ]
+    }
+  },
+  {
+    "id": 13363,
+    "image": "https://YOUR_IMAGE_HOST/images/BB34CE7E-A1A5-42A2-91FF-04C4619B8514_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "CUP C FRAGMENTS",
+        "Date": "-525 to -475",
+        "Attribution": "EUPHRONIOS by SIGNATURE | ONESIMOS by WILLIAMS",
+        "Decoration": "A: PATROKLOS (NAMED) LEADING BRISEIS FROM ACHILLES, THETIS (NAMED), MEN, ONE LEANING ON STAFF, WARRIOR | B: FIGHT, WARRIORS, ONE WITH BOEOTIAN SHIELD, DEVICE, BOAR, BETWEEN ATHENA (NAMED) AND APOLLO (AJAX AND HEKTOR ?) | I, zone around: ILIOUPERSIS, WARRIORS (ONE NAMED) AND OLD WOMAN AT ALTAR (AKAMAS AND DEMOPHON RESCUING AITHRA), WOMAN WITH PESTLE, WARRIOR (NAMED, STHENELOS), RAPE OF CASSANDRA (NAMED), KNEELING NAKED AT STATUE OF ATHENA IN PATTERNED COSTUME, TRIPOD, AJAX, FIGHT, WARRIORS, ONE FALLEN, ONE IN LEOPARD SKIN (ODYSSEUS ?), OLD WOMAN, MAN (ANTENOR AND THEANO ?), MENELAOS AND HELEN (NAMED), EROS FLYING, WOMAN WITH DOUBLE AXE | I: ILIOUPERSIS, PRIAM ON ALTAR WITH INSCRIPTION, NEOPTOLEMOS WITH ASTYANAX, POLYXENE (ALL NAMED), SWORD, SHIELD DEVICE, LION ATTACKING DEER, WARRIOR FALLEN (NAMED) | Under handle: STOOL, GOOSE"
+      },
+      "Additional Content": {
+        "Description": "Tondo: Tod des Priamos. Er sitzt l. auf einem rechteckigen Blockaltar des Zeus Herkeios (zweistufige Basis, auf dem Körper die Inschrift ΗΕΡΚΕΙΩ, Kymation am oberen Abschluss, Bruchstelle an d Deckplatte). Von r. naht Neoptolemos, den Astyanax schleudernd. Dazwischen eine Frau.Den Tondo umlaufende Zone: Kassandra, blottie contre la statue d’Athena (promachos, auf Basis, nach l. schreitend, prächtiges Gewand: detailreich gestaltete Aigis, mit figürlichen und ornamentalen Friesen geschmücktes Untergewand), repousse Aias d’un geste de la main. Odysseus saving Theano (I) and Antenor. A: Patroklos leading away Briseis from Achilleus.",
+        "Mythological": "Achilleus: son of Peleus :: Athena: goddess :: Briseis: slave :: Helene: cause of the Trojan war :: Kassandra I: daughter of Priamos :: Neoptolemos: son of Achilleus :: Patroklos: Greek hero :: Polyxene: daughter of Priamos :: Priamos: king of Troy :: Theano I: daughter of Kisseus :: Thetis: nereid :: Ilioupersis: sack of Troy",
+        "Findspot": "",
+        "Artist": "Euphronios: Attic potter and vase painter :: Onesimos: Attic vase painter",
+        "Dating": "500 BCE"
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "RED-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "CUP C FRAGMENTS"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-525 to -475"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this vase?",
+          "answer": "EUPHRONIOS by SIGNATURE | ONESIMOS by WILLIAMS"
+        },
+        {
+          "field": "decoration",
+          "question": "What scenes are painted on it?",
+          "answer": "A: PATROKLOS (NAMED) LEADING BRISEIS FROM ACHILLES, THETIS (NAMED), MEN, ONE LEANING ON STAFF, WARRIOR | B: FIGHT, WARRIORS, ONE WITH BOEOTIAN SHIELD, DEVICE, BOAR, BETWEEN ATHENA (NAMED) AND APOLLO (AJAX AND HEKTOR ?) | I, zone around: ILIOUPERSIS, WARRIORS (ONE NAMED) AND OLD WOMAN AT ALTAR (AKAMAS AND DEMOPHON RESCUING AITHRA), WOMAN WITH PESTLE, WARRIOR (NAMED, STHENELOS), RAPE OF CASSANDRA (NAMED), KNEELING NAKED AT STATUE OF ATHENA IN PATTERNED COSTUME, TRIPOD, AJAX, FIGHT, WARRIORS, ONE FALLEN, ONE IN LEOPARD SKIN (ODYSSEUS ?), OLD WOMAN, MAN (ANTENOR AND THEANO ?), MENELAOS AND HELEN (NAMED), EROS FLYING, WOMAN WITH DOUBLE AXE | I: ILIOUPERSIS, PRIAM ON ALTAR WITH INSCRIPTION, NEOPTOLEMOS WITH ASTYANAX, POLYXENE (ALL NAMED), SWORD, SHIELD DEVICE, LION ATTACKING DEER, WARRIOR FALLEN (NAMED) | Under handle: STOOL, GOOSE"
+        }
+      ]
+    }
+  },
+  {
+    "id": 13371,
+    "image": "https://YOUR_IMAGE_HOST/images/A791C0E4-65FF-4720-9A67-1C297C1482AE_3_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "PELIKE",
+        "Date": "-400 to -300",
+        "Attribution": "<em>Manner of</em> KERCH by SCHEFOLD | <em>Manner of</em> MARSYAS P by SCHEFOLD",
+        "Decoration": "A: JUDGEMENT OF PARIS, SEATED ON ROCK IN PATTERNED SUIT WITH CLUB, ATHENA, DEVICE, STAR, HERA, APHRODITE, HERMES, EROS, TREE | B: AMAZONOMACHY, AMAZONS, ONE ON HORSEBACK, WARRIOR"
+      },
+      "Additional Content": {
+        "Description": "Paridis iudicium (Judgement of Paris): Paris, Hermes, Hera, Athena and Aphrodite.",
+        "Mythological": "Paridis iudicium: judgement of Paris",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "RED-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "PELIKE"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-400 to -300"
+        },
+        {
+          "field": "attribution",
+          "question": "Who’s this vase attributed to?",
+          "answer": "<em>Manner of</em> KERCH by SCHEFOLD | <em>Manner of</em> MARSYAS P by SCHEFOLD"
+        },
+        {
+          "field": "decoration",
+          "question": "What’s painted on the vase?",
+          "answer": "A: JUDGEMENT OF PARIS, SEATED ON ROCK IN PATTERNED SUIT WITH CLUB, ATHENA, DEVICE, STAR, HERA, APHRODITE, HERMES, EROS, TREE | B: AMAZONOMACHY, AMAZONS, ONE ON HORSEBACK, WARRIOR"
+        }
+      ]
+    }
+  },
+  {
+    "id": 13373,
+    "image": "https://YOUR_IMAGE_HOST/images/76AF452E-A0AA-4259-95EC-A76286687389_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "KRATER, COLUMN",
+        "Date": "-500 to -450",
+        "Attribution": "PAN P by UNKNOWN",
+        "Decoration": "A: SACRIFICE, MAN WITH CUP AND BASKET AT ALTAR, HERM, DRAPED YOUTH WITH STAFF | B: STELE WITH DINOS BETWEEN DRAPED YOUTHS WITH STAFFS"
+      },
+      "Additional Content": {
+        "Description": "A-Seite: Mann mit Kylix in der Linken und Kanoun in der Rechten vor Altar. Hinter dem Altar befindet ein Herme auf einem zweistufigen Podest. Dahinter steht ein weiterer Mann auf einen Stab gestützt. B-seite: Zentral steht eine Säule auf deren Spitze sich ein Dinos befindet. Links und rechts davon stehetn zwei Jünglinge in Mantel und auf Stab gestützt.",
+        "Mythological": "",
+        "Findspot": "",
+        "Artist": "Pan Painter: Attic vase painters",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "RED-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "KRATER, COLUMN"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-500 to -450"
+        },
+        {
+          "field": "attribution",
+          "question": "Who’s this vase attributed to?",
+          "answer": "PAN P by UNKNOWN"
+        },
+        {
+          "field": "decoration",
+          "question": "What’s depicted on the vase?",
+          "answer": "A: SACRIFICE, MAN WITH CUP AND BASKET AT ALTAR, HERM, DRAPED YOUTH WITH STAFF | B: STELE WITH DINOS BETWEEN DRAPED YOUTHS WITH STAFFS"
+        }
+      ]
+    }
+  },
+  {
+    "id": 13417,
+    "image": "https://YOUR_IMAGE_HOST/images/D96640FB-8ADF-493C-A768-8EE4AFA2D8EA_6_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "LEBES",
+        "Date": "-475 to -425",
+        "Attribution": "<em>Compare</em> NIOBID P by ROBINSON | <em>Compare</em> SABOUROFF P by ROBINSON",
+        "Decoration": "A: WEDDING (DOMESTIC), WOMAN SEATED WITH MIRROR BETWEEN WOMEN | B: WEDDING (DOMESTIC), WOMAN SEATED WITH BOX BETWEEN WOMEN | Stand: YOUTH IN PETASOS AND CHLAMYS PURSUING WOMAN, WOMAN, OLD MAN, DOLPHIN | Under handle: WINGED WOMAN (NIKE OR EOS), ALTAR"
+      },
+      "Additional Content": {
+        "Description": "Hochzeitsszene: A-Seite: Sitzende, die in Spiegel blickt, hinter ihr und vor ihr steht eine weitere Frau. Hinter dieser fliegt eine Nike heran. B-Seite: Sitzende, über der einen Tänie an der Wand hängt, die gerade von einer ihr gegenüberstehenden Frau ein Kästchen entgegengenommen hat. Hinter ihr steht einen weitere Frau, neben der sich ein Altar befindet. Von rechts auf den Altar zu fliegt eine Nike.Fuß: Peleus mit Lorbeerkranz läuft mit zwei Speeren in der Rechten hinter Thetis her. Ihr gegenüber steht mit Stock ihr Vater Nereus. Hinter ihm ist ein Delphin und eine weitere weglaufende Frau. mehrere Frauen bringen der Braut Gegenstände, wie Tainien, Truhe, unbestimmbarer Behälter, Stab (Spindel?), Loutrophoros, Alabastron",
+        "Mythological": "Nereus: sea god :: Nike: goddess :: Peleus: father of Achilleus :: Thetis: nereid",
+        "Findspot": "Vari (Attica)",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is this?",
+          "answer": "RED-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "LEBES"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-475 to -425"
+        },
+        {
+          "field": "attribution",
+          "question": "Who’s this vase attributed to?",
+          "answer": "<em>Compare</em> NIOBID P by ROBINSON | <em>Compare</em> SABOUROFF P by ROBINSON"
+        },
+        {
+          "field": "decoration",
+          "question": "What scenes are painted on it?",
+          "answer": "A: WEDDING (DOMESTIC), WOMAN SEATED WITH MIRROR BETWEEN WOMEN | B: WEDDING (DOMESTIC), WOMAN SEATED WITH BOX BETWEEN WOMEN | Stand: YOUTH IN PETASOS AND CHLAMYS PURSUING WOMAN, WOMAN, OLD MAN, DOLPHIN | Under handle: WINGED WOMAN (NIKE OR EOS), ALTAR"
+        }
+      ]
+    }
+  },
+  {
+    "id": 13463,
+    "image": "https://YOUR_IMAGE_HOST/images/C029AD87-A84B-4292-9A39-8E01FD5B8042_3_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "LEKYTHOS",
+        "Date": "-475 to -425",
+        "Attribution": "<em>Compare</em> DUTUIT P by BEAZLEY | <em>Manner of</em> BERLIN P by BEAZLEY",
+        "Decoration": "Body: WOMAN WITH LYRE | Shoulder: NIKE WITH OINOCHOE AND PHIALE"
+      },
+      "Additional Content": {
+        "Description": "Hauptbild: Weibliche Gestalt, nach rechts laufend, Kopf zurückgewandt, in linker Hand Lyra, in rechter Hand Plektron. Schulterbild: Geflügelte Figur (Nike oder Iris), nach links fliegend, in linker Hand Phiale, in rechter Hand Oinochoe.",
+        "Mythological": "Iris I: messenger of the gods :: Nike: goddess",
+        "Findspot": "unknown",
+        "Artist": "manner of the Berlin Painter: Attic vase painter(s)",
+        "Dating": "500 - 475 BCE"
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "RED-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "LEKYTHOS"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-475 to -425"
+        },
+        {
+          "field": "attribution",
+          "question": "Who’s this attributed to?",
+          "answer": "<em>Compare</em> DUTUIT P by BEAZLEY | <em>Manner of</em> BERLIN P by BEAZLEY"
+        },
+        {
+          "field": "decoration",
+          "question": "What’s painted on the vase?",
+          "answer": "Body: WOMAN WITH LYRE | Shoulder: NIKE WITH OINOCHOE AND PHIALE"
+        }
+      ]
+    }
+  },
+  {
+    "id": 13467,
+    "image": "https://YOUR_IMAGE_HOST/images/570E328A-F640-4B36-87CC-0A04B719E612_3_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "CHOUS",
+        "Date": "-450 to -400",
+        "Attribution": "<em>Manner of</em> DINOS P by ROBINSON",
+        "Decoration": "Body: SACRIFICE, DRAPED YOUTHS LEADING BULL"
+      },
+      "Additional Content": {
+        "Description": "Deux jeunes gens conduisent un taureau paré dun stemma et tenu par une corde.",
+        "Mythological": "",
+        "Findspot": "Vari (Attica)",
+        "Artist": "manner of the Dinos Painter: Attic vase painter(s)",
+        "Dating": "430 - 420 BCE"
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "RED-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "CHOUS"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-450 to -400"
+        },
+        {
+          "field": "attribution",
+          "question": "Who’s this attributed to?",
+          "answer": "<em>Manner of</em> DINOS P by ROBINSON"
+        },
+        {
+          "field": "decoration",
+          "question": "What’s depicted on the body?",
+          "answer": "Body: SACRIFICE, DRAPED YOUTHS LEADING BULL"
+        }
+      ]
+    }
+  },
+  {
+    "id": 13680,
+    "image": "https://YOUR_IMAGE_HOST/images/73A6692C-2D76-46E5-9247-81D3EA3A982E_4_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, BELLY, TYPE B",
+        "Date": "-575 to -525",
+        "Attribution": "<em>Manner of</em> WITT P by BOTHMER | FLORENCE 3797, P OF by BOTHMER",
+        "Decoration": "A: HERAKLES SEATED BETWEEN HERMES AND ATHENA, SHIELD DEVICE, SPHINX | B: ATHENA, ZEUS, GOD (?), DEVICE, BIRD"
+      },
+      "Additional Content": {
+        "Description": "Seated Herakles, facing Athena. Behind Herakles Hermes moving away, looking back.",
+        "Mythological": "Herakles: divine Greek hero",
+        "Findspot": "",
+        "Artist": "Witt Painter: Attic vase painter",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is this?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the shape of this vase called?",
+          "answer": "AMPHORA, BELLY, TYPE B"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-575 to -525"
+        },
+        {
+          "field": "attribution",
+          "question": "Who is this vase attributed to?",
+          "answer": "<em>Manner of</em> WITT P by BOTHMER | FLORENCE 3797, P OF by BOTHMER"
+        },
+        {
+          "field": "decoration",
+          "question": "What’s painted on the vase?",
+          "answer": "A: HERAKLES SEATED BETWEEN HERMES AND ATHENA, SHIELD DEVICE, SPHINX | B: ATHENA, ZEUS, GOD (?), DEVICE, BIRD"
+        }
+      ]
+    }
+  },
+  {
+    "id": 13689,
+    "image": "https://YOUR_IMAGE_HOST/images/40580143-67F9-4E31-9394-5F80E298C75E_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "KRATER, CALYX",
+        "Date": "-450 to -400",
+        "Attribution": "<em>Manner of</em> MUNICH 2335, P OF by GREEN",
+        "Decoration": "A: YOUTH WITH HELMET AND SPEAR DEPARTING BETWEEN WOMAN AND DRAPED MAN WITH STAFF | B: THEATRICAL, MAN IN PATTERNED CHITON WITH DEER, CHARIOT, PEGASOI PLAYING PIPES BETWEEN ACTORS IN BIRD COSTUMES AND PHALLOS TRUNKS"
+      },
+      "Additional Content": {
+        "Description": "Theatre depiction: scenes of a performance",
+        "Mythological": "",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "RED-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "KRATER, CALYX"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-450 to -400"
+        },
+        {
+          "field": "attribution",
+          "question": "Who’s this vase attributed to?",
+          "answer": "<em>Manner of</em> MUNICH 2335, P OF by GREEN"
+        },
+        {
+          "field": "decoration",
+          "question": "What’s painted on the vase?",
+          "answer": "A: YOUTH WITH HELMET AND SPEAR DEPARTING BETWEEN WOMAN AND DRAPED MAN WITH STAFF | B: THEATRICAL, MAN IN PATTERNED CHITON WITH DEER, CHARIOT, PEGASOI PLAYING PIPES BETWEEN ACTORS IN BIRD COSTUMES AND PHALLOS TRUNKS"
+        }
+      ]
+    }
+  },
+  {
+    "id": 13812,
+    "image": "https://YOUR_IMAGE_HOST/images/B1DCECB2-461A-47CF-8789-134494BFE5DC_3_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "LEKYTHOS",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "Body: HERAKLES AND THE KERKOPES BETWEEN WOMAN AND OLD MAN"
+      },
+      "Additional Content": {
+        "Description": "Herakles walking right, but looking back. The Kerkopes, nude, both with bodies facing, arms bound. A white-haired man with a stick precedes the group, but looks back. A woman on the left follows.",
+        "Mythological": "Kerkopes: brothers captured by Herakles",
+        "Findspot": "Gela",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "LEKYTHOS"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-550 to -500"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this vase?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s the scene painted on the body?",
+          "answer": "Body: HERAKLES AND THE KERKOPES BETWEEN WOMAN AND OLD MAN"
+        }
+      ]
+    }
+  },
+  {
+    "id": 13828,
+    "image": "https://YOUR_IMAGE_HOST/images/18EFB132-7C99-48C4-AA09-BE0129341CE5_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "A: AJAX CARRYING THE BODY OF ACHILLES (?), WOMEN, BOEOTIAN SHIELDS, DEVICES, LION AND SNAKE, TRIPOD | B: RECOVERY OF HELEN (?) (WOMAN BETWEEN WARRIORS, SHIELD DEVICE, DISCS)"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Helene: cause of the Trojan war",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "grpo_metadata_six_prompt",
+    "model_output": {
+      "items": [
+        {
+          "field": "fabric",
+          "question": "What kind of clay is this vase made from?",
+          "answer": "ATHENIAN"
+        },
+        {
+          "field": "technique",
+          "question": "What painting style is used here?",
+          "answer": "BLACK-FIGURE"
+        },
+        {
+          "field": "shape",
+          "question": "What’s the name of this vase shape?",
+          "answer": "AMPHORA, NECK"
+        },
+        {
+          "field": "date",
+          "question": "When was this vase made?",
+          "answer": "-550 to -500"
+        },
+        {
+          "field": "attribution",
+          "question": "Who made this vase?",
+          "answer": ""
+        },
+        {
+          "field": "decoration",
+          "question": "What’s depicted on the vase?",
+          "answer": "A: AJAX CARRYING THE BODY OF ACHILLES (?), WOMEN, BOEOTIAN SHIELDS, DEVICES, LION AND SNAKE, TRIPOD | B: RECOVERY OF HELEN (?) (WOMAN BETWEEN WARRIORS, SHIELD DEVICE, DISCS)"
+        }
+      ]
+    }
+  }
+]

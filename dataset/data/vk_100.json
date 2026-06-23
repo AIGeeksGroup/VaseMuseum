@@ -1,0 +1,2602 @@
+[
+  {
+    "id": 1857,
+    "image": "https://YOUR_IMAGE_HOST/images/82C8ABFC-6D07-43AD-966E-B76D72CFF04A_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "PYXIS",
+        "Date": "-425 to -375",
+        "Attribution": "MONTLAURES P by HAMPE",
+        "Decoration": "Body: WOMEN AND EROTES, ONE WITH LYRE, ONE WITH BOX, DOOR, CLOTH SUSPENDED | Lid: PATTERN"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Eros: personification",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What mythical figures are depicted on the lid of this pyxis?",
+      "answer": "The figures on the lid of the pyxis are likely representations of Eros."
+    }
+  },
+  {
+    "id": 2041,
+    "image": "https://YOUR_IMAGE_HOST/images/A3E573F9-DDB5-4EDF-8AC4-0123777BEA4E_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-525 to -475",
+        "Attribution": "COPENHAGEN 114, GROUP OF by FOLLMANN",
+        "Decoration": "A,B: HERAKLES AND THE BULL, TREE, BIRDS"
+      },
+      "Additional Content": {
+        "Description": "Herakles leading a bull.",
+        "Mythological": "Herakles: divine Greek hero",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely function of this amphora based on its decoration and historical context?",
+      "answer": "The amphora was likely used for storing and transporting wine or oil, which were common commodities in ancient Greece during the Archaic period."
+    }
+  },
+  {
+    "id": 2042,
+    "image": "https://YOUR_IMAGE_HOST/images/CF41B27C-B396-4C13-96AD-5EED93EF361C_4_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-525 to -475",
+        "Attribution": "MUNICH 1519, P OF by FOLLMANN",
+        "Decoration": "A: JUDGEMENT OF PARIS (HERMES, ATHENA, APHRODITE, HERA) | B: ILIOUPERSIS, AINEIAS AND ANCHISES, ASKANIOS, WOMAN, ARCHER"
+      },
+      "Additional Content": {
+        "Description": "Scene showing an archer, an older male figure carried by a young male figure, a young male figure, a female figure: interpreted as Aineias carrying his father Anchises, Kreousa with Askanios and archer.",
+        "Mythological": "Aineias: son of Aphrodite :: Anchises: father of Aineias :: Kreousa III: wife of Aineias",
+        "Findspot": "Etruria",
+        "Artist": "Painter of Munich 1519: Attic vase painter",
+        "Dating": "510 BCE"
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely function of this amphora based on its depiction and the historical context?",
+      "answer": "The amphora was likely used for storing and transporting wine or oil during the Archaic period, as suggested by the mythological scenes depicting Aineias, his father Anchises, and Kreousa, which align with the historical practices and iconography of the time."
+    }
+  },
+  {
+    "id": 2097,
+    "image": "https://YOUR_IMAGE_HOST/images/1BA76813-BCAD-4B0D-A20D-47543CE51BDD_8_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "PYXIS",
+        "Date": "-450 to -400",
+        "Attribution": "",
+        "Decoration": "Body: APOLLO SEATED PLAYING LYRE, MUSES, COLUMN"
+      },
+      "Additional Content": {
+        "Description": "Mousaios or Apollon, seated, holding lyre and plectrum, surrounded by eight Mousai.",
+        "Mythological": "Apollon: god :: Mousa: goddesses :: Mousaios: musician",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely function of this Attic red-figure pyxis based on its decoration?",
+      "answer": "The pyxis was likely used for storing ointments or perfumes due to its shape and historical context."
+    }
+  },
+  {
+    "id": 2102,
+    "image": "https://YOUR_IMAGE_HOST/images/03345B8A-3BB6-4C81-9542-23FBBCCC98CC_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "PYXIS",
+        "Date": "-425 to -375",
+        "Attribution": "",
+        "Decoration": "Body: WOMAN, PLAYING PIPES, WOMEN, DANCING | Lid: PANTHERS, SWANS, LIONS"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": "360 - 340 BCE"
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely purpose of this pyxis based on its decoration and archaeological context?",
+      "answer": "The pyxis was likely used for holding perfumes or aromatic substances, as indicated by the depiction of women dancing and playing pipes, which were common representations on vases used for cosmetics."
+    }
+  },
+  {
+    "id": 2197,
+    "image": "https://YOUR_IMAGE_HOST/images/FDBC4337-77CB-4519-93D6-FAE1CF256CCC_5_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-550 to -500",
+        "Attribution": "<em>Manner of</em> ANTIMENES P by BEAZLEY",
+        "Decoration": "A: HERAKLES AND THE LION, ATHENA, IOLAOS, SHIELD DEVICE, TRIPOD | B: HERAKLES AND ATHENA, HERMES, IOLAOS"
+      },
+      "Additional Content": {
+        "Description": "Herakles shakes hands with Athena. With Iolaos and Hermes.",
+        "Mythological": "Herakles: divine Greek hero :: Iolaos: companion of Herakles",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What was the likely primary use of this amphora?",
+      "answer": "The amphora is likely used for storing and transporting wine or oil, which were important commodities in Ancient Greece."
+    }
+  },
+  {
+    "id": 2434,
+    "image": "https://YOUR_IMAGE_HOST/images/433531A0-F572-4DE0-B2F1-684ECEAAD457_3_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "LEKYTHOS",
+        "Date": "-600 to -550",
+        "Attribution": "",
+        "Decoration": "Body 1: DRAPED MAN (ORPHEUS ?), PLAYING KITHARA BETWEEN SIRENS | Body 1: MAN, PLAYING KITHARA BETWEEN SIRENS | Body 2: BULL BETWEEN LIONS, SIREN"
+      },
+      "Additional Content": {
+        "Description": "Apollon with lyre between antithetical Seirenes.",
+        "Mythological": "Seirenes: hybrid creatures :: Orpheus: musician",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely function of this lekythos based on its depiction of Orpheus playing the kithara between sirens?",
+      "answer": "The lekythos likely served as a funerary vessel, given its association with Orpheus, a figure known for his music that could soothe the souls of the dead."
+    }
+  },
+  {
+    "id": 2462,
+    "image": "https://YOUR_IMAGE_HOST/images/74A844C6-00F7-4CD5-A026-1F8571924B0D_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "KRATER, BELL",
+        "Date": "-400 to -300",
+        "Attribution": "KERCH by SCHEFOLD",
+        "Decoration": "A: QUINTAIN, HORSEMEN WITH SPEARS, EROTES (NIKAI ?) WITH WREATH AND FILLET, SHIELDS ON POSTS | B: DRAPED YOUTHS, DISC SUSPENDED"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Eros: personification",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely function of this red-figure krater based on its decoration and the historical period?",
+      "answer": "The krater was likely used for mixing wine and water during Greek banquets or symposia, as indicated by the imagery of drapery and possibly athletic activities depicted on the vase. The presence of mythological figures like Eros and horsemen with spears suggests a connection to the Roman festival of Lupercalia, which involved similar themes."
+    }
+  },
+  {
+    "id": 2691,
+    "image": "https://YOUR_IMAGE_HOST/images/D9F9BD71-6588-4EAC-9DD1-BD501FD25859_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "CHOUS",
+        "Date": "-450 to -400",
+        "Attribution": "",
+        "Decoration": "Body: YOUTHS, ONE IN DOG CART, TRIPOD ON COLUMN, CAKE"
+      },
+      "Additional Content": {
+        "Description": "Die Szene zeigt einen Knaben auf einem Hundekarren, vor ihm läuft ein weiterer Knabe mit einem Kranz in der Hand, der die Hunde an einem Strick führt. Im Hintergrund steht eine Basis mit einem Dreifuß darauf. Hinten auf dem Wagen ist außerdem ein Konstrukt aus einer langen Stange mit einem runden Objekt daran zu sehen, das oft als Opferkuchen (und damit als Preis eines Wettkampfes) gedeutet wurde, es könnte sich jedoch auch um einen Schild und damit die Imitation des Schildstechens bei den Panathenäen handeln. Zuordnung zu Festen: Anthesterien.",
+        "Mythological": "",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": "410 - 390 BCE"
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely purpose of the 'Cake' decoration on the vase based on the given information?",
+      "answer": "The 'Cake' decoration is typically associated with prizes in ancient Greek festivals, such as the Panathenaia."
+    }
+  },
+  {
+    "id": 2693,
+    "image": "https://YOUR_IMAGE_HOST/images/BB7D4144-5020-4FED-858C-04511F1C511E_6_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-500 to -450",
+        "Attribution": "DIOSPHOS P by HASPELS",
+        "Decoration": "A: HERAKLES AND TRITON, DOLPHIN, NEREID WITH FISH | B: NEREUS (OLD MAN) BETWEEN NEREIDS WITH FISH"
+      },
+      "Additional Content": {
+        "Description": "A: Fight between Herakles and Triton. B: Nereus and two Nereides.",
+        "Mythological": "Nereus: sea god",
+        "Findspot": "",
+        "Artist": "Diosphos Painter: Attic vase painter",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely use of this amphora based on its decoration and historical context?",
+      "answer": "The likely use of this amphora was for transporting and storing wine or oil, as it is a typical shape used in ancient Greece during the Black-figure period."
+    }
+  },
+  {
+    "id": 2731,
+    "image": "https://YOUR_IMAGE_HOST/images/BAFE47FB-D4C1-4130-A578-7DFF945A87BB_3_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "HYDRIA",
+        "Date": "-400 to -300",
+        "Attribution": "KERCH by UNKNOWN | MARSYAS P by SALVIAT",
+        "Decoration": "Body: DIONYSOS ON PANTHER, WITH SATYR AND MAENADS, EROTES"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Eros: personification",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely function of this hydria based on its decoration and the historical period?",
+      "answer": "The likely function of this hydria is for storing water or wine, as it is a type of Attic red-figure pottery used during the 4th century BCE and typically featured scenes related to Dionysian cults and festivities."
+    }
+  },
+  {
+    "id": 2848,
+    "image": "https://YOUR_IMAGE_HOST/images/BD27172F-0884-46A6-8548-1850C9049201_4_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, BELLY, TYPE B",
+        "Date": "-575 to -525",
+        "Attribution": "",
+        "Decoration": "A: HERAKLES AND KYKNOS (?), ATHENA, ONLOOKER | B: WARRIOR ON HORSEBACK BETWEEN WARRIOR AND YOUTH WITH SPEAR (SHIELD DEVICES, LION PROTOME, STAR)"
+      },
+      "Additional Content": {
+        "Description": "A: Athena, Herakles, Ares and Kyknos.",
+        "Mythological": "Kyknos I: son of Ares",
+        "Findspot": "Kyme, Cumae",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely function of this black-figure amphora?",
+      "answer": "The likely function of this black-figure amphora is for wine storage or ritual purposes given its size and shape, which is characteristic of ancient Greek vases used for such purposes."
+    }
+  },
+  {
+    "id": 2956,
+    "image": "https://YOUR_IMAGE_HOST/images/FB26BF66-2220-4517-808C-022225189973_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "LEKYTHOS",
+        "Date": "-500 to -450",
+        "Attribution": "<em>Group of</em> HAIMON P by GENIERE",
+        "Decoration": "Body: APOLLO (?) WITH ARTEMIS (?) AND LETO (?), ALL SEATED ON STOOLS"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely function of this lekythos based on the mythological figures depicted?",
+      "answer": "The likely function of this lekythos is as a votive offering or grave marker, given the depiction of Apollo and Artemis, who were often associated with funerary practices in ancient Greece."
+    }
+  },
+  {
+    "id": 2973,
+    "image": "https://YOUR_IMAGE_HOST/images/C7CFE3DC-EC3A-4F24-95F9-D36A9F5C53AF_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "LEKYTHOS",
+        "Date": "-525 to -475",
+        "Attribution": "<em>Group of</em> HAIMON P by GENIERE",
+        "Decoration": "Body: GIGANTOMACHY, ATHENA AND GIANT (ENKELADOS) FALLING BETWEEN AMAZONS ON HORSEBACK, IVY"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Gigantes: giants",
+        "Findspot": "",
+        "Artist": "Haimon Group: Attic vase painters",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely function of this lekythos based on its decoration and historical context?",
+      "answer": "This lekythos was likely used as a container for oil or water, commonly used in ancient Greek funerary contexts. The depiction of a gigantomachy scene between Athena and Enkelados, a giant, suggests it may have been associated with a funeral rite, possibly for a warrior who defended against giants, reflecting the mythological theme."
+    }
+  },
+  {
+    "id": 3048,
+    "image": "https://YOUR_IMAGE_HOST/images/9599D7AB-253E-423E-A18D-6DE8C571B43D_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "LEKYTHOS",
+        "Date": "-525 to -475",
+        "Attribution": "GELA P by GENIERE | GELA P by TUSA",
+        "Decoration": "Body: HERAKLES AND APOLLO, STRUGGLE FOR THE TRIPOD, BETWEEN WOMAN (ARTEMIS ?) AND YOUTH IOLAOS (?), DORIC COLUMN"
+      },
+      "Additional Content": {
+        "Description": "Herakles and Apollon struggling for the tripod. Deer between the contenders. To the right of Herakles is Iolaos. To the left of Apollon is a column. On the far left Artemis.",
+        "Mythological": "Herakles: divine Greek hero",
+        "Findspot": "",
+        "Artist": "Gela Painter: Attic vase painter",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What was the likely primary function of this lekythos based on its visual content and historical context?",
+      "answer": "The primary function of this lekythos was likely to hold oil or perfume, as lekythoi were commonly used in ancient Greece for these purposes, especially during funerary contexts."
+    }
+  },
+  {
+    "id": 3161,
+    "image": "https://YOUR_IMAGE_HOST/images/06FA0611-2A5D-4EC1-B04A-6C9D7AD82A3C_3_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "OINOCHOE",
+        "Date": "-525 to -475",
+        "Attribution": "",
+        "Decoration": "Body: DIONYSOS SEATED IN BUILDING, AND SATYR, CHARIOT"
+      },
+      "Additional Content": {
+        "Description": "Dionysos waiting on a quadriga (visible only the horses), on front of him a silen.",
+        "Mythological": "Dionysos: Greek god",
+        "Findspot": "Spina",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely function of this oinochoe based on its decoration and the historical period?",
+      "answer": "The oinochoe was likely used for serving wine and possibly also for rituals related to Dionysos, who was the god of wine and ecstasy. The presence of Dionysos and a satyr in the decoration suggests it could have been used during ritual ceremonies or celebrations involving wine."
+    }
+  },
+  {
+    "id": 3254,
+    "image": "https://YOUR_IMAGE_HOST/images/45F2514F-2F2B-415A-8FEF-F73A842CA461_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-525 to -475",
+        "Attribution": "<em>Manner of</em> NIKOXENOS P by FOLLMANN",
+        "Decoration": "A: APOLLO PLAYING KITHARA, ALTAR, PALM TREE, BETWEEN ARTEMIS AND LETO | B: APOLLO SEATED, PLAYING KITHARA, ARTEMIS, LETO"
+      },
+      "Additional Content": {
+        "Description": "Apollinische Trias beim Opfer. Block-Altar (auf Basis, Abschlussprofil, Volutenaufsatz), dahinter Palme.",
+        "Mythological": "Apollon: god :: Artemis: goddess :: Leto: mother of Apollon and Artemis",
+        "Findspot": "",
+        "Artist": "Nikoxenos Painter: Attic vase painter",
+        "Dating": "510 - 500 BCE"
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What was the likely function of this amphora based on the mythological figures depicted?",
+      "answer": "The amphora was likely used for religious or ritual purposes related to the worship of Apollo, Artemis, and Leto, as depicted by the mythological figures and the altar in the background."
+    }
+  },
+  {
+    "id": 3255,
+    "image": "https://YOUR_IMAGE_HOST/images/BA024C1A-08F4-45DF-90FC-12B54971AB90_4_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-550 to -500",
+        "Attribution": "ANTIMENES P by FOLLMANN",
+        "Decoration": "A: HERAKLES AND ATHENA, HERMES, IOLAOS, WOMAN | B: THESEUS (IN NEBRIS) AND THE MINOTAUR, YOUTH, WOMAN"
+      },
+      "Additional Content": {
+        "Description": "Athena faces Herakles. Behind her stands Hermes. Behind Herakles stands a woman with flower and Iolaos with club and sword.",
+        "Mythological": "Herakles: divine Greek hero",
+        "Findspot": "Tarquinia, Corneto",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely function of this amphora based on its decoration?",
+      "answer": "The amphora's decoration, featuring a narrative scene with heroic figures like Herakles and the Minotaur, suggests it was used for ceremonial purposes, possibly in festivals or dedications related to these mythological stories."
+    }
+  },
+  {
+    "id": 3273,
+    "image": "https://YOUR_IMAGE_HOST/images/F6DEB21C-5A2A-435E-88A4-1EFCFD48726C_7_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-525 to -475",
+        "Attribution": "EDINBURGH P by BEAZLEY",
+        "Decoration": "A: APOLLO PLAYING KITHARA BETWEEN HERMES AND ARTEMIS | B: HERMES, DIONYSOS"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Artemis: goddess :: Hermes: messenger of the gods",
+        "Findspot": "",
+        "Artist": "Edinburgh Painter: Attic vase painter",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What was the likely function of this amphora based on its decoration and the mythology depicted?",
+      "answer": "The likely function of this amphora was to hold wine, as black-figure vases from this period were commonly used for storing and serving wine. The presence of Apollo, Hermes, and Artemis, who are associated with music and the god of wine Dionysos (Dionysus), further suggests its connection to rituals or festivals related to these deities."
+    }
+  },
+  {
+    "id": 3286,
+    "image": "https://YOUR_IMAGE_HOST/images/FA60B986-9735-4E21-8B9A-97322FA4693F_5_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "LEKYTHOS",
+        "Date": "-525 to -475",
+        "Attribution": "GELA P by HASPELS",
+        "Decoration": "Body: SACRIFICE, BULLS AT ALTAR, BIRDS, IVY, COLUMNS"
+      },
+      "Additional Content": {
+        "Description": "Sacrifice, bulls at altar, birds, ivy, columns. Auf dem großen rechteckigen Altar (mit Deckplatte) im Zentum der Darstellung steht ein nach re. gewendeter Stier. Der. A. wird flankiert von je 2 anthitetisch angeordneten Stierpaaren, von denen jeweils nur die vordere Körperhälfte sichtbar ist.",
+        "Mythological": "",
+        "Findspot": "Gela",
+        "Artist": "Gela Painter: Attic vase painter",
+        "Dating": "525 - 475 BCE"
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely purpose of the figure depicted on the lekythos, based on the mythological figures present?",
+      "answer": "The likely purpose of the figure depicted on the lekythos is related to a mythological scene involving sacrifice, as indicated by the presence of bulls at an altar and the depiction of a bull and other mythological elements."
+    }
+  },
+  {
+    "id": 3288,
+    "image": "https://YOUR_IMAGE_HOST/images/5B9366AF-DF23-4EDC-B5CB-924498A5A869_4_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "MODERN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "SKYPHOS",
+        "Date": "-525 to -475",
+        "Attribution": "GELA P by UNKNOWN | GENUINE QUERY",
+        "Decoration": "A: HERAKLES AND THE BULL, VINE | B: SACRIFICE, BULLS AT ALTAR"
+      },
+      "Additional Content": {
+        "Description": "A: Herakles and the bull, vine.B: Sacrifice, bulls at altar. Ein Ochse steht mit gesenktem Kopf auf einem Altar, davor und links davon zwei weitere.",
+        "Mythological": "",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": "525 - 475 BCE"
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely purpose of the skyphos depicted on this vase?",
+      "answer": "The skyphos is likely used for drinking wine and may have been associated with sacrifices, as suggested by the depiction of a sacrifice scene."
+    }
+  },
+  {
+    "id": 3367,
+    "image": "https://YOUR_IMAGE_HOST/images/BCC49E51-44AA-411A-B375-C639DCB67CF2_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "A: AJAX WITH BOEOTIAN SHIELD (DEVICE, FELINE PROTOME BETWEEN SNAKES) CARRYING THE BODY OF ACHILLES, PELEUS (OLD MAN WITH STAFF), WARRIORS, SHIELD DEVICE, BUKRANION | B: ILIOUPERSIS, AINEIAS, WITH BOEOTIAN SHIELD, CARRYING ANCHISES, BETWEEN KREUSA AND WARRIOR, DOG, SHIELD DEVICE, IVY WREATH"
+      },
+      "Additional Content": {
+        "Description": "A: Kreousa, Aineias carrying Anchises, dog, hoplite. B: Aias and the dead Achilleus.",
+        "Mythological": "Kreousa III: wife of Aineias",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely function of this amphora based on the depicted figures and their mythological context?",
+      "answer": "The amphora was likely used for storing wine and may have been associated with funerary or memorial practices due to the depiction of Ajax carrying the body of Achilles and the presence of mythological figures such as Peleus and Ilioupersis."
+    }
+  },
+  {
+    "id": 3401,
+    "image": "https://YOUR_IMAGE_HOST/images/7E9CD51D-9E19-4F0F-85AB-B38C57923BC5_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "CHOUS",
+        "Date": "-450 to -400",
+        "Attribution": "",
+        "Decoration": "Body: ATHLETES, YOUTHS BOXING BETWEEN STELAI OR POSTS"
+      },
+      "Additional Content": {
+        "Description": "Ringende Kinder mit Kranz, links und rechts sind zwei Stelen aufgestellt, die wohl die Begrenzung des Ringes darstellen. Zuordnung zu Festen: Anthesterien (van Hoorn).",
+        "Mythological": "",
+        "Findspot": "Athens",
+        "Artist": "",
+        "Dating": "420 BCE"
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely function of this vase based on its depiction and the mythological figures it portrays?",
+      "answer": "The vase likely served as a drinking vessel used during the Anthesteria festival in Athens, where athletes and youths would engage in boxing matches, as depicted in the scene."
+    }
+  },
+  {
+    "id": 3414,
+    "image": "https://YOUR_IMAGE_HOST/images/00F58F28-89DA-48F4-B16B-093B601DD9FF_5_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "CHOUS",
+        "Date": "-450 to -400",
+        "Attribution": "<em>Manner of</em> MEIDIAS P by UNKNOWN",
+        "Decoration": "Body: YOUTHS, ONE RIDING GOAT, ONE WITH CART AND GRAPES"
+      },
+      "Additional Content": {
+        "Description": "Zwei Knaben mit Kranz. Zuordnung zu Festen: Anthesterien. For additional images see Walters Art Museum: https://art.thewalters.org/detail/7135/wine-jug-with-boy-riding-goat/.",
+        "Mythological": "",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": "410 - 400 BCE"
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What festival might the figures on this vase be associated with based on their depiction?",
+      "answer": "The figures on this vase appear to be associated with the Anthesteria, as suggested by the description mentioning the Anthesterien. This festival was a Dionysian festival in ancient Greece where young men wore garlands (kranai) and participated in revels."
+    }
+  },
+  {
+    "id": 3455,
+    "image": "https://YOUR_IMAGE_HOST/images/290924F9-328C-4520-92DD-20438A858906_4_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "OINOCHOE",
+        "Date": "-450 to -400",
+        "Attribution": "ERETRIA P by LEZZI-HAFTER | SHUVALOV P by ORLANDINI | SHUVALOV P by TRENDALL",
+        "Decoration": "Body: HERAKLES AND THE DEER, ARTEMIS, APOLLO (ALL NAMED)"
+      },
+      "Additional Content": {
+        "Description": "Herakles fighting with the Kerynitian Deer. With Artemis and Apollon.",
+        "Mythological": "Herakles: divine Greek hero",
+        "Findspot": "",
+        "Artist": "Eretria Painter: Attic vase painter",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely historical period during which this oinochoe was created based on the technique and date range?",
+      "answer": "The oinochoe was likely created around the 5th century BCE, specifically within the Late Archaic period, as indicated by its red-figure technique and the date range of -450 to -400."
+    }
+  },
+  {
+    "id": 3648,
+    "image": "https://YOUR_IMAGE_HOST/images/71A6DFED-F9D8-40C0-BFD7-76C4F6E4AE2D_6_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "STAND",
+        "Date": "-525 to -475",
+        "Attribution": "<em>Perhaps</em> EUERGIDES P by BOTHMER | <em>Perhaps</em> SIKANOS by BOTHMER",
+        "Decoration": "A: IRIS | B: SPHINX"
+      },
+      "Additional Content": {
+        "Description": "A: painted Sphinx crouching to the left with plastically formed outstretched wings and the female head turned to the side",
+        "Mythological": "",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": "520 BCE"
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "Based on the visual details and the metadata, what was the likely function of this vase?",
+      "answer": "The vase is most likely a kylix, which was typically used for drinking wine at banquets and other social gatherings."
+    }
+  },
+  {
+    "id": 3724,
+    "image": "https://YOUR_IMAGE_HOST/images/C48B3819-765F-4096-B0B3-D2545218FA38_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "CHOUS",
+        "Date": "-450 to -400",
+        "Attribution": "<em>Compare</em> AISON by LEZZI-HAFTER | <em>Perhaps</em> MEIDIAS P by UNKNOWN | <em>Related to</em> MEIDIAS P by ROBERTSON",
+        "Decoration": "Body: ERIGONE AND ORESTES BEFORE APOLLO (OR KREUSA AND ION BEFORE APOLLO ?)"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely function of this vase based on its depiction?",
+      "answer": "The vase likely served as a storage container for oil or wine, given the common usage of such vases during the Archaic period."
+    }
+  },
+  {
+    "id": 3735,
+    "image": "https://YOUR_IMAGE_HOST/images/739236DF-5E2E-40C0-BE18-66F2598E781A_6_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "HYDRIA",
+        "Date": "-475 to -425",
+        "Attribution": "POLYGNOTOS, GROUP OF by SCHMIDT",
+        "Decoration": "Shoulder: ORACULAR HEAD OF ORPHEUS, MAN, MUSES WITH PIPES AND LYRES (TERPANDROS ?)"
+      },
+      "Additional Content": {
+        "Description": "Zwischen mehreren Musen steht in der Mitte des Bildes ein bärtiger, nackter, bekränzter Mann, der einen Mantel über der linken Schulter trägt und sich mit dem linken Bein auf einen Felsen stützt. Von der erhobenen linken Hand hängen zwei Bänder hinunter. Unter ihm neben dem Felsen ein abgetrennter Kopf. Die Szene wird von M. Schmidt als Orakelbefragung des Orpheushauptes gedeutet.",
+        "Mythological": "Kalliope II :: Mousa: goddesses :: Orpheus: musician",
+        "Findspot": "unknown",
+        "Artist": "Polygnotos Group: undetermined, Attic vase painters",
+        "Dating": "440 - 430 BCE"
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely function of this vase based on the mythological figures depicted and the historical period?",
+      "answer": "The vase was likely used for ceremonial purposes, possibly in a ritual related to the Orphic mysteries, as suggested by the depiction of Orpheus and the Muses in an oracle setting."
+    }
+  },
+  {
+    "id": 3741,
+    "image": "https://YOUR_IMAGE_HOST/images/7DDABD32-10BC-4ADB-8467-793F87604006_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "OLPE",
+        "Date": "-525 to -475",
+        "Attribution": "",
+        "Decoration": "Body: ODYSSEUS UNDER RAM, ESCAPING FROM POLYPHEMOS, SEATED"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Odysseus: king of Ithaka",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the most likely historical context for this black-figure olpe based on its decoration and the artist's technique?",
+      "answer": "The black-figure olpe likely dates back to the Archaic period in ancient Greece between -525 and -475, as it features a narrative scene of Odysseus escaping from Polyphemus, which aligns with the artistic conventions and mythological themes popular during this time."
+    }
+  },
+  {
+    "id": 3746,
+    "image": "https://YOUR_IMAGE_HOST/images/67A0ED34-C1D8-41B0-83B6-DA64E7A55596_4_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "LOUTROPHOROS",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "Body 1: FUNERARY, PROTHESIS, WOMEN MOURNING, VALEDICTION (DRAPED MEN) | Body 2: HORSEMEN IN THRACIAN CLOAKS WITH SPEARS | Neck A1 and B1: FUNERARY, WOMEN MOURNING, ONE WITH LOUTROPHOROS | Neck A2: ANIMAL FRIEZE, LIONS | Neck B2: ANIMAL FRIEZE, ROSETTE BETWEEN LIONS"
+      },
+      "Additional Content": {
+        "Description": "Lamenting girl sitting on a block next to a kline with the deceased.",
+        "Mythological": "",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely historical context of the mythological figures depicted on this loutrophoros?",
+      "answer": "The mythological figures, particularly the draped men and horsemen, suggest a Greek funerary context, as loutrophoroi were typically used in ancient Greek funerals to transport ritual objects and offerings."
+    }
+  },
+  {
+    "id": 3754,
+    "image": "https://YOUR_IMAGE_HOST/images/9085A0A7-55D1-4157-9A78-2D3FE56B1D82_5_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "LEKYTHOS, SQUAT",
+        "Date": "-425 to -375",
+        "Attribution": "<em>Manner of</em> MEIDIAS P by UNKNOWN",
+        "Decoration": "Body: THAMYRAS SEATED WITH KITHARA BETWEEN MUSES ERATO, SEATED WITH LYRE, AND KLIO, WITH SCROLL, ALL NAMED, TREE"
+      },
+      "Additional Content": {
+        "Description": "Thamyras with his kithara and the Mousai Erato and Klio.",
+        "Mythological": "Mousa: goddesses :: Thamyris: musician",
+        "Findspot": "",
+        "Artist": "manner of the Meidias Painterr: Attic vase painter(s)",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely function of this lekythos based on its decoration and the mythological figures depicted?",
+      "answer": "The lekythos is likely used for funerary purposes, as it often served to hold oil or perfume and was associated with mourning and remembrance in ancient Greece. The presence of Thamyris, a musician, along with the Muses Erato and Klio, suggests that the vase may also symbolize the transition of a deceased person into the afterlife, where music and poetic inspiration were celebrated."
+    }
+  },
+  {
+    "id": 3764,
+    "image": "https://YOUR_IMAGE_HOST/images/042C07CF-49F9-4A91-B14E-1AA5699124C8_6_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "A: GIGANTOMACHY, ATHENA AND GIANT, ARES (?), BOEOTIAN SHIELD | B: HERAKLES AND KERBEROS, ATHENA (?), HERMES"
+      },
+      "Additional Content": {
+        "Description": "Herakles leads Kerberos. With Athena and Hermes.",
+        "Mythological": "Herakles: divine Greek hero :: Gigantes: giants",
+        "Findspot": "Cerveteri, Caere",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely purpose of this amphora based on its decoration and the historical period?",
+      "answer": "The amphora was likely used for transporting wine or oil during the Archaic period, specifically during the time of the Black-figure technique, which was characteristic of Athenian pottery made between approximately -550 to -500 BCE."
+    }
+  },
+  {
+    "id": 3765,
+    "image": "https://YOUR_IMAGE_HOST/images/4B685E5E-8A03-4F52-BA62-2AD74FD0CDDE_3_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "A: HERAKLES AND NESSOS, DEIANEIRA | B: CENTAUROMACHY, KAINEUS, BETWEEN CENTAURS, ONE NAMED"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Nessos: centaur",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely function of this black-figure amphora based on its decoration and historical context?",
+      "answer": "This black-figure amphora was likely used for storing wine or oil during the Archaic period (-650 to -480 BCE), reflecting its role as a container for important commodities during this time."
+    }
+  },
+  {
+    "id": 3766,
+    "image": "https://YOUR_IMAGE_HOST/images/F9C39915-B7E5-4A8F-8CB1-5D5317D15A18_5_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-525 to -475",
+        "Attribution": "DIOSPHOS P by UNKNOWN | MOURNING TROJAN WOMEN, P OF* by KUNZE-GOTTE",
+        "Decoration": "A: HERAKLES AND TRITON | B: NEREUS AND NEREIDS, DOLPHINS"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Triton: sea god",
+        "Findspot": "",
+        "Artist": "Diosphos Painter: Attic vase painter",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely mythological significance of the figure Triton depicted on the vase?",
+      "answer": "Triton is the sea god in Greek mythology. His presence on the vase, alongside Heracles, suggests he might represent a sea-related theme or story, possibly involving a voyage or battle at sea."
+    }
+  },
+  {
+    "id": 3767,
+    "image": "https://YOUR_IMAGE_HOST/images/54197DFB-5326-4326-AD91-ED9B9F8CB45F_8_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "A,B: HERAKLES (WITHOUT LIONSKIN) OR THESEUS AND THE BULL, TREE, CLOAK SUSPENDED"
+      },
+      "Additional Content": {
+        "Description": "Herakles captures and ties up the Cretan Bull.",
+        "Mythological": "Herakles: divine Greek hero",
+        "Findspot": "Vulci",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely function of this amphora based on its decoration and historical context?",
+      "answer": "The amphora is likely used for storing wine or oil, which was common practice during the Black-figure period and given the depiction of mythical figures like Herakles, it could also have been used as a ritual vessel."
+    }
+  },
+  {
+    "id": 3891,
+    "image": "https://YOUR_IMAGE_HOST/images/F44559F3-8DA8-4707-9A1E-791295665B6D_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-550 to -500",
+        "Attribution": "DOT-BAND CLASS by SCHAUENBURG | LEAGROS GROUP by BOTHMER",
+        "Decoration": "A: ILIOUPERSIS, AINEIAS AND ANCHISES WITH APHRODITE (ALL NAMED) ASKANIOS (?), BOEOTIAN SHIELD, NONSENSE INSCRIPTIONS | B: DIONYSOS WITH KANTHAROS BETWEEN SATYR PLAYING PIPES AND SATYR | Neck A: CHARIOT, NONSENSE INSCRIPTIONS | Neck B: WARRIOR, DEPARTING (OLD MAN, WARRIOR, DOG, WOMAN) NONSENSE INSCRIPTIONS"
+      },
+      "Additional Content": {
+        "Description": "Scene showing a female figure (Aphrodite), an older male figure (Anchises) carried by a young male figure (Aineias); figures named",
+        "Mythological": "Aineias: son of Aphrodite :: Anchises: father of Aineias :: Aphrodite: goddess",
+        "Findspot": "",
+        "Artist": "Dot-Band Class: Attic vase painters",
+        "Dating": "510 - 490 BCE"
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What was the likely function of the amphora depicted in the image, based on its typology and decoration?",
+      "answer": "The amphora's black-figure technique and decorative elements suggest it was used for storing and transporting wine, given the common association of such vases with Dionysian rituals and the presence of the satyr figures, who are typically linked with the cult of Dionysus."
+    }
+  },
+  {
+    "id": 3892,
+    "image": "https://YOUR_IMAGE_HOST/images/74927612-8229-4D7E-89FB-A3BEF5DA86D2_4_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "OLPE",
+        "Date": "-525 to -475",
+        "Attribution": "",
+        "Decoration": "Body: AINEIAS CARRYING ANCHISES, WOMAN (KREUSA ?), ARCHER, OLD MAN WITH SPEAR,BOEOTIAN SHIELD"
+      },
+      "Additional Content": {
+        "Description": "Scene showing (from l. to r.) a standing archer, an older male figure carried by warrior, a standing female figure, a standing elderly male figure; scene interpreted as Aineias carrying his father Anchises, Kreousa (?)",
+        "Mythological": "Aineias: son of Aphrodite :: Anchises: father of Aineias :: Kreousa III: wife of Aineias",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": "510 BCE"
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely function of the vase based on its shape and decoration?",
+      "answer": "The vase is most likely used for mixing wine and water, as olpe were typically used for this purpose in ancient Greece."
+    }
+  },
+  {
+    "id": 4017,
+    "image": "https://YOUR_IMAGE_HOST/images/2945E0A2-5A85-4410-9668-5E261FAB6ED1_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "LEKYTHOS",
+        "Date": "-525 to -475",
+        "Attribution": "GELA P by HASPELS",
+        "Decoration": "Body: BULLS AT ALTAR WITH FIRE, DORIC COLUMNS"
+      },
+      "Additional Content": {
+        "Description": "Mittig brennender Altar (rechteckiger Block mit Triglyphen-Metopen-Fries-artigem Deckor und Volutenaufsatz) neben dem rechts und links je ein mit Stemma geschmückter Stier steht. Im Hintergrund der beiden Stieren befindet sich je eine Säule mit dorischem Kapitell und Gebälk.",
+        "Mythological": "",
+        "Findspot": "",
+        "Artist": "Gela Painter: Attic vase painter",
+        "Dating": "500 - 480 BCE"
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely function of this lekythos based on its decoration and historical context?",
+      "answer": "The lekythos with bulls at an altar and doric columns is likely used as a funerary vessel, as such scenes are common in black-figure pottery during the Archaic period and typically depict scenes of sacrifice or commemoration."
+    }
+  },
+  {
+    "id": 4019,
+    "image": "https://YOUR_IMAGE_HOST/images/326B48EB-FA6D-4263-8C13-47CA16886FB2_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "LEKYTHOS",
+        "Date": "-500 to -450",
+        "Attribution": "AISCHINES P by ZWIERLEIN-DIEHL",
+        "Decoration": "Body: MAENAD WITH THYRSOS, DEER SKIN, SEATED ON ROCK"
+      },
+      "Additional Content": {
+        "Description": "Maenad with thyrsos sitting on a summit.",
+        "Mythological": "Mainades: female followers of Dionysos",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What was the likely primary function of this lekythos based on its decoration and the era it was created?",
+      "answer": "The lekythos was likely used as a funeral vessel, as maenads were often associated with the burial rites of the dead and the cult of Dionysus, who was a god of death and rebirth."
+    }
+  },
+  {
+    "id": 4088,
+    "image": "https://YOUR_IMAGE_HOST/images/E2B29F82-2A49-4B89-A5E0-0897F5DEC9BF_12_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "LEKYTHOS",
+        "Date": "-450 to -400",
+        "Attribution": "LONDON E 342, P OF by BEAZLEY",
+        "Decoration": "Body: HERMES, DRAPED YOUTH, SPINNING TOP, BAG SUSPENDED"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Hermes: messenger of the gods",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely purpose of this vase based on its depiction and the context of the red-figure technique?",
+      "answer": "The vase is most likely used as a lekythos, which was typically employed for funerary purposes in ancient Greece, to hold funeral oil or unguents, given the presence of a draped youth spinning a top, a common iconographic element in funeral vases depicting scenes from the afterlife."
+    }
+  },
+  {
+    "id": 4090,
+    "image": "https://YOUR_IMAGE_HOST/images/B67C5794-5E49-49CA-BC96-AD8B1DB70B83_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "SKYPHOS",
+        "Date": "-550 to -500",
+        "Attribution": "HERON GROUP by HASPELS",
+        "Decoration": "A: THEATRICAL, CHORUS OF WARRIORS ON DOLPHINS, DRAPED MAN WITH PIPES | B: THEATRICAL, CHORUS OF WARRIORS ON OSTRICHES, DANCING DWARF, DRAPED MAN WITH PIPES"
+      },
+      "Additional Content": {
+        "Description": "A: Ostrich dancers faced by a small dressed Pan. B: Dolphin-riders and a piper.",
+        "Mythological": "Pan: goat-god",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the historical period likely represented by this vase, considering its technique and shape?",
+      "answer": "The vase is likely from the Archaic period, as indicated by the Black-Figure technique and the presence of a skyrphos shape."
+    }
+  },
+  {
+    "id": 4091,
+    "image": "https://YOUR_IMAGE_HOST/images/912AE41A-8100-437B-B29C-2790C6543FF9_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "CHOUS",
+        "Date": "-450 to -400",
+        "Attribution": "",
+        "Decoration": "Body: CHILDREN IMITATING WEDDING OF DIONYSOS, SOME CARRYING PLOUGH (?), DIONYSOS WITH THYRSOS AND KANTHAROS IN CART"
+      },
+      "Additional Content": {
+        "Description": "Kinder spielen den Hochzeitszug des Dionysos nach (Parodie?): Der «Gott» mit Thyrsos und Kantharos thront auf einem zweirädrigen Sitzwagen, über dem sich ein Baldachin aus Efeu spannt. Ein weiterer Knabe, der «parochos» besteigt gerade den Wagen, wendet sich dabei zurück zur «Braut» (Basilinna?) und fordert sie auf, ebenfalls einzusteigen. Dahinter drei Knaben, die den «maypole» tragen. Zuordnung zu Festen: Anthesterien (Parke, Deubner).",
+        "Mythological": "Bacchus: Roman deity",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": "450 BCE"
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely function of this vase based on its depiction?",
+      "answer": "The vase likely served as a drinking vessel used during festive celebrations, such as the Anthesteria, where scenes from Dionysian myths were parodied."
+    }
+  },
+  {
+    "id": 4093,
+    "image": "https://YOUR_IMAGE_HOST/images/249FD909-C86B-4DD6-8A99-21817F93598D_4_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "PELIKE",
+        "Date": "-525 to -475",
+        "Attribution": "",
+        "Decoration": "A: MAN IN CHITON PLAYING KITHARA ON PLATFORM | B: MAN PLAYING PIPES AND YOUTH SINGING ON PLATFORM, BOTH DRAPED"
+      },
+      "Additional Content": {
+        "Description": "Agon of musicians: musician standing on a bema; spectators",
+        "Mythological": "",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What was the likely function of this vase based on the depicted mythological figures and their activity?",
+      "answer": "The vase was likely used during a symposium or an agon (competition) related to music, as it depicts musicians playing music and singing."
+    }
+  },
+  {
+    "id": 4321,
+    "image": "https://YOUR_IMAGE_HOST/images/D0056F87-C2E0-40FB-8C26-DCA64676B164_3_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "SKYPHOS",
+        "Date": "-525 to -475",
+        "Attribution": "<em>Manner of</em> THESEUS P by HASPELS",
+        "Decoration": "A: CULT, DIONYSOS IN SHIP CART WITH SATYRS PLAYING PIPES | B: CULT, PROCESSION WITH BULL, DRAPED FIGURES, YOUTH WITH INCENSE BURNER, WOMAN WITH BASKET"
+      },
+      "Additional Content": {
+        "Description": "Between pipe-playing satyrs Dionysos is sitting in a ship-chariot with a beak in form of an animal-head. The chariot is pulled by two satyrs; following the ship-car is a youth in a short dress; a procession of six figures; first the kanephoros, then a youth holding a thymiaterion and two men with sprigs; finally two more men with a bull. - Because of their curious iconography, the scenes must depict a specific festival in honor of Dionysos. Zuordnung zu Festen: Anthesterien (Lehnstaedt, Simon); Große Dionysia (Frickenhaus, Gasparri in LIMC).",
+        "Mythological": "Dionysos: Greek god :: Silenoi: satyr",
+        "Findspot": "Bologna, Bononia, Felsina",
+        "Artist": "Theseus Painter: Attic vase painter",
+        "Dating": "500 - 490 BCE"
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely purpose or function of the black-figure skyphos based on its decoration and historical context?",
+      "answer": "The likely purpose of the black-figure skyphos is to serve as a drinking vessel used during specific Dionysian festivals. The imagery of Dionysos in a ship-chariot with satyrs playing pipes is characteristic of Dionysian processions, suggesting it was part of festive celebrations."
+    }
+  },
+  {
+    "id": 4330,
+    "image": "https://YOUR_IMAGE_HOST/images/A619596C-DBA2-4876-98C7-D838A652927A_4_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, BELLY, TYPE B",
+        "Date": "-550 to -500",
+        "Attribution": "<em>Manner of</em> BERLIN 1686, P OF by UNKNOWN | <em>Manner of</em> PRINCETON P by UNKNOWN",
+        "Decoration": "A: BEES ATTACKING MEN, ALL NAMED | B: SATYRS AND MAENADS"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Aigolios: Cretan thief",
+        "Findspot": "Vulci",
+        "Artist": "",
+        "Dating": "550 - 525 BCE"
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely purpose of this amphora based on its decoration and the mythological figures depicted?",
+      "answer": "The amphora was likely used for storing oil or wine, as such vases were commonly used in ancient Greece for such purposes. The scenes of bees attacking humans and satyrs and maenads suggest that it might have been associated with ritualistic or ceremonial contexts, possibly related to celebrations or offerings."
+    }
+  },
+  {
+    "id": 4518,
+    "image": "https://YOUR_IMAGE_HOST/images/28FA265A-75E5-446F-9740-39C5895D0CC8_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "HYDRIA",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "Body: AINEIAS AND ANCHISES, ARCHER, WOMEN"
+      },
+      "Additional Content": {
+        "Description": "Kreousa, Aphrodite, Aineias, Anchises and an archer.",
+        "Mythological": "Kreousa III: wife of Aineias",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "Which mythological figure is most likely associated with the central scene on this hydria based on the provided metadata and additional content?",
+      "answer": "Aineias"
+    }
+  },
+  {
+    "id": 4643,
+    "image": "https://YOUR_IMAGE_HOST/images/915DC1BC-D319-482C-97C0-58B131F33287_4_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-525 to -475",
+        "Attribution": "",
+        "Decoration": "A: APOLLO, PLAYING KITHARA, WITH ARTEMIS AND LETO (?), DEER | B: HERMES, ATHENA AND DIONYSOS, GOAT"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Mousa: goddesses",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What was the likely primary function of this amphora based on the depicted mythological figures and the artist's technique?",
+      "answer": "The likely primary function of this amphora was to serve as a container for wine or oil. The presence of Apollo playing the kithara and Artemis with Leto, along with mythological scenes involving Dionysos, suggest a connection to rituals or ceremonies associated with these deities, which were often used for libations or offerings. The black-figure technique indicates it is from the Archaic period, and such amphorae were commonly used for storing and transporting liquids during this time."
+    }
+  },
+  {
+    "id": 4644,
+    "image": "https://YOUR_IMAGE_HOST/images/03966179-A1DC-4139-9B8B-A362C41EDDC7_4_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "A: APOLLO PLAYING KITHARA BETWEEN MUSES (?) | B: WARRIOR AND ARCHER DEPARTING, OLD MAN AND WOMAN, SHIELD DEVICE, BOAR PROTOME"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Apollon: god :: Mousa: goddesses",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely historical period of this amphora based on its technique and shape?",
+      "answer": "The black-figure technique and the amphora neck shape suggest that this artifact is likely from the Archaic period, specifically around the 6th century BCE."
+    }
+  },
+  {
+    "id": 4645,
+    "image": "https://YOUR_IMAGE_HOST/images/18C5F166-ABDE-4A6D-AE0D-7300C3854DF5_3_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-550 to -500",
+        "Attribution": "MUNICH 1501, GROUP OF by KUNZE-GOTTE",
+        "Decoration": "A: HERAKLES AND THE LION, IOLAOS, ATHENA, HERMES | B: WARRIORS, FIGHTING, BETWEEN WOMEN | Frieze below: LIONS AND BOARS"
+      },
+      "Additional Content": {
+        "Description": "Herakles and the Nemean Lion. With Iolaos, Athena and Hermes.",
+        "Mythological": "Iolaos: companion of Herakles",
+        "Findspot": "",
+        "Artist": "Painter of Munich 1501: Attic vase painters",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely purpose of the amphora depicted on this vase?",
+      "answer": "The amphora was typically used for storing and transporting wine or oil."
+    }
+  },
+  {
+    "id": 4652,
+    "image": "https://YOUR_IMAGE_HOST/images/8A03CEF5-13A6-4DBC-80F8-5BA905BE7F43_6_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, BELLY, TYPE A",
+        "Date": "-525 to -475",
+        "Attribution": "<em>Manner of</em> LEAGROS GROUP by LULLIES",
+        "Decoration": "A: AJAX CARRYING BODY OF ACHILLES BETWEEN WARRIORS FIGHTING (ALL NAMED, AINEIAS AND NEOPTOLEMOS, MENELAOS AND PARIS), BODIES OF WARRIORS, ONE IN PATTERNED SUIT, BOEOTIAN SHIELDS, DEVICES, IVY WREATH, BIRDS | B: PELEUS AND THETIS BETWEEN CHIRON AND NEREID (PONTOMEDA, NAMED)"
+      },
+      "Additional Content": {
+        "Description": "Cheiron, Peleus, transforming Thetis and Pontomeda.",
+        "Mythological": "Achilleus: son of Peleus :: Aias I: Achaean hero :: Aineias: son of Aphrodite :: Alexandros: name variant of Paris :: Cheiron: centaur :: Menelaos: husband of Helene :: Neoptolemos: son of Achilleus :: Peleus: father of Achilleus :: Pontomeda: nereid :: Nereides: sea nymphs :: Paris: Trojan hero",
+        "Findspot": "Athens",
+        "Artist": "Leagros Group: Attic vase painters",
+        "Dating": "510 BCE"
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely function of this amphora based on its decoration and the historical context?",
+      "answer": "The amphora is likely used for storing and serving wine or oil during banquets, as depicted by the scenes of warriors and mythological figures which were common subjects on vases used in ancient Greek social settings."
+    }
+  },
+  {
+    "id": 4706,
+    "image": "https://YOUR_IMAGE_HOST/images/490C9E84-730D-4900-A0A3-6F17CAD74AFD_8_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-550 to -500",
+        "Attribution": "NIKOSTHENES by UNKNOWN",
+        "Decoration": "Neck A: WINGED WOMAN | Neck B: WINGED WOMAN | On handle: OLD MAN WITH SPEAR | Shoulder A: KOMOS, MEN DANCING AT VOLUTE KRATER WITH CUP | Shoulder B: KOMOS, MEN DANCING, SIGNATURE"
+      },
+      "Additional Content": {
+        "Description": "On both sides of the neck a Nike.",
+        "Mythological": "Nike: goddess",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely purpose of this amphora based on its decorative elements?",
+      "answer": "The likely purpose of this amphora is to serve as a grave vessel, given the presence of Nike figures and the mythological context associated with Nike, the Greek goddess of victory."
+    }
+  },
+  {
+    "id": 4750,
+    "image": "https://YOUR_IMAGE_HOST/images/819401C3-21EA-4E34-A4D2-28FB7D1780EA_5_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "A: HERAKLES AND APOLLO, THE STRUGGLE FOR THE TRIPOD | B: HERAKLES AND THE LION, IOLAOS AND YOUTH"
+      },
+      "Additional Content": {
+        "Description": "Herakles carrying off the tripod, pursued by Apollon.",
+        "Mythological": "Herakles: divine Greek hero",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely function of this vase based on its decoration and known historical context?",
+      "answer": "The vase was likely used as a storage container for religious offerings or wine, given the presence of mythological figures such as Heracles and Apollo, who were often associated with rituals and cult practices during this period."
+    }
+  },
+  {
+    "id": 4805,
+    "image": "https://YOUR_IMAGE_HOST/images/792508A2-D2BF-47F6-904F-0A129E00A711_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "KRATER, COLUMN",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "A: HERAKLES MOUNTING CHARIOT, IOLAOS WITH BOW AND CLUB, ATHENA, DIONYSOS, APOLLO PLAYING KITHARA | B: THESEUS (IN NEBRIS) AND THE MINOTAUR, WOMAN (ARIADNE ?), DRAPED YOUTHS WITH STAFFS"
+      },
+      "Additional Content": {
+        "Description": "Herakles mounts a chariot, Athena stands beside it. With Iolaos, Dionysos and Apollon.",
+        "Mythological": "Herakles: divine Greek hero :: Iolaos: companion of Herakles",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What was the likely function of this vase based on its decoration and style?",
+      "answer": "The vase likely served as a krater, which was commonly used in ancient Greek culture for mixing wine and water during drinking ceremonies."
+    }
+  },
+  {
+    "id": 4808,
+    "image": "https://YOUR_IMAGE_HOST/images/0218E445-29DB-4A90-9F95-ACBA79440561_4_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "A: TRIPTOLEMOS IN CHARIOT BETWEEN PERSEPHONE AND DEMETER | B: THESEUS AND MINOTAUR, BETWEEN YOUTH AND WOMAN, HOLDING WREATHS"
+      },
+      "Additional Content": {
+        "Description": "A: Im Zentrum Triptolemos nach rechts auf Thronwagen, in linker Hand vier Ähren, in rechter Hand Szepter. Rechts von ihm Demeter nach links, links von ihm Kore nach rechts. B: Im Zentrum Theseus nach rechts, stößt Schwert in Kopf des Minotauros, der schon in die Knie gegangen ist, und einen Stein in der rechten Hand hält. Links von Theseus athenischer Junge, Kranz in linker Hand. Rechts vom Minotauros athenisches Mädchen, Kranz in rechter Hand.",
+        "Mythological": "Demeter: Greek goddess :: Minotauros: hybrid creature :: Persephone: daughter of Demeter :: Theseus: Athenian hero :: Triptolemos :: Kore: (Persephone)",
+        "Findspot": "unknown",
+        "Artist": "",
+        "Dating": "525 - 500 BCE"
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely function of this amphora based on its mythological scenes and the artist's technique?",
+      "answer": "The amphora is likely used for ceremonial purposes, as it features scenes of Demeter (Greek goddess) and Persephone (daughter of Demeter), who were often revered during harvest festivals and associated with agricultural activities."
+    }
+  },
+  {
+    "id": 4820,
+    "image": "https://YOUR_IMAGE_HOST/images/5DCBABD3-9F4F-4A5E-A23A-FBE4B46E06D9_6_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-550 to -500",
+        "Attribution": "MUNICH ATALANTE, P OF* by KUNZE-GOTTE",
+        "Decoration": "A: PELEUS AND ATALANTE, ATHLETES, ONE SEATED, TRAINER | B: ATHLETES, MEN BOXING, TRAINER"
+      },
+      "Additional Content": {
+        "Description": "Atalante as athlete fighting Peleus: They face to grapple, Atalante at the right wearing a cap and trunks, between Atalante and Peleus a fallen man, watched by three men.",
+        "Mythological": "Atalante: huntress :: Peleus: father of Achilleus",
+        "Findspot": "Vulci",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely function of this amphora based on its decoration and the mythological figures depicted?",
+      "answer": "The amphora was likely used for storage of olive oil or wine, as such vessels were commonly utilized during the Archaic period for trade and ceremonial purposes. The depiction of mythological figures, including Atalante and Peleus, suggests it could have been used during festivals or rituals related to their respective myths."
+    }
+  },
+  {
+    "id": 4854,
+    "image": "https://YOUR_IMAGE_HOST/images/EAF08F44-B887-43D8-BAA0-426A197D1581_6_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "AMPHORA, NECK AND LID",
+        "Date": "-475 to -425",
+        "Attribution": "POLYGNOTOS by BOTHMER",
+        "Decoration": "A: AMAZONOMACHY, THESEUS AND ANTIOPE (BOTH NAMED) WITH BOW AND AXE, AMAZON WITH BOW AND SWORD IN ALOPEKIS | B: DRAPED MAN, WITH STAFF, BETWEEN WOMEN"
+      },
+      "Additional Content": {
+        "Description": "Theseus attacking an amazon. Behind him Antiope (II) who tries to rescue her companion.",
+        "Mythological": "Antiope II: amazon :: Theseus: Athenian hero :: Amazones: warrior women",
+        "Findspot": "",
+        "Artist": "Polygnotos Group: undetermined, Attic vase painters",
+        "Dating": "450 - 440 BCE"
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What was the likely function of this amphora based on its decoration and the era it was created?",
+      "answer": "The amphora was likely used as a funerary vessel due to its depiction of the Amazonomachy, a common theme in Greek vases from the 5th century BCE."
+    }
+  },
+  {
+    "id": 4861,
+    "image": "https://YOUR_IMAGE_HOST/images/B9259E54-2491-4987-88C3-AC3B2994C2F6_9_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "CUP LITTLE MASTER LIP",
+        "Date": "-575 to -525",
+        "Attribution": "<em>Perhaps</em> LYDOS by UNKNOWN | EPITIMOS P by THIMME",
+        "Decoration": "AB1: ATHLETE RUNNING | AB1: ATHLETES (?) (MAN CHASING YOUTH) | AB2: INSCRIPTION | I: APOLLO WITH BOW BETWEEN LIONS"
+      },
+      "Additional Content": {
+        "Description": "Innenbild: Apollo zwischen zwei Löwen.",
+        "Mythological": "Apollon: god :: Despotes Theron: lord of the animals",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "Which historical period is this black-figure cup likely associated with and what is its probable function based on the mythology depicted?",
+      "answer": "This black-figure cup is likely associated with the Archaic period (c.-600 to c.-480 BCE), and its probable function as a drinking vessel would have been used in banquets or symposia. The mythology depicted, featuring Apollon and Despotes Theron, indicates a festive context related to mythology, possibly a ritualistic purpose or a celebration of Hellenic gods."
+    }
+  },
+  {
+    "id": 4885,
+    "image": "https://YOUR_IMAGE_HOST/images/26952078-3E38-4BFE-959A-286E2A940B25_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "OLPE",
+        "Date": "-525 to -475",
+        "Attribution": "<em>Manner of</em> VATICAN G 49, P OF by MERTENS",
+        "Decoration": "Body: EOS AND MEMNON, IVY"
+      },
+      "Additional Content": {
+        "Description": "Eos recovering the corpse of Memnon.",
+        "Mythological": "Eos: Greek goddess :: Memnon: Ethiopian king",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely function of this vase based on its shape and decorative elements?",
+      "answer": "The vase is most likely used as an olpe, which was typically employed for drinking wine during symposia, a common gathering in ancient Athens where such vases would be used to serve and drink wine."
+    }
+  },
+  {
+    "id": 4886,
+    "image": "https://YOUR_IMAGE_HOST/images/52F1EE9D-CEEE-456C-A7DF-2556C2D4B660_5_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-550 to -500",
+        "Attribution": "BERKELEY 8.3376, GROUP OF by KUNZE-GOTTE | LONDON B 272, P OF by UNKNOWN | MUNICH 1501, GROUP OF by UNKNOWN",
+        "Decoration": "A: AMAZONOMACHY, HERAKLES AND AMAZONS, ONE FALLING, SHIELD DEVICES, BUKRANION, PROW | B: DIONYSOS WITH KANTHAROS AND IVY BETWEEN SATYR PLAYING PIPES AND MAENAD WITH OINOCHOE"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Herakles: divine Greek hero :: Amazones: warrior women",
+        "Findspot": "",
+        "Artist": "Leagros Group: Attic vase painters",
+        "Dating": "530 BCE"
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is likely the primary purpose of this amphora based on its decoration and the known myths associated with the depicted figures?",
+      "answer": "This amphora was likely used for carrying wine or other liquids, as the depiction of Dionysos holding a kantharos (a type of wine cup) and the association with satyrs and maenads suggest a connection to the wine cult."
+    }
+  },
+  {
+    "id": 4893,
+    "image": "https://YOUR_IMAGE_HOST/images/8602800B-95B2-4732-81D2-CC482C0AFEF6_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "STAMNOS",
+        "Date": "-525 to -475",
+        "Attribution": "<em>Compare</em> ANTIMENES P by ISLER-KERENYI",
+        "Decoration": "Body: THESEUS (IN NEBRIS) AND MINOTAUR, ARIADNE (ALL NAMED)"
+      },
+      "Additional Content": {
+        "Description": "Minotauros holds a stone in his left hand and touches Theseus chin with his right hand. Theseus grasps Minotauros by its throat. Both figures are inscribed.",
+        "Mythological": "Minotauros: hybrid creature",
+        "Findspot": "Chiusi",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely function of this stamnos based on its decoration and the mythological figures depicted?",
+      "answer": "This stamnos was likely used for libations or offerings related to the myth of Theseus and the Minotaur, as the figures depicted often symbolize rituals or commemorations in Greek mythology."
+    }
+  },
+  {
+    "id": 5005,
+    "image": "https://YOUR_IMAGE_HOST/images/7F241940-C048-4680-BCE1-FC36000C5381_5_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-525 to -475",
+        "Attribution": "<em>Manner of</em> LEAGROS GROUP by BEAZLEY",
+        "Decoration": "A,B: APOLLO PLAYING KITHARA, DEER, BETWEEN ARTEMIS AND LETO OR MUSES"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Apollon: god :: Mousa: goddesses",
+        "Findspot": "",
+        "Artist": "Leagros Group: Attic vase painters",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the most likely period during which this vase was used based on its decoration and technique?",
+      "answer": "The vase is most likely from the Archaic period."
+    }
+  },
+  {
+    "id": 5032,
+    "image": "https://YOUR_IMAGE_HOST/images/A3F1AC39-DAF0-4D6C-8F3C-FB27D90F688D_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "OLPE",
+        "Date": "-500 to -450",
+        "Attribution": "HALF-PALMETTES, P OF THE by PATITUCCI",
+        "Decoration": "Body: SACRIFICE, ATHENA, HOLDING PHIALE AND MEAT ON SPITS"
+      },
+      "Additional Content": {
+        "Description": "Athena accomplit de la main droite une libation sur un autel dont on ne voit que les flammes. De la main gauche elle tient au-dessus du feu deux broches avec des morceaux de viande.",
+        "Mythological": "Athena: goddess",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": "480 - 470 BCE"
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What was the likely purpose of the sacrifice depicted on the vase based on the image and metadata?",
+      "answer": "The likely purpose of the sacrifice depicted is a religious offering at a sanctuary, as indicated by the image showing Athena performing a libation and holding phiale and meat on spits."
+    }
+  },
+  {
+    "id": 5038,
+    "image": "https://YOUR_IMAGE_HOST/images/2AF4B21B-C584-42F2-A256-B459E2C0F19F_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "KRATER, BELL",
+        "Date": "-475 to -425",
+        "Attribution": "",
+        "Decoration": "A: PHINEUS AND HARPIES, PHINEUS SEATED, THRACIAN, HARPIES STEALING FOOD AND TABLE | B: PHINEUS RETURNING HOME (?) WOMAN WITH PHIALE AND WOMAN POURING FROM OINOCHOE, BETWEEN WOMAN RUNNING AND OLD MAN WITH STAFF"
+      },
+      "Additional Content": {
+        "Description": "A: Im Zentrum der blinde Phineus mit langem Gewand, Palmzweig und Szepter auf einem Felsen sitzend. Die Rechte hat er verteidigend ausgestreckt. Vor ihm ein Tisch mit Speisen, den gerade eine Harpyie wegnehmen will. Rechts und links zwei weitere Harpyienfiguren; die linke raubt einen zweiten Tisch; die rechte trägt ein Stück Speise davon. Alle Harpyien tagen kurze Tracht und Flügelschuhe. Rechts neben Phineus steht ein Mann in thrakischer Tracht und Fellmütze (Alopekis). Die Rückseite B zeigt die Rückkehr des Phineus in sein Haus.",
+        "Mythological": "Harpyiai: female daemons :: Phineus I: seer",
+        "Findspot": "Spina",
+        "Artist": "",
+        "Dating": "460 - 440 BCE"
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the most likely function of this krater based on its decoration and historical context?",
+      "answer": "The krater is most likely used for mixing wine and water as part of the symposion, an important social gathering in Athenian culture during the late 5th century BCE. The presence of Phineus and Harpies suggests a story related to hospitality and revenge, which was common themes in such gatherings."
+    }
+  },
+  {
+    "id": 5042,
+    "image": "https://YOUR_IMAGE_HOST/images/33040E87-2AEB-498A-BA08-D27438EBC2E7_12_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "KRATER, VOLUTE",
+        "Date": "-400 to -300",
+        "Attribution": "ATTIC QUERY by UNKNOWN",
+        "Decoration": "A: ILIOUPERSIS, DEATH OF PRIAM, NEOPTOLEMOS, AJAX AND CASSANDRA AT STATUE OF ATHENA, ANDROMACHE AND ASTYANAX (?) | B: CENTAUROMACHY, THESEUS AND PERITHOOS, WOMAN, CENTAURS, SOME WITH HYDRIAI | Neck A: DIONYSOS SEATED BETWEEN MAENADS WITH TYMPANA, BETWEEN SATYRS, ONE PLAYING PIPES | Neck B: CALYDONIAN BOAR HUNT"
+      },
+      "Additional Content": {
+        "Description": "A: Tod des Priamos. Kassandra richtet ihr Haupt empor zum Palladium, das sie unten kniend mit ihren Händen umfasst. Auf den Stufen des Basis des Palladiums sitzt Andromache Astyanax im Arm haltend, der seine Hände nach rechts zu Priamos austreckt, welcher auf einem rechteckigen Blockaltar sitzt (Basis, Altarkörper, Abschlussprofil, Deckplatte) und sich gegen seinen Angreifer wehrt. Von links eilt Aiax herbei. B: Centauromachy: In the centre Eurytion who tries to kidnap Hippodameia (II). She stretches her arms towards Peirithoos. Thesues fighting against another centaur.",
+        "Mythological": "Aias II: leader :: Andromache I: wife of Hektor :: Astyanax I: son of Hektor :: Athena: goddess :: Hekabe: wife of Priamos :: Hippodameia II: daughter of Boutes :: Kassandra I: daughter of Priamos :: Priamos: king of Troy :: Ilioupersis: sack of Troy",
+        "Findspot": "Spina",
+        "Artist": "",
+        "Dating": "400 - 390 BCE"
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely mythological significance of the central figure of the Centauromachy scene on this krater?",
+      "answer": "The central figure in the Centauromachy scene on this krater is likely Eurytion, as he is shown trying to kidnap Hippodameia."
+    }
+  },
+  {
+    "id": 5147,
+    "image": "https://YOUR_IMAGE_HOST/images/DBA77E42-6DA0-435D-B21D-E5A8B42825AA_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "LEKYTHOS",
+        "Date": "-500 to -450",
+        "Attribution": "HAIMON GROUP by DEPPERT",
+        "Decoration": "Body: HERAKLES AND APOLLO, THE STRUGGLE FOR THE TRIPOD, BETWEEN DRAPED WOMEN"
+      },
+      "Additional Content": {
+        "Description": "Herakles carrying off the tripod, pursued by Apollon. They are flanked by Athena and Artemis.",
+        "Mythological": "Herakles: divine Greek hero",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What was the primary function of this black-figure lekythos based on the depicted scene?",
+      "answer": "The primary function of this lekythos was likely to hold perfumes or oils, as it is a type of container commonly used in ancient Greece for such purposes."
+    }
+  },
+  {
+    "id": 5152,
+    "image": "https://YOUR_IMAGE_HOST/images/454F4469-F18C-440C-9942-917EF259BF33_7_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, BELLY, TYPE B",
+        "Date": "-550 to -500",
+        "Attribution": "<em>Manner of</em> LYSIPPIDES P by MOON",
+        "Decoration": "A: HERAKLES AND THE LION, IOLAOS | B: WARRIOR, DEPARTING, WITH CHARIOT"
+      },
+      "Additional Content": {
+        "Description": "Herakles with the Nemean Lion. With Iolaos.",
+        "Mythological": "Herakles: divine Greek hero",
+        "Findspot": "",
+        "Artist": "manner of the Lysippides Painter: Attic vase painter(s)",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely purpose of the amphora depicted on this vase?",
+      "answer": "The amphora was typically used for storing and transporting wine or oil in ancient Greece."
+    }
+  },
+  {
+    "id": 5159,
+    "image": "https://YOUR_IMAGE_HOST/images/792E9F0E-238F-4D89-B73C-A8289079000C_10_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "HYDRIA",
+        "Date": "-525 to -475",
+        "Attribution": "SYRACUSE P by CAHN",
+        "Decoration": "Body: HERAKLES IN THE GARDEN OF THE HESPERIDES, FLEEING WITH THE APPLES, TREE, SNAKE"
+      },
+      "Additional Content": {
+        "Description": "Herakles with raised club, holding apples, hurries left, looking back to three Hesperides. One of them holds a branch of a tree with Ladon.",
+        "Mythological": "Herakles: divine Greek hero :: Hesperides: nymph",
+        "Findspot": "",
+        "Artist": "Syracuse Painter: Attic vase painter",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "Which historical period is this hydria most likely from based on its technique and dating range?",
+      "answer": "This hydria is likely from the Archaic period, which spans from around -600 to -480 BC. The red-figure technique, attributed to the Syracuse Painter, and the dating range of -525 to -475 BC place it within the Archaic period."
+    }
+  },
+  {
+    "id": 5166,
+    "image": "https://YOUR_IMAGE_HOST/images/C91A736F-1559-4362-B665-A861EB2165C6_8_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "DINOS",
+        "Date": "-550 to -500",
+        "Attribution": "ANTIMENES P by KATHMAN",
+        "Decoration": "Inside of rim: FLORAL, IVY LEAF CHAIN | Neck: SHIPS | On rim: THESEUS AND THE MINOTAUR, CHARIOT, HERAKLES AND NESSOS, CHARIOT, FIGHT, WARRIORS WITH BOEOTIAN SHIELDS FIGHTING OVER FALLEN, CHARIOT, FIGHT, WARRIORS, HERAKLES AND THE LION BETWEEN IOLAOS WITH BOW AND ATHENA, CHARIOT"
+      },
+      "Additional Content": {
+        "Description": "Herakles wrestles with the Nemean Lion. At left Iolaos with club, at right Athena and Hermes.",
+        "Mythological": "Herakles: divine Greek hero :: Iolaos: companion of Herakles",
+        "Findspot": "Italy",
+        "Artist": "Antimenes Painter: Attic vase painter",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely function of this vase based on its shape and decoration?",
+      "answer": "The vase is most likely used as a drinking vessel, such as a kylix or dinos, given its shape and the common practice during the Black-Figure technique era."
+    }
+  },
+  {
+    "id": 5170,
+    "image": "https://YOUR_IMAGE_HOST/images/E35C27F2-4024-42CC-8054-03D040B3A7AA_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, BELLY, TYPE B",
+        "Date": "-575 to -525",
+        "Attribution": "<em>Perhaps</em> BERLIN 1686, P OF by BOTHMER",
+        "Decoration": "A: HERAKLES AND THE LION, ATHENA, HERMES, MAN, WOMAN, SHIELD DEVICE, COCK | B: WARRIORS FIGHTING OVER FALLEN WARRIOR, ONLOOKER, SHIELD DEVICES, TRISKELES, STAR"
+      },
+      "Additional Content": {
+        "Description": "Herakles and the Nemean Lion. At left a man and a woman. At right Athena and Hermes.",
+        "Mythological": "Herakles: divine Greek hero",
+        "Findspot": "",
+        "Artist": "Painter of Berlin 1686: Attic vase painter",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely date range for this amphora based on its technique and shape?",
+      "answer": "The likely date range for this amphora is between -575 and -525 due to its black-figure technique and type B amphora design."
+    }
+  },
+  {
+    "id": 5178,
+    "image": "https://YOUR_IMAGE_HOST/images/C4444204-9148-479F-8FEA-C1884AF6B7B4_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "CUP LITTLE MASTER BAND",
+        "Date": "-575 to -525",
+        "Attribution": "",
+        "Decoration": "A: WOMAN, UNVEILING, BETWEEN ONLOOKERS AND CHARIOTS | B: WOMAN BETWEEN ONLOOKERS AND CHARIOTS"
+      },
+      "Additional Content": {
+        "Description": "A procession (wedding procession?) moves to right around the whole circumference of the vase. There are four chariots at intervals. There is one group which may be a procession of dinivities. Two women are making the bridal gestures (pulling the veil away from the head) who have peculiar pig- or bear-like faces with large snouts.",
+        "Mythological": "",
+        "Findspot": "unknown",
+        "Artist": "",
+        "Dating": "540 BCE"
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely function of the cup based on its decoration and the context of the mythological figures?",
+      "answer": "The cup is likely used for a ceremonial purpose, possibly related to marriage rituals or the welcoming of divine figures, as suggested by the depiction of a bride and what appears to be a chariot procession."
+    }
+  },
+  {
+    "id": 5189,
+    "image": "https://YOUR_IMAGE_HOST/images/E189B7F3-4F78-4D4D-B06A-7A17DB539FAE_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "CUP A",
+        "Date": "-525 to -475",
+        "Attribution": "ANDOKIDES by UNKNOWN",
+        "Decoration": "A: ATHENA (STATUE?), HERMES, WARRIOR AND CHILD, DEVICE, LEG, BETWEEN EYES BETWEEN GRAPE VINES (AJAX AND CASSANDRA ?) | B: HERMES LEADING AINEIAS AND ASKANIOS FROM TROY, STATUE OF ATHENA (PALLADION) (?), DEVICE, SNAKE, BETWEEN EYES BETWEEN GRAPE VINES | I: GORGONEION"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Kassandra I: daughter of Priamos",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely function or use of this cup based on its imagery and the mythology depicted?",
+      "answer": "This cup was likely used as a drinking vessel during symposia, a social gathering where drinking wine was central. The depiction of mythological figures such as Athena, Hermes, Ajax, Cassandra, and Aeneas suggests that it could have been commissioned for a specific occasion, possibly a festival or a commemorative event related to these mythological stories."
+    }
+  },
+  {
+    "id": 5297,
+    "image": "https://YOUR_IMAGE_HOST/images/19971FDB-AAE1-4BD8-B725-1C7C67BA2A86_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "KRATER, BELL",
+        "Date": "-400 to -300",
+        "Attribution": "KERCH by UNKNOWN | POURTALES P by UNKNOWN",
+        "Decoration": "A: HERAKLES AND THE HESPERIDES, HERMES, APHRODITE, ZEUS | B: DRAPED YOUTHS, SOME WITH ARYBALLOI, ONE WITH DISKOS, ONE WITH STRIGIL, POST"
+      },
+      "Additional Content": {
+        "Description": "Herakles in the Garden of the Hesperides: Herakles, wreathed, receives a branch with apples from a seated Hesperid. Eros overhead crowns him. At left a seated Hesperid and Hermes. At right a seated man beside an open box.",
+        "Mythological": "Herakles: divine Greek hero :: Hesperides: nymph",
+        "Findspot": "",
+        "Artist": "Pourtalès Painter: Attic vase painter",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the probable function of this red-figure krater based on its depiction and dating?",
+      "answer": "The krater likely served as a mixing vessel for wine and water during ancient Greek feasts, especially in the context of Herakles' association with the Hesperides, indicating a ceremonial or ritualistic use."
+    }
+  },
+  {
+    "id": 5664,
+    "image": "https://YOUR_IMAGE_HOST/images/62931E4C-C7E7-4C7D-8349-057736EF5B2B_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "OLPE",
+        "Date": "-525 to -475",
+        "Attribution": "LEAGROS GROUP by BOTHMER",
+        "Decoration": "Body: SYMPOSIUM, DIONYSOS RECLINING ON KLINE, ARIADNE (?) SEATED ON STOOL, TABLE WITH FOOD (MEAT), PANTHER"
+      },
+      "Additional Content": {
+        "Description": "Dionysos on a kline looking at Ariadne on a chair.",
+        "Mythological": "Dionysos: Greek god :: Ariadne: daughter of Minos",
+        "Findspot": "",
+        "Artist": "Leagros Group: Attic vase painters",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely function of this Olpe vase based on its decorative elements?",
+      "answer": "The Olpe is typically used for holding wine or other beverages during symposia, which aligns with the sympotic scene depicted on the vase."
+    }
+  },
+  {
+    "id": 5685,
+    "image": "https://YOUR_IMAGE_HOST/images/1C690D7D-9E05-4D57-880A-34CA717158C5_6_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "KRATER, COLUMN",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "A: GIGANTOMACHY, CHARIOT, ATHENA AND GIANTS | B: LIONS, ATTACKING BULL | Handle plaque: HEADS OF MEN"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Gigantes: giants",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What was the likely function of this krater during ancient Greek times?",
+      "answer": "The krater was typically used for mixing wine and water, which was an essential part of dining at symposia, as a social gathering where friends would meet and drink."
+    }
+  },
+  {
+    "id": 5686,
+    "image": "https://YOUR_IMAGE_HOST/images/F34EF905-CA9A-4685-B692-F14321B96649_5_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "KRATER, COLUMN",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "A: GIGANTOMACHY, CHARIOT, WARRIORS, ONE IN NEBRIS, ATHENA AND GIANTS, ONE IN NEBRIS FALLING | B: HERAKLES AND THE LION, BETWEEN ATHENA AND IOLAOS, ONLOOKERS | Handle plaque: SPHINXES"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Gigantes: giants",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What was the likely purpose of this krater based on its decoration and historical context?",
+      "answer": "The krater was likely used for mixing wine and water as part of the symposion, a ritualistic drinking party in ancient Greece. The decoration featuring gigantomachy scenes, which typically symbolize victory over mythical enemies, suggests that it was probably used during such events, where mythological themes were often depicted."
+    }
+  },
+  {
+    "id": 5694,
+    "image": "https://YOUR_IMAGE_HOST/images/69AE58B2-D1BC-4649-B5CF-04BF5419C14C_5_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, BELLY, TYPE B",
+        "Date": "-550 to -500",
+        "Attribution": "<em>Perhaps</em> PHANYLLIS P by HASPELS",
+        "Decoration": "A: SYMPOSIUM, DIONYSOS WITH SATYR PLAYING THE KITHARA AND MAENADS | B: DIONYSOS ON MULE BETWEEN SATYRS"
+      },
+      "Additional Content": {
+        "Description": "A) Gelagerter Dionysos zwischen zwei tanzenden Mänaden. Neben ihm Satyr mit Kithara.B) Dionysos auf Maultier zwischen zwei Satyrn.",
+        "Mythological": "Dionysos: Greek god",
+        "Findspot": "",
+        "Artist": "manner of the Phanyllis Painter: Attic vase painter(s)",
+        "Dating": "540 - 530 BCE"
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What was the likely main function of this amphora based on its decoration and historical context?",
+      "answer": "The amphora is most likely used for storing wine during a symposium, as it prominently depicts Dionysos, the god of wine and revelry, surrounded by maenads and a satyr playing the kithara."
+    }
+  },
+  {
+    "id": 5695,
+    "image": "https://YOUR_IMAGE_HOST/images/CE9D5D85-2B80-4527-85B7-98D3C339AFD0_4_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, BELLY, TYPE B",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "A: HERAKLES AND THE LION, ATHENA, IOLAOS | B: HORSEMAN AND DOG BETWEEN ARCHER AND WARRIOR (SHIELD DEVICE, LEG)"
+      },
+      "Additional Content": {
+        "Description": "Herakles and the Nemean Lion between Iolaos and Athena.",
+        "Mythological": "Iolaos: companion of Herakles",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely function of this amphora based on its decoration and the mythological figures depicted?",
+      "answer": "The likely function of this amphora is to serve as a burial vessel, given the presence of mythological figures such as Herakles and the Nemean Lion, which are often associated with funerary contexts in ancient Greece."
+    }
+  },
+  {
+    "id": 5728,
+    "image": "https://YOUR_IMAGE_HOST/images/8ED406E8-4ED4-4AC6-BEF8-CD9108B11D9A_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-550 to -500",
+        "Attribution": "<em>Perhaps</em> READY P by NATI",
+        "Decoration": "A: HERMES WITH LYRE AND ATHENA WITH WREATH AT ALTAR, GODDESS, SHIELD DEVICE, TRIPOD | B: EXTISPICY, WARRIOR DEPARTING, YOUTH, OLD MAN, WOMAN, ARCHER, DOG"
+      },
+      "Additional Content": {
+        "Description": "Hermes with lyre and Athena with wreath at altar (rechteckiger Block mit schneckenförmig eingerolltem Volutenaufsatz), goddess (with flower).",
+        "Mythological": "Athena: goddess :: Hermes: messenger of the gods",
+        "Findspot": "Etruria",
+        "Artist": "",
+        "Dating": "550 - 500 BCE"
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely function of this amphora based on its decoration and the mythological figures depicted?",
+      "answer": "The likely function of this amphora is for the transport and presentation of wine or oil, as it is typical for pottery of this type and era. The depiction of Athena, the goddess associated with wisdom and warfare, and Hermes, the messenger of the gods, along with other mythological figures, suggests that the amphora might have been used during religious ceremonies or as a symbol of divine presence at social events, where these deities were worshipped."
+    }
+  },
+  {
+    "id": 5864,
+    "image": "https://YOUR_IMAGE_HOST/images/EC34B2EF-0897-4D6E-B504-8F4708E058C2_7_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, BELLY, TYPE B",
+        "Date": "-550 to -500",
+        "Attribution": "ANTIMENES P by UNKNOWN",
+        "Decoration": "A: HERAKLES AND KYKNOS, ATHENA, ZEUS, ARES (BOEOTIAN SHIELD, DEVICE ROSETTE) | B: DIONYSOS WITH KANTHAROS AND IVY BETWEEN HERMES AND ARIADNE (?), MAENADS AND SATYR"
+      },
+      "Additional Content": {
+        "Description": "A: Kyknos, Herakles, Zeus, Athena and Ares.",
+        "Mythological": "Kyknos I: son of Ares",
+        "Findspot": "",
+        "Artist": "Antimenes Painter: Attic vase painter",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What was likely the primary function of this amphora based on its decoration and the materials used?",
+      "answer": "The primary function of this amphora was likely to store and display wine, as black-figure amphorae were commonly used for this purpose during the Archaic period of Ancient Greece."
+    }
+  },
+  {
+    "id": 5958,
+    "image": "https://YOUR_IMAGE_HOST/images/EEA298E5-D37B-4396-A377-4E20508595CB_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "KRATER, CALYX",
+        "Date": "-475 to -425",
+        "Attribution": "NIOBID P by BOTHMER",
+        "Decoration": "A2: BOREAS AND OREITHYIA, WOMEN FLEEING, DRAPED MAN WITH STAFF (ERECHTHEUS ?) | AB1: PELEUS AND THETIS, NEREUS, CHIRON, NEREIDS | B2: DOMESTIC (?), WOMEN, ONE SEATED WITH MIRROR"
+      },
+      "Additional Content": {
+        "Description": "Upper register; A-B: Peleus abducting Thetis, with Nereides, Cheiron, and Nereus.Lower register, A: Winged youth (Zephyros or Boreas?) pursuing woman (Phoibe or Oreithyia?) to the right, with man on the left, two fleeing women, and a doric column and altar on the right.Lower register, B: Four women in a palace.",
+        "Mythological": "Boreas: north wind :: Cheiron: centaur :: Nereus: sea god :: Oreithyia I: daughter of Erechtheus :: Peleus: father of Achilleus :: Phoibe I: one of the Titanes :: Thetis: nereid :: Zephyros: personification",
+        "Findspot": "unknown",
+        "Artist": "Niobid Painter: Attic vase painter",
+        "Dating": "450 - 440 BCE"
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely purpose of this krater based on its decoration and mythological figures?",
+      "answer": "The krater was likely used for mixing wine and water during ancient Greek festivals or as a ceremonial vessel in religious rituals, given the mythological scenes that include deities like Peleus and Thetis, and events such as the abduction of Thetis which were significant in Greek mythology."
+    }
+  },
+  {
+    "id": 5982,
+    "image": "https://YOUR_IMAGE_HOST/images/B5B36A8D-89E2-4D9E-9DDB-F69C127A2BDB_3_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "CUP",
+        "Date": "-575 to -525",
+        "Attribution": "",
+        "Decoration": "I: WINGED WOMAN (NIKE)"
+      },
+      "Additional Content": {
+        "Description": "I: Flying Nike.",
+        "Mythological": "Nike: goddess",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What was the likely function of this cup based on its decoration and the mythological figure depicted?",
+      "answer": "The cup is likely used as a drinking vessel, given the typical use of black-figure pottery in ancient Greece for ceremonial and everyday drinking. The decoration featuring Nike, the goddess of victory, suggests it might have been used during celebrations or religious rituals related to victory or honor."
+    }
+  },
+  {
+    "id": 6034,
+    "image": "https://YOUR_IMAGE_HOST/images/C98BA06B-4582-4057-9FE8-63A48789D0BF_3_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "CUP LITTLE MASTER BAND",
+        "Date": "-575 to -525",
+        "Attribution": "",
+        "Decoration": "A,B: HERAKLES AND THE LION, BETWEEN SIRENS BETWEEN PALMETTES"
+      },
+      "Additional Content": {
+        "Description": "Herakles and the Nemean Lion.",
+        "Mythological": "Herakles: divine Greek hero",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely purpose of the vase based on its shape and decoration?",
+      "answer": "The vase was likely used as a drinking cup during banquets or symposia, which were common social gatherings among the Athenians in ancient Greece. The presence of the mythological figure Herakles and the lion suggests it might have been used in contexts related to stories or hero worship."
+    }
+  },
+  {
+    "id": 6083,
+    "image": "https://YOUR_IMAGE_HOST/images/FB17D30E-4A72-474C-9821-674723019F43_6_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-525 to -475",
+        "Attribution": "DOT-BAND CLASS by MOMMSEN",
+        "Decoration": "A: HERAKLES AND KERBEROS, PERSEPHONE, COLUMN | B: WARRIORS AND ARCHER (SHIELD DEVICES, LEG, DISCS)"
+      },
+      "Additional Content": {
+        "Description": "Herakles standing. Kerberos and Persephone sitting. Hermes with kerykeion.",
+        "Mythological": "Herakles: divine Greek hero",
+        "Findspot": "Vulci",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What was the likely primary function of this amphora based on its decoration and the historical context?",
+      "answer": "The amphora was likely used for transporting wine or oil during the Classical period, as suggested by its decoration featuring mythological scenes and the typical use of black-figure vases."
+    }
+  },
+  {
+    "id": 6085,
+    "image": "https://YOUR_IMAGE_HOST/images/9B9AF7FB-7A85-45A9-9F9B-53D35C470712_3_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "A: WARRIORS FIGHTING BETWEEN HORSEMEN (SHIELD DEVICE, DISCS) | B: DIONYSOS AND SATYRS WITH MULES"
+      },
+      "Additional Content": {
+        "Description": "Dionysos walking, two silens each leading a mule to him.",
+        "Mythological": "Dionysos: Greek god :: Silenoi: satyr",
+        "Findspot": "Tarquinia, Corneto",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the most likely function or use of this amphora based on its decoration and the historical context?",
+      "answer": "The black-figure amphora is likely used for storing and transporting wine or oil, as was typical during the Archaic period. The depiction of Dionysos and satyrs suggests it might have been part of a ceremonial context, perhaps used in rituals or feasts related to wine consumption."
+    }
+  },
+  {
+    "id": 6094,
+    "image": "https://YOUR_IMAGE_HOST/images/4304F9EB-9B45-4EA6-945B-714F6EB47DAA_5_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-525 to -475",
+        "Attribution": "LEAGROS GROUP by MOMMSEN",
+        "Decoration": "A: POSEIDON AND AMPHITRITE IN CHARIOT, ARTEMIS (?), PLAYING LYRE, DOG | B: DIONYSOS ON MULE, WITH SATYR AND MAENAD"
+      },
+      "Additional Content": {
+        "Description": "Bearded Dionysos riding a mule, lead by a maenad; behind them a drunk silen.",
+        "Mythological": "Dionysos: Greek god",
+        "Findspot": "Etruria",
+        "Artist": "Leagros Group: Attic vase painters",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely function of this amphora based on its decoration and the historical context?",
+      "answer": "The amphora is likely used for storing and transporting wine, as depicted by the imagery of Dionysus and the satyr, which are symbols associated with wine drinking and feasting."
+    }
+  },
+  {
+    "id": 6095,
+    "image": "https://YOUR_IMAGE_HOST/images/D3FC5F8D-F96C-4020-914C-6C6425878183_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-550 to -500",
+        "Attribution": "CLUB-FOOT POTTER by BLOESCH | CLUB-FOOT POTTER by MOMMSEN | LEAGROS GROUP by BAGLIONE | RED-LINE P by MOMMSEN",
+        "Decoration": "A: HERAKLES AND APOLLO, THE STRUGGLE FOR THE TRIPOD, WITH DEER AND PALM TREES | B: ATHLETES, WRESTLING, BETWEEN TRAINERS"
+      },
+      "Additional Content": {
+        "Description": "Herakles carrying off the tripod, pursued by Apollon.",
+        "Mythological": "Apollon: god :: Herakles: divine Greek hero",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the probable function of this amphora based on its decoration and the mythological figures depicted?",
+      "answer": "The amphora likely served as a ritual vessel for religious or ceremonial purposes, possibly used in the context of honoring both Herakles and Apollo, two important deities in Greco-Roman mythology."
+    }
+  },
+  {
+    "id": 6145,
+    "image": "https://YOUR_IMAGE_HOST/images/621EE069-2F57-46F3-A346-17A16476F008_8_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "LEKYTHOS",
+        "Date": "-525 to -475",
+        "Attribution": "ATHENS 581, CLASS OF by BUROW",
+        "Decoration": "Body: GIGANTOMACHY, ATHENA AND GIANT, BETWEEN DRAPED MEN (BOEOTIAN SHIELD)"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Gigantes: giants",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely function of this lekythos given its decoration depicting a gigantomachy?",
+      "answer": "The likely function of this lekythos is as a funerary vessel. Given its decoration showing a gigantomachy, which often symbolizes victory and triumph over enemies, it is typically associated with commemorating a warrior's death and achievements."
+    }
+  },
+  {
+    "id": 6149,
+    "image": "https://YOUR_IMAGE_HOST/images/4FDE04B9-49F9-4F9E-B184-9E8AC44C8220_6_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "LEKYTHOS",
+        "Date": "-525 to -475",
+        "Attribution": "GELA P by HASPELS",
+        "Decoration": "Body: SYMPOSIUM, DIONYSOS, MEN AND YOUTH, MAN IN HEADDRESS AND BOOTS"
+      },
+      "Additional Content": {
+        "Description": "Bearded Dionysos at the symposion.",
+        "Mythological": "Dionysos: Greek god",
+        "Findspot": "",
+        "Artist": "Gela Painter: Attic vase painter",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the most probable occasion depicted on this lekythos based on its technique, decoration, and the mythical figure?",
+      "answer": "The lekythos likely depicts a symposium, which was a gathering where ancient Greeks would gather to drink and socialize, often involving wine and music, as indicated by the presence of Dionysos, who was associated with these activities."
+    }
+  },
+  {
+    "id": 6154,
+    "image": "https://YOUR_IMAGE_HOST/images/97E84E5E-0025-496E-BE15-EF139770D572_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, BELLY, TYPE B",
+        "Date": "-550 to -500",
+        "Attribution": "<em>Manner of</em> SWING P by BÖHR | SWING P by BOTHMER",
+        "Decoration": "A: WARRIOR, DEPARTING (CHARIOT, WARRIOR, OLD MAN, CHILD) | B: MENELAOS AND HELEN, WARRIOR, ONLOOKER"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Helene: cause of the Trojan war",
+        "Findspot": "",
+        "Artist": "Swing Painter: Attic vase painter",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely function of this amphora based on its decoration and historical context?",
+      "answer": "This amphora was likely used for storing wine and may have had symbolic significance related to the mythological scene depicting Menelaos and Helen. The presence of a warrior and an old man in a chariot suggests a connection to themes of conflict and sacrifice, which were common in ancient Greek art."
+    }
+  },
+  {
+    "id": 6168,
+    "image": "https://YOUR_IMAGE_HOST/images/5F740FD9-F3A8-4A38-8899-F76FC711B251_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "CUP SIANA",
+        "Date": "-575 to -525",
+        "Attribution": "C P by OHLY-DUMM | C P by ROBERTSON",
+        "Decoration": "A: MAN IN CHITONISKOS, AT ALTAR, AND WOMEN, ALL RUNNING OR DANCING (PELEUS PURSUING THETIS AND NEREIDS ?) | B: HORSEMEN | I: WARRIOR WITH BOEOTIAN SHIELD (ACHILLES ?) SQUATTING"
+      },
+      "Additional Content": {
+        "Description": "Peleus pursuing Thetis: Peleus, burning altar, Thetis and five companions.",
+        "Mythological": "Peleus: father of Achilleus",
+        "Findspot": "",
+        "Artist": "C Painter (Corinthianising Painter): Attic vase painter",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "Which mythological figure is likely depicted on the front of the cup, and what does this suggest about its intended audience?",
+      "answer": "The figure on the front of the cup is likely Peleus, as indicated by the legend 'Peleus pursuing Thetis.' This suggests the cup was probably targeted towards an audience familiar with Greek mythology, possibly serving as a decorative piece for a wealthy individual or family with interests in mythological narratives."
+    }
+  },
+  {
+    "id": 6191,
+    "image": "https://YOUR_IMAGE_HOST/images/388011A3-3DE4-48CB-9208-429089504E1F_3_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "SKYPHOS",
+        "Date": "-525 to -475",
+        "Attribution": "",
+        "Decoration": "A: UNCERTAIN, MEN WITH ROCKS APPROACHING MEN SEATED IN BUILDING, WITH COLUMNS | B: UNCERTAIN, HERAKLES (?) AND OTHERS APPROACHING MEN, RECLINING ON KLINE"
+      },
+      "Additional Content": {
+        "Description": "Visit of Herakles in Oichalia? A: Herakles with Iolaos and Hyllos (I).",
+        "Mythological": "Hyllos I: son of Herakles",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely function of the vase depicted on the artifact, considering its shape and the mythological figures shown?",
+      "answer": "The skyrphos, being a drinking vessel used in ancient Greece, combined with the depiction of Herakles and other mythological figures, suggests it was likely used in a ritualistic context, possibly related to a cult or festival honoring Herakles."
+    }
+  },
+  {
+    "id": 6195,
+    "image": "https://YOUR_IMAGE_HOST/images/267490BE-ED91-47EA-8DF4-A3747F7592C3_7_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "PELIKE",
+        "Date": "-400 to -300",
+        "Attribution": "KERCH by UNKNOWN",
+        "Decoration": "A: HERAKLES (BEARDLESS) AND NESSOS, DEIANEIRA, WOMEN FLEEING, ONE NAKED | B: DRAPED YOUTHS"
+      },
+      "Additional Content": {
+        "Description": "Herakles fighting against the centaur Dexamenos: Two women, Herakles, the centaur Dexamenos (II) and Deianeira (I).",
+        "Mythological": "Deianeira II: wife of Herakles :: Kentauroi und Kentaurides: hybrid creature :: Nessos: centaur",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely function of this vase based on its imagery and historical context?",
+      "answer": "The vase was likely used as a storage container for oil or wine, which was common for such scenes during the Archaic period."
+    }
+  },
+  {
+    "id": 6197,
+    "image": "https://YOUR_IMAGE_HOST/images/81A50DB4-FBB9-4695-A025-8D643FC603E4_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "KRATER, COLUMN",
+        "Date": "-450 to -400",
+        "Attribution": "",
+        "Decoration": "A: KOMOS, DRAPED MAN, HERAKLES PLAYING LYRE, HERMES AND SATYR | B: WARRIOR, ATTACKING YOUTHS IN PETASOI AND CHLAMYDES, HOLDING STAFFS"
+      },
+      "Additional Content": {
+        "Description": "Procession to the right: satyr playing the auloi, Hermes, Herakles with barbiton; man",
+        "Mythological": "Herakles: divine Greek hero",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": "475 - 450 BCE"
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely function of this krater based on its decoration and historical context?",
+      "answer": "The krater's most likely function was as a libation cup for wine during religious ceremonies or festivals. The depiction of Herakles playing the lyre and other mythological figures suggests it might have been used in a ritual associated with the worship of Apollo or Hercules, who were often depicted with lyres."
+    }
+  },
+  {
+    "id": 6207,
+    "image": "https://YOUR_IMAGE_HOST/images/49CAE6D5-93D4-4503-B587-76D043CF89EC_5_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "KRATER, CALYX",
+        "Date": "-475 to -425",
+        "Attribution": "",
+        "Decoration": "A: OEDIPUS AND THE SPHINX | B: SATYR HOLDING TORCH AND THYRSOS"
+      },
+      "Additional Content": {
+        "Description": "A: Oidipous, Sphinx on ionic column. B: Satyr.",
+        "Mythological": "Oidipous: son of Laios",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely function of this vase based on its decoration and the historical period?",
+      "answer": "The vase is most likely used as a krater, which was typically used in ancient Greek rituals involving wine and water during libations and mixing wine with water."
+    }
+  },
+  {
+    "id": 6211,
+    "image": "https://YOUR_IMAGE_HOST/images/33C7D9C0-656B-4481-BBD2-AC549B7D826C_4_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-525 to -475",
+        "Attribution": "A D P by KUNZE-GOTTE",
+        "Decoration": "A: PELEUS AND THETIS, NEREUS AND NEREIDS | B: DIONYSOS (WITH KANTHAROS) AND ARIADNE, SATYRS"
+      },
+      "Additional Content": {
+        "Description": "Peleus struggling with Thetis. Nereus as onlooker, Nereides fleeing.",
+        "Mythological": "Nereus: sea god",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely function of this vase based on its imagery and historical context?",
+      "answer": "The vase is likely a amphora used for storing wine or oil, as it depicts mythological scenes often associated with Dionysian festivals and rituals."
+    }
+  },
+  {
+    "id": 6388,
+    "image": "https://YOUR_IMAGE_HOST/images/4AA402CB-F1A4-4822-9F13-E97642AAA170_5_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "CHOUS",
+        "Date": "-475 to -425",
+        "Attribution": "<em>Manner of</em> PISTOXENOS P by HÖLSCHER",
+        "Decoration": "Body: SATYR, CARRYING CHOUS, RIDING MULE"
+      },
+      "Additional Content": {
+        "Description": "Satyr reitet auf ithyphallischem Esel und hält in der ausgestreckten Rechten eine bekränzte Choenkanne.Zuordnung zu Festen (Parodie): Anthesterien (Simon).",
+        "Mythological": "Silenoi: satyr",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely function of this vase during the festivals mentioned in the description?",
+      "answer": "The vase was likely used as a drinking vessel during the Anthesteria festivals."
+    }
+  },
+  {
+    "id": 6493,
+    "image": "https://YOUR_IMAGE_HOST/images/E9E8D459-38A2-42BF-B2CE-E493FFC0577A_3_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "HYDRIA",
+        "Date": "-550 to -500",
+        "Attribution": "<em>Perhaps</em> MEDEA GROUP by BEAZLEY | CHIUSI P by AHLBERG-CORNELL | LYSIPPIDES P by BOTHMER",
+        "Decoration": "Body: HERAKLES AND TRITON BETWEEN NEREUS AND NEREID | Predella: PANTHER BETWEEN GOATS, BETWEEN PALMETTES | Shoulder: JUDGEMENT OF PARIS, HERMES, ATHENA, APHRODITE, HERA"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Athena: goddess",
+        "Findspot": "Vulci",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely function of this hydria based on the mythological figures depicted?",
+      "answer": "This hydria was likely used for ritual purposes related to the mythological story of Heracles and the Triton, as well as other figures involved, indicating it could have been used in religious or ceremonial contexts."
+    }
+  },
+  {
+    "id": 6543,
+    "image": "https://YOUR_IMAGE_HOST/images/2F9DEA6E-0820-4D5A-8F11-32B4F077D114_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-525 to -475",
+        "Attribution": "CHIUSI P by WALLENSTEIN | LEAGROS GROUP by WALLENSTEIN",
+        "Decoration": "A: AINEIAS AND ANCHISES, BETWEEN WOMEN | B: WARRIORS FIGHTING OVER FALLEN WARRIOR (SHIELD DEVICES, EYE, DISCS)"
+      },
+      "Additional Content": {
+        "Description": "Scene showing an older male figure carried by a young male figure, standing between two female figures; scene interpreted as Aineias carrying his father Anchises, Kreousa and Aphrodite.",
+        "Mythological": "Aineias: son of Aphrodite :: Anchises: father of Aineias :: Kreousa III: wife of Aineias",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": "510 - 500 BCE"
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely function of this amphora based on its decoration and the mythological context?",
+      "answer": "The amphora likely served as a vessel for storing wine or oil and was decorated to celebrate the mythological story involving Aineias and Anchises, possibly used during religious or ritualistic ceremonies related to the cult of Aphrodite."
+    }
+  },
+  {
+    "id": 6544,
+    "image": "https://YOUR_IMAGE_HOST/images/03310089-7618-49F6-A8A8-F0A6D253A1CC_3_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "LEKYTHOS",
+        "Date": "-525 to -475",
+        "Attribution": "PHANYLLIS P by HASPELS",
+        "Decoration": "Body: AINEIAS AND ANCHISES, WOMEN"
+      },
+      "Additional Content": {
+        "Description": "A: Scene showing four figures; an older male figure carried by a young male figure, two standing female figures; interpreted as Aineias carrying his father Anchises, Kreousa and Aphrodite.",
+        "Mythological": "Aineias: son of Aphrodite :: Anchises: father of Aineias :: Kreousa III: wife of Aineias",
+        "Findspot": "",
+        "Artist": "Phanyllis Group A: Attic vase painters",
+        "Dating": "510 - 500 BCE"
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely function of this lekythos based on its decoration and historical context?",
+      "answer": "The lekythos was typically used for holding perfumes or ointments, which were often associated with funerary rituals. Given the mythological figures depicted, it is likely that this lekythos served a ceremonial purpose related to the burial or commemoration of Aineias and his family."
+    }
+  },
+  {
+    "id": 6546,
+    "image": "https://YOUR_IMAGE_HOST/images/EE4CB5E1-6A00-4D4E-BC78-F06EE6297354_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "HYDRIA",
+        "Date": "-400 to -300",
+        "Attribution": "HELEN P* by SCHEFOLD",
+        "Decoration": "Body: HELEN (NAKED ?) SEATED ON CHAIR, PARIS IN PATTERNED SUIT AND PERSIAN CAP, WOMEN, WITH FAN, OINOCHOE AND INCENSE BURNER, ONE SEATED, YOUTHS, WITH CHLAMYDES (DIOSKOUROI ?) EROTES"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Aithra I: daughter of Pitheus :: Dioskouroi: Kastor and Polydeukes :: Eros: personification :: Helene: cause of the Trojan war :: Paris: Trojan hero",
+        "Findspot": "Juz Oba",
+        "Artist": "Helena Painter: Attic vase painter",
+        "Dating": "370 - 360 BCE"
+      }
+    },
+    "task": "visual_knowledge_prompt",
+    "model_output": {
+      "question": "What is the likely historical period during which this hydria was created based on its decorative elements?",
+      "answer": "The hydria is likely from the Late Classical period, as indicated by the red-figure technique and the specific decorative elements such as the seated figure of Helen, references to mythological figures like the Dioskouroi, and the inclusion of an incense burner and a chalice, which were common in Attic vases of that time."
+    }
+  }
+]

@@ -1,0 +1,2952 @@
+[
+  {
+    "id": 6547,
+    "image": "https://YOUR_IMAGE_HOST/images/4B339C11-B634-4F10-957C-300C4D462AE1_5_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, BELLY, TYPE B",
+        "Date": "-525 to -475",
+        "Attribution": "",
+        "Decoration": "A: AINEIAS CARRYING ANCHISES BETWEEN ARCHER AND WOMAN (APHRODITE ?) | B: WOMAN BETWEEN WARRIORS (AKAMAS AND DEMOPHON LEADING AITHRA ?)"
+      },
+      "Additional Content": {
+        "Description": "Scene showing an archer, an older male figure carried by a young male figure, a female figure: interpreted as Aineias carrying his father Anchises, Kreousa and Aphrodite.",
+        "Mythological": "Aineias: son of Aphrodite :: Aithra I: daughter of Pitheus :: Anchises: father of Aineias :: Kreousa III: wife of Aineias",
+        "Findspot": "Vulci",
+        "Artist": "",
+        "Dating": "520 - 510 BCE :: 530 BCE"
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the identity of the woman between the warriors on the amphora?",
+      "possible_answers": [
+        "Aithra",
+        "Kreousa"
+      ]
+    }
+  },
+  {
+    "id": 6551,
+    "image": "https://YOUR_IMAGE_HOST/images/7748717F-BBE0-45E5-9000-C8F60180DAEC_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "LEKYTHOS",
+        "Date": "-475 to -425",
+        "Attribution": "ACHILLES P by JUCKER",
+        "Decoration": "Body: AKRISIOS (NAMED), SEATED ON THE TOMB (STELE) OF PERSEUS (NAMED)"
+      },
+      "Additional Content": {
+        "Description": "Akrisios sitting on the stairs of the funerary monument of Perseus.",
+        "Mythological": "Akrisios: king of Argos",
+        "Findspot": "",
+        "Artist": "Achilles Painter: Attic vase painter",
+        "Dating": "460 - 450 BCE"
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of Akrisios' positioning on the tomb stele depicted on this lekythos?",
+      "possible_answers": [
+        "Akrisios' positioning represents his role as the father of Perseus and thus his connection to the mythological lineage and legacy surrounding Perseus' burial.",
+        "The positioning might symbolize Akrisios' perpetual watch over Perseus, reflecting his protective nature even in death."
+      ]
+    }
+  },
+  {
+    "id": 6555,
+    "image": "https://YOUR_IMAGE_HOST/images/D6DDE25C-299A-4D49-9BC6-BEE45166E4C9_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-500 to -450",
+        "Attribution": "ACHILLES P by GUY | ACHILLES P by PARIBENI | BERLIN P by ADAMESTEANU | HERMONAX by SIMON",
+        "Decoration": "A: PARIS (?) (WARRIOR WITH BOW AND ARROWS) | B: PRIAM (?) (OLD MAN WITH STAFF)"
+      },
+      "Additional Content": {
+        "Description": "Paris and Priamos.",
+        "Mythological": "Alexandros: name variant of Paris :: Priamos: king of Troy",
+        "Findspot": "Pisticci",
+        "Artist": "Berlin Painter: Attic vase painter :: Hermonax: Attic vase painter",
+        "Dating": "510 - 500 BCE"
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "Who is the warrior depicted on the amphora in terms of his mythological identity?",
+      "possible_answers": [
+        "Paris with bow and arrows",
+        "Alexandros with bow and arrows",
+        "A figure resembling Paris but likely not named Alexandros"
+      ]
+    }
+  },
+  {
+    "id": 6561,
+    "image": "https://YOUR_IMAGE_HOST/images/4843C327-7B54-4D3C-9675-56AB63AA7465_3_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, BELLY, TYPE A",
+        "Date": "-575 to -525",
+        "Attribution": "LYSIPPIDES P by ANDREAE | PRIAM P by MOON",
+        "Decoration": "A: HERAKLES AND ALKYONEUS (BOTH NAMED), TREE | B: WEDDED PAIR IN CHARIOT, APOLLO PLAYING KITHARA, DIONYSOS, HERMES"
+      },
+      "Additional Content": {
+        "Description": "A: Herakles and Alkyoneus; B: From the left a chariot with a couple (Zeus and Hera?), on the right Apollo with cithara and Dionysos, behind them Hermes.",
+        "Mythological": "Alkyoneus: giant :: Dionysos: Greek god :: Hera: wife of Zeus :: Herakles: divine Greek hero :: Hermes: messenger of the gods :: Zeus: god",
+        "Findspot": "Etruria",
+        "Artist": "Lysippides Painter: Attic vase painter",
+        "Dating": "520 BCE"
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of the figures in the chariot on the amphora's depiction?",
+      "possible_answers": [
+        "The chariot may represent a wedding procession of Zeus and Hera, reflecting their divine status and union.",
+        "The chariot could symbolize the mythological battle between Herakles and Alkyoneus, as suggested by their names on the amphora."
+      ]
+    }
+  },
+  {
+    "id": 6692,
+    "image": "https://YOUR_IMAGE_HOST/images/75DC05C7-0C29-4EA0-BFEA-EF96331E7D46_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "HYDRIA",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "Body: HERAKLES AND TRITON, NEREUS | Shoulder: WARRIOR PURSUING HORSEMAN (ACHILLES AND TROILOS), WOMEN, ONE FLEEING (POLYXENE)"
+      },
+      "Additional Content": {
+        "Description": "Fight between Herakles and Triton. Nereus as onlooker.",
+        "Mythological": "Achilleus: son of Peleus :: Nereus: sea god :: Polyxene: daughter of Priamos :: Thetis: nereid :: Troilos: son of Priamos",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": "540 - 520 BCE"
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of the scene depicted on this hydria?",
+      "possible_answers": [
+        "It illustrates a mythological battle between Heracles and Triton, with Nereus observing as a witness.",
+        "The scene represents the pursuit of Achilles by Troilos, highlighting the conflict between these two warriors.",
+        "It depicts a mythological narrative involving Polyxena's flight from Troy, with elements of divine intervention."
+      ]
+    }
+  },
+  {
+    "id": 6702,
+    "image": "https://YOUR_IMAGE_HOST/images/9DF9E8BE-2655-4A86-8F96-A36092A12C21_5_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "CUP LITTLE MASTER BAND",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "A,B: AMAZONOMACHY, HERAKLES AND AMAZON IN NEBRIS, BETWEEN YOUTHS BETWEEN LIONS"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Herakles: divine Greek hero :: Amazones: warrior women",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": "550 - 525 BCE"
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "Who is depicted as 'The Amazon' on the cup?",
+      "possible_answers": [
+        "Herakles",
+        "Amazon",
+        "Both"
+      ]
+    }
+  },
+  {
+    "id": 6706,
+    "image": "https://YOUR_IMAGE_HOST/images/84FB008F-C996-4FC2-8EA1-CF7F77864FB1_5_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "HYDRIA",
+        "Date": "-525 to -475",
+        "Attribution": "",
+        "Decoration": "Body: HERAKLES (WITHOUT LIONSKIN) AND ATHENA IN CHARIOT, APOLLO, DIONYSOS, HERMES, GODDESS (ARTEMIS ?), IVY | Shoulder: FIGHT, WARRIORS, ONE FALLING WITH BOEOTIAN SHIELD, BETWEEN ARCHERS"
+      },
+      "Additional Content": {
+        "Description": "Herakles stands on the chariot while Athena mounts it holding the reins. With a woman, Apollon, Dionysos and Hermes.",
+        "Mythological": "Herakles: divine Greek hero",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of the woman depicted with Herakles and the other gods in the chariot?",
+      "possible_answers": [
+        "The woman could represent Athena's partner Hermos, enhancing the theme of wisdom and beauty as they ride together towards victory.",
+        "Alternatively, considering the decoration includes Apollo, Dionysos, and Hermes, she might symbolize Artemis, suggesting a connection to the hunt and nature, which aligns with the ivy motif."
+      ]
+    }
+  },
+  {
+    "id": 6721,
+    "image": "https://YOUR_IMAGE_HOST/images/CF3E4219-3546-4ED3-9534-1FCBEC10A045_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "KRATER, BELL",
+        "Date": "-475 to -425",
+        "Attribution": "",
+        "Decoration": "A: DANAE AND PERSEUS IN CHEST, MEN IN CHITONISKOI, FUR CAPS | B: DOMESTIC, WOMEN, ONE WITH MIRROR"
+      },
+      "Additional Content": {
+        "Description": "A: Perseus, Danae and fishermen.",
+        "Mythological": "Danae: mother of Perseus :: Perseus: Greek hero",
+        "Findspot": "Camarina",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of the chitonisloi depicted in Scene A on this krater's exterior?",
+      "possible_answers": [
+        "They represent Danae's relatives who seek her to give birth in secret.",
+        "They are likely to be the fishermen mentioned in the description, catching Perseus in a net."
+      ]
+    }
+  },
+  {
+    "id": 6722,
+    "image": "https://YOUR_IMAGE_HOST/images/8C38E765-CE74-4861-A176-8ACC14492464_3_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "HYDRIA",
+        "Date": "-400 to -300",
+        "Attribution": "KERCH by UNKNOWN",
+        "Decoration": "Body: EUROPA, BULL, HERMES, EROTES, POSEIDON (?), YOUTH, DOLPHIN, FISH"
+      },
+      "Additional Content": {
+        "Description": "Europe (I) floating on the far side of the bull. Hermes and Eros. Behind, a seated youth. In the front, a seated man, greeting Zeus.",
+        "Mythological": "Europe I: sister of Kadmos I :: Hermes: messenger of the gods",
+        "Findspot": "",
+        "Artist": "Europa Painter: Attic vase painter",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of Poseidon's depiction in this vase with respect to the mythological narrative?",
+      "possible_answers": [
+        "Poseidon is depicted as a minor figure in the scene, suggesting a secondary role in the mythological story.",
+        "Poseidon's inclusion signifies his importance because he is often associated with water and the sea, which is relevant to the overall mythological theme of Europe being taken from Africa by a bull.",
+        "Poseidon's presence is ambiguous and may reflect scholarly disagreement about whether his role in the myth is significant or merely decorative."
+      ]
+    }
+  },
+  {
+    "id": 6731,
+    "image": "https://YOUR_IMAGE_HOST/images/E1455544-CC49-42BC-A4EA-8978157D58C4_8_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "A: HERAKLES, PLAYING KITHARA, MOUNTING PLATFORM BETWEEN ATHENA AND HERMES | B: WARRIOR, DEPARTING (?) BETWEEN OLD MAN AND WOMAN"
+      },
+      "Additional Content": {
+        "Description": "Herakles, wearing lionskin, mounts the bema, playing a kithara. Between Hermes and Athena.",
+        "Mythological": "Herakles: divine Greek hero",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of the warrior depicted between the old man and woman on the amphora?",
+      "possible_answers": [
+        "The warrior could symbolize the hero's ageless struggle against evil, as often seen in mythological representations.",
+        "The artist may have intended this warrior to represent a family member or companion of the main figure, possibly indicating a familial connection or support.",
+        "There might be an error in the interpretation, and the warrior could simply be a stylistic choice without deeper symbolic meaning."
+      ]
+    }
+  },
+  {
+    "id": 6901,
+    "image": "https://YOUR_IMAGE_HOST/images/004C19FB-2F9E-4C86-905D-1FFBD19B8E49_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-525 to -475",
+        "Attribution": "",
+        "Decoration": "A: AMBUSH OF TROILOS, ACHILLES CROUCHING, PALM TREE | At handle: TRIPOD | B: APOLLO PLAYING KITHARA, PALM TREE | Under handle: TRIPOD"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Achilleus: son of Peleus",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": "530 - 520 BCE"
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the theme depicted on the neck of the amphora?",
+      "possible_answers": [
+        "Achilles crouching amidst an ambush scene",
+        "Apollo playing the kithara surrounded by a palm tree"
+      ]
+    }
+  },
+  {
+    "id": 6904,
+    "image": "https://YOUR_IMAGE_HOST/images/83020253-82CE-4530-90C3-0D75E46909DF_4_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "OINOCHOE",
+        "Date": "-475 to -425",
+        "Attribution": "",
+        "Decoration": "Body: HERMES, ARGOS WITH CLUB, IO, BOTH SEATED, HEAD OF COW"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Io I: priestess",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of the cow's head decoration on the oinochae?",
+      "possible_answers": [
+        "The cow's head may represent Io as a priestess, reflecting her transformation into a cow.",
+        "The cow's head could symbolize the power of the gods, as Hermes is associated with the divine.",
+        "The cow's head might indicate a connection to Argos, a region with significant religious importance."
+      ]
+    }
+  },
+  {
+    "id": 6905,
+    "image": "https://YOUR_IMAGE_HOST/images/5FF14646-A55D-4F31-837F-717F1BDC0AA3_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "LEKYTHOS",
+        "Date": "-525 to -475",
+        "Attribution": "",
+        "Decoration": "Body: ACHILLES BROUGHT TO CHIRON, PELEUS, THETIS"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Achilleus: son of Peleus :: Cheiron: centaur :: Peleus: father of Achilleus :: Thetis: nereid",
+        "Findspot": "",
+        "Artist": "Edinburgh Painter: Attic vase painter",
+        "Dating": "490 BCE"
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of the scene depicted on the lekythos attributed to the Edinburgh Painter?",
+      "possible_answers": [
+        "The scene represents Achilles being instructed by Chiron, highlighting his future role as a hero, reflecting a common mythological narrative of mentorship and preparation.",
+        "The depiction could also symbolize the bond between Peleus and Achilles, showcasing the deep familial and emotional connection within the mythological narrative, which is central to the story of Achilles' origins.",
+        "The lekythos was created around 490 BCE, as per scholarly consensus, capturing a moment in the life of Achilles before his departure to Troy."
+      ]
+    }
+  },
+  {
+    "id": 6911,
+    "image": "https://YOUR_IMAGE_HOST/images/51DC7ACF-5618-47A8-8FDB-9518974EABE0_4_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "KRATER, COLUMN",
+        "Date": "-475 to -425",
+        "Attribution": "",
+        "Decoration": "A: HERAKLES AND ACHELOOS, OLD MAN (?) WITH SCEPTRE, DRINKING HORN, DEIANEIRA | B: DRAPED YOUTHS"
+      },
+      "Additional Content": {
+        "Description": "Herakles fighting against Acheloos, Deianeira and Oineus.",
+        "Mythological": "Acheloos: river god :: Herakles: divine Greek hero :: Oineus I: king of Kalydon in Aetolia :: Deianeira II: wife of Herakles",
+        "Findspot": "Agrigento",
+        "Artist": "",
+        "Dating": "460 - 450 BCE"
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of the 'Old Man' figure holding a sceptre and drinking horn in the context of the Herakles and Acheloos myth?",
+      "possible_answers": [
+        "He represents a figure from the story who gives advice to Herakles, highlighting wisdom in battle",
+        "He symbolizes an oracle or priest who blesses Herakles with a prophecy, emphasizing the role of divinity in the narrative",
+        "He could represent a minor character from the myth bearing gifts, reflecting the cultural practice of honoring gods through offerings"
+      ]
+    }
+  },
+  {
+    "id": 6915,
+    "image": "https://YOUR_IMAGE_HOST/images/3155DDA9-8EFA-4E5E-8592-5B63CBFECDBE_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "LEKYTHOS",
+        "Date": "-575 to -525",
+        "Attribution": "<em>Manner of</em> BLACKNECK CLASS by HASPELS",
+        "Decoration": "Body: HERAKLES AND THE LION"
+      },
+      "Additional Content": {
+        "Description": "Herakles wrestles with the Nemean Lion.",
+        "Mythological": "Herakles: divine Greek hero",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of the lion in this depiction of Herakles, and how does it relate to the mythological narrative?",
+      "possible_answers": [
+        "The lion represents the strength and ferocity of the mythical beast Herakles defeated as his first labor.",
+        "The lion's presence symbolizes the universal struggle between good and evil, reflecting Herakles' battle against the forces of darkness."
+      ]
+    }
+  },
+  {
+    "id": 6916,
+    "image": "https://YOUR_IMAGE_HOST/images/ECFA62D5-7138-46DD-9B89-9840FC16EF7E_6_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "HYDRIA",
+        "Date": "-575 to -525",
+        "Attribution": "<em>Manner of</em> LYDOS by SCHEFOLD",
+        "Decoration": "Body: ORESTES AND AIGISTHOS (?) (FIGHT), ONLOOKERS | Shoulder: CENTAUROMACHY, HERAKLES AND CENTAURS"
+      },
+      "Additional Content": {
+        "Description": "Combat scene between two men. Orestes and Aigisthos?",
+        "Mythological": "Aigisthos: murderer of Agamemnon :: Odysseus: king of Ithaka :: Orestes: son of Agamemnon",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": "600 - 500 BCE"
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What does the central figure in the 'Black-Figure' hydria represent based on the mythological context?",
+      "possible_answers": [
+        "Orestes",
+        "Aigisthos"
+      ]
+    }
+  },
+  {
+    "id": 6974,
+    "image": "https://YOUR_IMAGE_HOST/images/86F8976B-B4AD-4FBA-BCAB-0E71F222B8A2_16_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "PELIKE",
+        "Date": "-475 to -425",
+        "Attribution": "NIOBID P by UNKNOWN",
+        "Decoration": "A: APOLLO, BETWEEN ACHILLES AND PARIS SHOOTING ARROWS | B: SACRIFICE, WOMAN, WITH PHIALE AND LAUREL SPRIG, ALTAR AND TREE, WOMAN"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Achilleus: son of Peleus :: Alexandros: name variant of Paris :: Apollon: god :: Paris: Trojan hero",
+        "Findspot": "",
+        "Artist": "Niobid Painter: Attic vase painter",
+        "Dating": "460 BCE"
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the meaning behind the scene on the left side of the pelike?",
+      "possible_answers": [
+        "Apollo shooting arrows at Achilles and Paris.",
+        "Achilles and Paris engaged in a duel.",
+        "A mythological narrative involving Apollo and the Judgment of Paris."
+      ]
+    }
+  },
+  {
+    "id": 6980,
+    "image": "https://YOUR_IMAGE_HOST/images/84C5A8F6-1374-4FCB-9E85-E46FB75B9CDB_4_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "KRATER, CALYX",
+        "Date": "-425 to -375",
+        "Attribution": "<em>Near</em> LONDON F 64, P OF by SCHÖNE-DENKINGER",
+        "Decoration": "A: AGAMEMNON, TELEPHOS AND ORESTES ON ALTAR, KLYTAIMESTRA, APOLLO, ACHILLES (?) WOMAN WITH STAFF (?), FLEEING (?) | At handle: LAVER | B: DRAPED YOUTHS, STRIGIL AND CLOTH AND ARYBALLOS (?) SUSPENDED"
+      },
+      "Additional Content": {
+        "Description": "Telephos sur l’autel retient le petit Orestes qui tend les bras vers son père Agamemnon courant à son secours depuis la droite. A gauche Klytaimestra en fuite, en haut Apollon assis. Thelephos schutzflehend auf rechteckigem Block-Altar (Basis,Deckplatte, Feuerschutzaufsatz, Blutspur) kniend; dahinter Lorbeerbaum mit 2 bemalten, aufgehängten Pinakes.",
+        "Mythological": "Agamemnon: king of Argos and Mycene :: Apollon: god :: Klytaimestra: wife of Agamemnon :: Orestes: son of Agamemnon :: Telephos: ruler",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": "400 - 390 BCE"
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of Apollo's presence on the krater?",
+      "possible_answers": [
+        "Apollo represents the divine guidance towards reconciliation between Agamemnon and his subjects.",
+        "Apollo symbolizes the messenger of the gods and the protector of the underworld, suggesting a narrative related to the afterlife of Agamemnon."
+      ]
+    }
+  },
+  {
+    "id": 6985,
+    "image": "https://YOUR_IMAGE_HOST/images/A50A8217-F08D-4318-A86A-BC43B93B7A15_5_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "AMPHORISKOS",
+        "Date": "-450 to -400",
+        "Attribution": "",
+        "Decoration": "A: ADRASTOS IN CHARIOT | B: APOLLO SEATED ON CHAIR, PLAYING LYRE, MUSES, ONE (URANIA) STANDING, ONE SEATED HOLDING LAUREL WREATH"
+      },
+      "Additional Content": {
+        "Description": "Young warrior named Adrastos with helmet and armature and a kentron driving a quadriga.",
+        "Mythological": "Adrastos: ruler :: Mousa: goddesses :: Septem",
+        "Findspot": "Greece",
+        "Artist": "",
+        "Dating": "420 BCE"
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of Adrastos in the context of this amphoriskos?",
+      "possible_answers": [
+        "He represents a ruler in a mythological context.",
+        "He symbolizes a warrior in a quadriga race.",
+        "He embodies a leader of the Septem."
+      ]
+    }
+  },
+  {
+    "id": 6996,
+    "image": "https://YOUR_IMAGE_HOST/images/82F5B1E8-8AC1-4E93-A5B5-D1C1507CD2EF_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "LEKYTHOS",
+        "Date": "-500 to -450",
+        "Attribution": "BERLIN P by UNKNOWN",
+        "Decoration": "Body: ZEUS WITH THUNDERBOLT AND SCEPTRE"
+      },
+      "Additional Content": {
+        "Description": "Zeus bearded and frontal, holding sceptre and thunderbolt. Calm pose.",
+        "Mythological": "Zeus: god",
+        "Findspot": "",
+        "Artist": "Berlin Painter: Attic vase painter",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "Who is depicted on the vase depicting Zeus with a thunderbolt?",
+      "possible_answers": [
+        "Zeus",
+        "Achilles",
+        "Poseidon"
+      ]
+    }
+  },
+  {
+    "id": 7001,
+    "image": "https://YOUR_IMAGE_HOST/images/30C57605-A445-46CD-AF85-94004B5EFA13_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "HYDRIA",
+        "Date": "-525 to -475",
+        "Attribution": "<em>Manner of</em> ANTIMENES P by UNKNOWN | <em>Near</em> ANTIMENES P by BEAZLEY",
+        "Decoration": "Body: AMAZONOMACHY, HERAKLES AND AMAZONS, ONE ARCHER, ONE IN NEBRIS, ONE WITH PELTA, SHIELD DEVICE, TRIPOD"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Herakles: divine Greek hero :: Amazones: warrior women",
+        "Findspot": "",
+        "Artist": "Antimenes Painter: Attic vase painter",
+        "Dating": "500 BCE"
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What artistic style does the vase most closely resemble based on its decoration?",
+      "possible_answers": [
+        "Black-figure technique",
+        "Attic style",
+        "Antimenes painter's manner"
+      ]
+    }
+  },
+  {
+    "id": 7008,
+    "image": "https://YOUR_IMAGE_HOST/images/63D237DD-73ED-48DA-9FDF-26FAC4D84890_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "CUP A",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "A: AMAZON IN NEBRIS CARRYING BODY OF AMAZON, EACH WITH PELTA, BETWEEN EYES | B: AMAZONOMACHY, HERAKLES AND AMAZON, BETWEEN EYES | Under handle: PANTHER ATTACKING DEER (?)"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Herakles: divine Greek hero :: Amazones: warrior women",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": "550 - 540 BCE"
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the likely significance of the depiction of the Panther Attacking Deer on the bottom of Cup A?",
+      "possible_answers": [
+        "The scene may symbolize the struggle between wild nature and civilization.",
+        "It could represent a hunting scene, indicating the artistic's interest in fauna.",
+        "The image might allude to a mythological event involving a divine or heroic figure."
+      ]
+    }
+  },
+  {
+    "id": 7011,
+    "image": "https://YOUR_IMAGE_HOST/images/4EE26A81-EFB7-4863-8220-8E25C4E8ACB8_7_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "HYDRIA",
+        "Date": "-450 to -400",
+        "Attribution": "",
+        "Decoration": "Body: ERIPHYLE SEATED ON CHAIR, NURSING ALKMAION, AMPHIARAOS LEANING ON STAFF, DEMONASSA (?), AND COCKS, FIGHTING"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Alkmaion: son of Amphiaraos :: Amphiaraos: one of the Seven against Thebes :: Demonassa II: nymph :: Eriphyle I: heroine",
+        "Findspot": "Attica",
+        "Artist": "",
+        "Dating": "440 - 430 BCE"
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of the mythological figures depicted on the hydria?",
+      "possible_answers": [
+        "The figures represent a scene from the myth of Amphiarao's death as he was killed by his own horseflesh while driving his chariot into the pyre, which symbolizes his sacrifice for the sake of his men.",
+        "The figures depict a scene from the myth of Erinyes pursuing Amphiarao, symbolizing the wrath of the avenging goddesses for his hubris.",
+        "The figures illustrate a scene from the myth of Amphiarao and his companions fighting the Lernaean Hydra, highlighting their bravery and loyalty."
+      ]
+    }
+  },
+  {
+    "id": 7018,
+    "image": "https://YOUR_IMAGE_HOST/images/C7BA6F56-E57D-4A67-BC22-6766BD200D5B_3_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "HYDRIA",
+        "Date": "-400 to -300",
+        "Attribution": "KERCH by UNKNOWN",
+        "Decoration": "Body: POSEIDON, AMYMONE SEATED ON HYDRIA, WOMEN (APHRODITE ?), EROS"
+      },
+      "Additional Content": {
+        "Description": "Amymone sitzt auf ihrer Hydria, vor ihr steht Poseidon, den Fuß auf einen Baumstamm gestützt, beugt er sich zu ihr herunter und fasst sie am Arm. Über Amymones Kopf schwebt ein Eros, rechts und links sind zwei Frauen dargestellt, links wohl Aphrodite, rechts ein laufendes Mädchen.",
+        "Mythological": "Amymone: Danaid :: Aphrodite: goddess :: Eros: personification :: Poseidon: god",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": "370 BCE"
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of the figure standing behind the seated woman on the hydria?",
+      "possible_answers": [
+        "Poseidon is symbolizing protection and guidance.",
+        "The figure is Aphrodite, indicating love and fertility."
+      ]
+    }
+  },
+  {
+    "id": 7019,
+    "image": "https://YOUR_IMAGE_HOST/images/421D2E24-EC6B-4D55-9314-368FB420686F_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "OINOCHOE",
+        "Date": "-450 to -400",
+        "Attribution": "",
+        "Decoration": "Body: WARRIOR DEPARTING, ANDROMACHE (NAMED) WITH PHIALE, HEKTOR (NAMED), PRIAM"
+      },
+      "Additional Content": {
+        "Description": "Auf der linken Seite Andromache mit kurzen Haaren, Chiton und Mantel, in der Linken eine Oinochoe, in der Rechten eine Schale, die sie Hektor reicht. Dieser hat sich Priamos auf der rechten Seite zugewandt.",
+        "Mythological": "Andromache I: wife of Hektor :: Hektor: Trojan hero :: Priamos: king of Troy",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": "430 BCE"
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of Andromache holding both an oinochoe and a phiale in her hands on this red-figure oinochoe?",
+      "possible_answers": [
+        "Andromache is depicted as a hostess, serving wine from the oinochoe to Hektor, symbolizing hospitality and the social function of wine in ancient Greek culture.",
+        "Andromache, with the phiale, is preparing to anoint Hektor’s body after his death, indicating her role in the rituals of mourning and remembrance in the aftermath of the Trojan War."
+      ]
+    }
+  },
+  {
+    "id": 7052,
+    "image": "https://YOUR_IMAGE_HOST/images/FDBA2089-BC9E-4E57-BC78-ECEDE3BB9CF1_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-550 to -500",
+        "Attribution": "<em>Manner of</em> GROUP E by DESCOEUDRES",
+        "Decoration": "A: AJAX AND ACHILLES PLAYING, BOEOTIAN SHIELDS, DEVICES, TRIPOD, DISCS | B: DIONYSOS AND HERMES, GODDESS"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Achilleus: son of Peleus",
+        "Findspot": "",
+        "Artist": "E Group (Workshop of Exekias): Attic vase painters",
+        "Dating": "530 - 520 BCE"
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "Who is the mythological figure depicted playing with Ajax on the amphora?",
+      "possible_answers": [
+        "The figure playing with Ajax is likely Achilles, based on the description and the vase painting's iconography.",
+        "It could be another mythological figure who shares similar attributes or was often paired with Ajax in vase paintings."
+      ]
+    }
+  },
+  {
+    "id": 7073,
+    "image": "https://YOUR_IMAGE_HOST/images/5787A5D6-187E-4F0A-AB1A-5760E7AF6CB8_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-525 to -475",
+        "Attribution": "",
+        "Decoration": "A: HERAKLES AND NESSOS, DEIANEIRA IN NEBRIS, DRAPED YOUTHS | B: SATYR PURSUING MAENAD IN NEBRIS, DRAPED YOUTHS | Under handle: DOLPHIN"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Nessos: centaur",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the mythological significance of the scene depicted on the amphora's neck?",
+      "possible_answers": [
+        "The scene represents Heracles slaying the centaur Nessus, as indicated by the description of a centaur and Heracles with a lion skin, which is a common motif associated with the myth of Heracles and Nessus.",
+        "Alternatively, the scene could depict aSatyr chasing Maenad, as suggested by the description of a satyr and a maenad in a frenzy, which aligns with the depiction of Bacchic scenes commonly found on ancient Greek vases."
+      ]
+    }
+  },
+  {
+    "id": 7159,
+    "image": "https://YOUR_IMAGE_HOST/images/77BFD0B2-F8E9-4EB5-ACD9-925C6F9E5492_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "CUP",
+        "Date": "-550 to -500",
+        "Attribution": "CAYLUS P by UNKNOWN | LEAFLESS GROUP by UNKNOWN",
+        "Decoration": "A,B: ACHILLES AND AJAX PLAYING, PALM TREE, OLD MAN WARRIORS, WOMAN | I: WARRIOR"
+      },
+      "Additional Content": {
+        "Description": "two depictions of board games; the player without beard is probably Achilleus",
+        "Mythological": "Achilleus: son of Peleus :: Aias I: Achaean hero",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": "510 - 490 BCE"
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What was the significance of the palm tree depicted on the cup?",
+      "possible_answers": [
+        "The palm tree symbolizes the divine favor or protection of the gods over the depicted figures, as it is often associated with immortality in Greek mythology.",
+        "The palm tree represents the lush vegetation of the Achaean homeland where the depicted scenes likely took place, linking the story to the natural environment.",
+        "The palm tree signifies a moment of rest or a marker during the game being played, indicating a break from combat."
+      ]
+    }
+  },
+  {
+    "id": 7276,
+    "image": "https://YOUR_IMAGE_HOST/images/6CAB93CD-7499-4F60-9CAE-C79C3AC88D2B_18_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, BELLY, TYPE A",
+        "Date": "-550 to -500",
+        "Attribution": "RYCROFT P by BOTHMER",
+        "Decoration": "A: RANSOM OF HEKTOR, ACHILLES RECLINING ON KLINE WITH PHIALE, PRIAM, YOUTH IN CHITONISKOS WITH TRIPOD AND PHIALAI, HERMES (NAMED), WOMAN WITH HYDRIA, TABLE WITH FOOD, SHIELD, HELMET AND SCABBARD SUSPENDED, NONSENSE INSCRIPTIONS | B: WARRIORS DEPARTING WITH CHARIOT (CHARIOTEER IN NEBRIS), OLD MAN, DEVICE, LION PROTOME, NONSENSE INSCRIPTIONS"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Achilleus: son of Peleus :: Briseis: slave :: Hektor: Trojan hero :: Hermes: messenger of the gods :: Priamos: king of Troy",
+        "Findspot": "",
+        "Artist": "Rycroft Painter: Attic vase painter",
+        "Dating": "520 - 510 BCE"
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What was the primary theme of the scene on the amphora's belly?",
+      "possible_answers": [
+        "The primary theme is Achilles' victory over Hector with support from other mythological figures, as indicated by the clearest inscription and visual layout.",
+        "Alternatively, the primary theme could be the departure of warriors, suggested by the chariot and the device on the vase."
+      ]
+    }
+  },
+  {
+    "id": 7306,
+    "image": "https://YOUR_IMAGE_HOST/images/A419B597-A57C-4A8D-8EB2-E011A7E581B9_10_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-550 to -500",
+        "Attribution": "HATTAT P by KURTZ",
+        "Decoration": "A: SYMPOSIUM, DIONYSOS RECLINING WITH KANTHAROS, TABLE WITH MEAT, SATYRS, ONE HOLDING KANTHAROS AND OINOCHOE, BOTH WITH MAENADS, WOMAN, GRAPE VINE | B: RETURN OF HEPHAISTOS, HEPHAISTOS WITH VINE ON ITHYPHALLIC MULE WITH OINOCHOE, SATYRS, ONE CARRYING WINESKIN, ONE CATCHING MAENAD WITH DRINKING HORN, GRAPE VINE | Under handle: DINOS"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Hephaistos: god",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the primary mythological narrative depicted on the amphora?",
+      "possible_answers": [
+        "The amphora primarily illustrates the return of Hephaestus from Mount Olympus.",
+        "The amphora primarily portrays a symposium featuring Dionysus reclining with his followers."
+      ]
+    }
+  },
+  {
+    "id": 7493,
+    "image": "https://YOUR_IMAGE_HOST/images/B5BDB02E-E041-4F2A-BC07-7B77B3B16AB4_3_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "HYDRIA",
+        "Date": "-475 to -425",
+        "Attribution": "VILLA GIULIA P by UNKNOWN",
+        "Decoration": "Body: EOS AND TITHONOS OR KEPHALOS, WOMAN FLEEING"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Eos: Greek goddess",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the mythological significance of the woman fleeing on the body of the hydria?",
+      "possible_answers": [
+        "She represents Phaedra who escapes from Crete to Athens.",
+        "She symbolizes the nymph Galatea fleeing from the sea creature Poseidon.",
+        "She depicts the moment when Echo hides from the jealous Hera."
+      ]
+    }
+  },
+  {
+    "id": 7537,
+    "image": "https://YOUR_IMAGE_HOST/images/E6608C24-774F-44D6-9660-3C370E57DF53_5_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "FIGURE VASE",
+        "Date": "-500 to -450",
+        "Attribution": "CHARINOS by SIGNATURE | TRIPTOLEMOS P by GUY",
+        "Decoration": "Figure: HEAD OF RAM | Neck: SYMPOSIUM, YOUTH, MEN, OLD MEN, WITH LYRES, CUP AND OINOCHOE, ONE PLAYING KOTTABOS (KEKROPS, THESEUS, PANDION ?)"
+      },
+      "Additional Content": {
+        "Description": "Five participants of the symposion: Kekrops (with inscription) playing kottabos; Erechteus?; Hippothoon; Theseus; Pandion?.",
+        "Mythological": "Erechtheus: king of Athens :: Hippothoon: king of Eleusis :: Pandion: king of Athens :: Theseus: Athenian hero :: Kekrops: king of Athens",
+        "Findspot": "",
+        "Artist": "Triptolemos Painter: Attic vase painter",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "Who is the figure depicted on the head of the ram on this Athenian red-figure vase?",
+      "possible_answers": [
+        "This figure represents the mythological hero Kekrops, as indicated in the vase's description.",
+        "The figure could also represent Erechtheus, since both Kekrops and Erechtheus are kings of Athens and the vase might be referencing their connection."
+      ]
+    }
+  },
+  {
+    "id": 7585,
+    "image": "https://YOUR_IMAGE_HOST/images/784B0078-4F68-4C96-9F8E-81256B8856B2_5_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-525 to -475",
+        "Attribution": "",
+        "Decoration": "A,B: CENTAUROMACHY, HERAKLES WITH CLUB AND BOW, ATHENA, CENTAURS (ONE NAMED, PHOLOS), KANTHAROS ON PITHOS"
+      },
+      "Additional Content": {
+        "Description": "A: Pholos, centaur, Herakles, wine barrel and Athena. B: Three centaurs with branches.",
+        "Mythological": "Kentauroi und Kentaurides: hybrid creature",
+        "Findspot": "La Tolfa (Latium)",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of the centaur named Pholos on the amphora?",
+      "possible_answers": [
+        "Pholos represents an archetypal centaur known for his hospitality and was depicted in ancient Greek art as a host of the gods, specifically welcoming Herakles into his home.",
+        "The centaur named Pholos signifies a more specific historical figure, a heroic centaur who played a crucial role in an epic myth involving Herakles and the centaurs at Pholos' home."
+      ]
+    }
+  },
+  {
+    "id": 7596,
+    "image": "https://YOUR_IMAGE_HOST/images/0A5E3D10-A292-4979-B803-046BAB935A3E_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-550 to -500",
+        "Attribution": "MOURNING TROJAN WOMEN, P OF* by KUNZE-GOTTE",
+        "Decoration": "A: GIGANTOMACHY, POSEIDON WITH NISYROS, GIANTS (SHIELD DEVICES, BIRD, SATYR HEAD IN RELIEF) | B: THRACIAN HUNTSMAN AND SCYTHIAN ARCHER ON HORSEBACK, DOGS"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Gigantes: giants",
+        "Findspot": "Etruria",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of the shield devices on the amphora?",
+      "possible_answers": [
+        "The shield features a Nisyros, which might represent a mythical island where the Giants originated.",
+        "The shield devices include a bird and a satyr's head, which could symbolize the chaos and disorder caused by the Giants.",
+        "The shield may commemorate the Scythian archer from the Thracian hunt depicted on the other side of the amphora."
+      ]
+    }
+  },
+  {
+    "id": 7648,
+    "image": "https://YOUR_IMAGE_HOST/images/EFAF5478-666D-47F1-B82F-0C1283C828DF_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "PSYKTER",
+        "Date": "-525 to -475",
+        "Attribution": "LEAGROS GROUP by DROUGOU",
+        "Decoration": "Body: SYMPOSIUM, MEN, YOUTH, WOMEN SEATED, WOMAN WITH KROTALA, DOGS"
+      },
+      "Additional Content": {
+        "Description": "Vier Männer auf Klinen. Zwischen den Klinen sitzen drei Frauen, eine von ihnen hält einen Kantharos.",
+        "Mythological": "",
+        "Findspot": "Tarquinia, Corneto",
+        "Artist": "Leagros Group: Attic vase painters",
+        "Dating": "520 BCE"
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of the symposium depicted on this black-figure psykter?",
+      "possible_answers": [
+        "The symposium likely represents a gathering of men for drinking and socializing, a common scene in Greek vases.",
+        "Alternatively, the symposium might symbolize a ritualistic event, such as a sacrifice or a ritual meal dedicated to specific deities.",
+        "Another interpretation could be that it represents a theatrical performance, as symposia were sometimes venues for dramatic presentations."
+      ]
+    }
+  },
+  {
+    "id": 7664,
+    "image": "https://YOUR_IMAGE_HOST/images/61360417-0460-4CF4-8674-1965F4D4578B_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "CHOUS",
+        "Date": "-450 to -400",
+        "Attribution": "",
+        "Decoration": "Body: THEATRICAL (?), SATYR IN MAENAD COSTUME, MAENAD"
+      },
+      "Additional Content": {
+        "Description": "Tanz einer Mänade (mit Maske) und eines wie die Mänade gekleideten Silens.Zuordnung zu Festen: Choenfest an den Anthesterien (Deubner).",
+        "Mythological": "Mainades: female followers of Dionysos",
+        "Findspot": "Athens",
+        "Artist": "",
+        "Dating": "430 - 425 BCE"
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of the satyr's costume in relation to the mythological context?",
+      "possible_answers": [
+        "The satyr's costume may allude to the satyrs' role as followers of Dionysos, enhancing the theatrical theme",
+        "The satyr's attire could be interpreted as a playful element, contrasting with the more serious depiction of the maenad"
+      ]
+    }
+  },
+  {
+    "id": 7710,
+    "image": "https://YOUR_IMAGE_HOST/images/AFDB9FC8-A12E-4488-B539-A894E622FEF7_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-550 to -500",
+        "Attribution": "<em>Manner of</em> ANTIMENES P by ROBINSON",
+        "Decoration": "A: HERAKLES AND THE BULL, HERMES | B: DIONYSOS BETWEEN HERMES AND WOMAN CARRYING CHILDREN (APHRODITE WITH EROS AND HIMEROS OR ARIADNE)"
+      },
+      "Additional Content": {
+        "Description": "A: Herakles captures and ties up the Cretan Bull. With Hermes. B: Ariadne with her children Staphylos and Oinopion, Dionysos and Hermes.",
+        "Mythological": "Herakles: divine Greek hero :: Ariadne: daughter of Minos :: Staphylos: one of the Argonautai",
+        "Findspot": "Cerveteri, Caere",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "Who is depicted carrying children in Panel B of the amphora?",
+      "possible_answers": [
+        "Aphrodite with Eros and Himeros",
+        "Ariadne with her children Staphylos and Oinopion"
+      ]
+    }
+  },
+  {
+    "id": 7711,
+    "image": "https://YOUR_IMAGE_HOST/images/ACF17311-A270-4B9C-AD19-9ECFF5BE1F08_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, BELLY, TYPE B",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "A: HERAKLES WITH SWORD PURSUING TRITON, OLD MAN (NEREUS ?) | B: WARRIOR SEATED BETWEEN OLD MEN, ONE DEPARTING, SHIELD DEVICE, LEG (?)"
+      },
+      "Additional Content": {
+        "Description": "Fight between Herakles and Triton. Nereus as onlooker.",
+        "Mythological": "Nereus: sea god :: Triton: sea god",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the likely origin of the amphora, and why?",
+      "possible_answers": [
+        "Athens due to the black-figure technique and Athenian fabric",
+        "Attica because of the specific black-figure technique often used there"
+      ]
+    }
+  },
+  {
+    "id": 7771,
+    "image": "https://YOUR_IMAGE_HOST/images/4151E5B5-93A4-4AA7-B853-8566A04B5734_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-550 to -500",
+        "Attribution": "<em>Manner of</em> LYSIPPIDES P by KUNZE-GOTTE",
+        "Decoration": "A: HERAKLES AND THE LION, IOLAOS, ATHENA | B: WARRIOR ARMING, WARRIORS, WOMAN"
+      },
+      "Additional Content": {
+        "Description": "Herakles and the Nemean Lion. With Iolaos and Athena.",
+        "Mythological": "Iolaos: companion of Herakles",
+        "Findspot": "Vulci",
+        "Artist": "manner of the Lysippides Painter: Attic vase painter(s)",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "Who is depicted in the scene on the amphora's shoulder?",
+      "possible_answers": [
+        "Herakles and the Nemean Lion with Iolaos and Athena",
+        "A warrior arming himself alongside other warriors and a single woman"
+      ]
+    }
+  },
+  {
+    "id": 7813,
+    "image": "https://YOUR_IMAGE_HOST/images/28300210-DE88-4011-AB0A-AEA2B962236C_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "HYDRIA",
+        "Date": "-525 to -475",
+        "Attribution": "LYKOMEDES P* by BOTHMER",
+        "Decoration": "Body: HERAKLES AND APOLLO, STRUGGLE FOR THE TRIPOD, ARTEMIS, ATHENA (ALL NAMED) | Shoulder: HERAKLES AND THE LION, IOLAOS, ATHENA, HERMES"
+      },
+      "Additional Content": {
+        "Description": "Shoulder: Herakles and the Nemean Lion. With Iolaos, Athena and Hermes. A: Herakles carrying off the tripod, pursued by Apollon. They are flanked by Athena and Artemis.",
+        "Mythological": "Herakles: divine Greek hero :: Artemis: goddess",
+        "Findspot": "",
+        "Artist": "Lykomedes Painter: Attic vase painter",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What event is depicted on the shoulder of the black-figure hydria?",
+      "possible_answers": [
+        "Herakles carrying off the Nemean Lion",
+        "A mythological struggle between Herakles and Apollo over the tripod"
+      ]
+    }
+  },
+  {
+    "id": 7822,
+    "image": "https://YOUR_IMAGE_HOST/images/922EE528-3859-47FF-9D31-232D9907E00A_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-500 to -450",
+        "Attribution": "",
+        "Decoration": "A: APOLLO WITH KITHARA AND PHIALE AT ALTAR"
+      },
+      "Additional Content": {
+        "Description": "Nolanische Amphoa mit der Darstellung des opfernden Apoll (Kithara, Opferschale) an einem rechteckigen Blockaltar (Basis, Blut am Altarkörper, Abschlussprofil, Deckplatte mit Kyma, Volutenaufsatz) (A) und Artemis (B).",
+        "Mythological": "Apollon: god",
+        "Findspot": "unknown",
+        "Artist": "",
+        "Dating": "460 - 440 BCE"
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the mythical context of the altar depicted on the amphora?",
+      "possible_answers": [
+        "The altar is dedicated to Apollo as it features his attributes (kithara, phiale),",
+        "The altar is dedicated to Artemis, as the other side of the amphora depicts her.",
+        "The altar is a shared dedication to both Apollo and Artemis due to their close relationship."
+      ]
+    }
+  },
+  {
+    "id": 7827,
+    "image": "https://YOUR_IMAGE_HOST/images/3EBB5DB7-7534-4C9E-AC90-04A23F0DFE94_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-525 to -475",
+        "Attribution": "",
+        "Decoration": "A: AJAX CARRYING THE BODY OF ACHILLES, WOMEN (BOEOTIAN SHIELD) | B: APOLLO PLAYING KITHARA BETWEEN SEATED GODDESSES (ARTEMIS AND LETO ?)"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of the depiction of Apollo playing kithara between seated goddesses on the amphora's decoration?",
+      "possible_answers": [
+        "The scene represents Apollo playing music for Artemis and Leto as part of a mythological story, reflecting their connection and shared musical abilities.",
+        "The presence of Apollo and the kithara suggests a celebration of music and poetry, possibly linked to the Nine Muses, who were renowned for their artistic talents and were often depicted with Apollo.",
+        "The amphora may depict a scene from a choral performance dedicated to Apollo, highlighting his role as a patron of the arts and his association with the divine world."
+      ]
+    }
+  },
+  {
+    "id": 7828,
+    "image": "https://YOUR_IMAGE_HOST/images/68FBC0A1-CBCD-42E3-BD7D-5DF67DBAFBED_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "KRATER, COLUMN",
+        "Date": "-525 to -475",
+        "Attribution": "",
+        "Decoration": "A: HERAKLES AND APOLLO, STRUGGLE FOR THE TRIPOD, ARTEMIS, ATHENA | B: APOLLO WITH KITHARA BETWEEN ARTEMIS AND LETO (?)"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Artemis: goddess",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the specific relationship between Herakles and Apollo depicted on panel A of the krater?",
+      "possible_answers": [
+        "Herakles and Apollo are engaged in a struggle over control of the tripod.",
+        "Herakles and Apollo are shown in a harmonious scene, possibly celebrating their friendship."
+      ]
+    }
+  },
+  {
+    "id": 7829,
+    "image": "https://YOUR_IMAGE_HOST/images/865956B1-F768-49A3-A93E-6885A3CA82C3_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-525 to -475",
+        "Attribution": "",
+        "Decoration": "A: APOLLO PLAYING KITHARA BETWEEN ARTEMIS ? AND LETO ?, DEER | B: WARRIOR DEPARTING (WARRIOR AND HORSE BETWEEN OLD MAN WITH STAFF AND WOMAN)"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Apollon: god :: Mousa: goddesses",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "Who is depicted as the warrior in panel B of this amphora?",
+      "possible_answers": [
+        "A warrior, possibly Achilles",
+        "A hero, likely Heracles based on the nearby staff"
+      ]
+    }
+  },
+  {
+    "id": 7831,
+    "image": "https://YOUR_IMAGE_HOST/images/89FA55D3-A5AD-4C29-8275-B00008A886E0_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "HYDRIA",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "Body: HERAKLES AND APOLLO, STRUGGLE FOR THE TRIPOD, DEER, ATHENA, ARTEMIS | Shoulder: DIONYSOS ON MULE, SATYRS AND MAENADS, IVY"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of the figure depicted on the shoulder of the hydria?",
+      "possible_answers": [
+        "The Dionysus figure represents the central theme of revelry and drunkenness associated with Dionysian festivals.",
+        "The Dionysus figure signifies his role as the god of theater and drama, depicted here in a theatrical setting with theatrical masks."
+      ]
+    }
+  },
+  {
+    "id": 7832,
+    "image": "https://YOUR_IMAGE_HOST/images/341159EF-E726-4295-A4BA-5B2396732A06_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "HYDRIA",
+        "Date": "-525 to -475",
+        "Attribution": "THESEUS P by HASPELS",
+        "Decoration": "Body: APOLLO PLAYING KITHARA BETWEEN MUSES (? WOMEN WITH KROTALA), DEER"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Apollon: god :: Mousa: goddesses",
+        "Findspot": "",
+        "Artist": "Theseus Painter: Attic vase painter",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of the muses depicted on the black-figure hydria attributed to THESEUS P?",
+      "possible_answers": [
+        "The muses are playing musical instruments, symbolizing Apollo's patronage through music.",
+        "The muses represent the nine daughters of Zeus and Mnemosyne, who inspire the arts and sciences."
+      ]
+    }
+  },
+  {
+    "id": 7834,
+    "image": "https://YOUR_IMAGE_HOST/images/70EE13C1-57AF-4D7F-8993-2D2A1DF0CB1A_4_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-525 to -475",
+        "Attribution": "",
+        "Decoration": "A: APOLLO PLAYING KITHARA AND DIONYSOS WITH KANTHAROS, VINE | B: DIONYSOS WITH KANTHAROS, WOMAN (ARIADNE ?), VINE"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "",
+        "Findspot": "Vulci",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of the vine decoration on this amphora?",
+      "possible_answers": [
+        "The vine represents Dionysus' connection to fertility and abundance.",
+        "The vine symbolizes the importance of wine production in ancient Greek culture."
+      ]
+    }
+  },
+  {
+    "id": 7835,
+    "image": "https://YOUR_IMAGE_HOST/images/DF887966-6526-4CB9-8C8B-B4A9040986FE_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "LEKYTHOS, SQUAT",
+        "Date": "-400 to -300",
+        "Attribution": "",
+        "Decoration": "Body: ANODOS, APHRODITE RISING BETWEEN EROTES (ONE SEATED, ONE KNEELING)"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Aphrodite: goddess :: Eros: personification",
+        "Findspot": "Rhodes (Dodecanese)",
+        "Artist": "",
+        "Dating": "380 BCE"
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the meaning of the scene depicted on the red-figure lekythos?",
+      "possible_answers": [
+        "Aphrodite rising from the sea with Eros, symbolizing her birth and love",
+        "A narrative of Eros initiatively pursuing Aphrodite, emphasizing their union"
+      ]
+    }
+  },
+  {
+    "id": 7836,
+    "image": "https://YOUR_IMAGE_HOST/images/217962FC-1E76-46E9-8421-0C166B95568C_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "OLPE",
+        "Date": "-525 to -475",
+        "Attribution": "RHODES 12242, P OF+ by LEMOS | VATICAN G 50, CLASS OF by LEMOS",
+        "Decoration": "Body: APOLLO SEATED PLAYING KITHARA"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "",
+        "Findspot": "Kamiros, Kameiros, Camirus",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of Apollo playing the kithara on this olpe?",
+      "possible_answers": [
+        "The olpe likely depicts a mythological scene where Apollo, as the god of music and poetry, is performing music to honor the deceased, reflecting Greek funeral practices.",
+        "Apollo playing the kithara could symbolize his role in musical competitions or festivals, suggesting the object was used in public ceremonies or celebrations.",
+        "The kithara depiction might be an artistic representation of Apollo's skill and importance, indicating the owner's admiration for him or their own aspirations."
+      ]
+    }
+  },
+  {
+    "id": 7837,
+    "image": "https://YOUR_IMAGE_HOST/images/C5DA9BB5-592F-4D74-81F4-64C657491FCC_3_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "LEKYTHOS",
+        "Date": "-525 to -475",
+        "Attribution": "",
+        "Decoration": "Body: INTRODUCTION OF HERAKLES ON OLYMPOS (ZEUS SEATED, APOLLO PLAYING KITHARA, HERMES, ATHENA, HERAKLES, COLUMN)"
+      },
+      "Additional Content": {
+        "Description": "Hρακλής, Aθηνά, Eρμής, Aπόλλων, Zευς, Ήρα (είσοδος Hρακλέους στον Όλυμπο).",
+        "Mythological": "Apollon: god :: Athena: goddess :: Hera: wife of Zeus :: Herakles: divine Greek hero :: Hermes: messenger of the gods :: Zeus: god",
+        "Findspot": "Athens",
+        "Artist": "",
+        "Dating": "510 - 500 BCE"
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "Who is depicted on the lekythos in relation to the introduction of Heracles on Olympus?",
+      "possible_answers": [
+        "Zeus, Apollo, and Athena are leading Heracles into battle.",
+        "Zeus, Apollo, and Hermes are leading Heracles into battle."
+      ]
+    }
+  },
+  {
+    "id": 7840,
+    "image": "https://YOUR_IMAGE_HOST/images/0F3937B4-28D1-4BB8-9F3D-760019FB27BF_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "A: APOLLO PLAYING KITHARA, MUSES (?), DIONYSOS, HERMES, DEER | B: HERAKLES AND THE LION, ATHENA, IOLAOS"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Apollon: god :: Hermes: messenger of the gods :: Mousa: goddesses",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of the deer depicted on panel A of the amphora?",
+      "possible_answers": [
+        "The deer represents Apollo's role as the god of prophecy, as the deer was sacred to him.",
+        "The deer could symbolize Diana, a Roman counterpart to Artemis, who was also associated with hunting and the moon."
+      ]
+    }
+  },
+  {
+    "id": 7847,
+    "image": "https://YOUR_IMAGE_HOST/images/D691662D-EB5C-40C1-B8F2-752EF46F407C_4_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "KRATER, BELL",
+        "Date": "-400 to -300",
+        "Attribution": "<em>Perhaps</em> LONDON F 64, P OF by KATHARIOU",
+        "Decoration": "A: APOLLO SEATED WITH LAUREL BRANCH AND SPRIG ON OMPHALOS, HERMES, WOMAN WITH TORCHES (ARTEMIS ?), SATYR, MAENAD, BUILDING, DEER | B: DRAPED YOUTHS"
+      },
+      "Additional Content": {
+        "Description": "Apollon im delphischen Heiligtum auf bekränztem Omphalos sitzend. Oben entfernt liegender Tempel, angedeutet durch vier unten verkürzte dorische Säulen mit Architrav. Hermes, Artemis mit Fackeln und Hirschkuh, tanzender Satyr und Mänade mit Thyrsosstab.",
+        "Mythological": "Apollon: god :: Artemis: goddess :: Hermes: messenger of the gods",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": "400 - 390 BCE"
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of the omphalos on Apollo's bell krater?",
+      "possible_answers": [
+        "The omphalos may symbolize Apollo as the sun god, as it is often associated with the center of the world.",
+        "The omphalos could represent the oracle site at Delphi, where Apollo was worshiped, given its central placement in the scene."
+      ]
+    }
+  },
+  {
+    "id": 7848,
+    "image": "https://YOUR_IMAGE_HOST/images/2BF8CAB3-8C32-4650-9C74-1EB7467BB8F7_3_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-575 to -525",
+        "Attribution": "",
+        "Decoration": "A: APOLLO PLAYING KITHARA AND ARTEMIS WITH BOW | B: DRAPED MAN PLAYING KITHARA BETWEEN COLUMNS SURMOUNTED BY SPHINXES"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Apollon: god :: Artemis: goddess",
+        "Findspot": "Vulci",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "Who is playing the kithara on the amphora depicted in the image?",
+      "possible_answers": [
+        "Apollo",
+        "Artemis",
+        "Draped man"
+      ]
+    }
+  },
+  {
+    "id": 7860,
+    "image": "https://YOUR_IMAGE_HOST/images/E663A34B-EE1E-4E24-B0C7-6BF46CAC112F_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "A: APOLLO PLAYING KITHARA BETWEEN ARTEMIS AND SEATED LETO, PALM TREE, DEER | B: ARCHERS ON HORSEBACK, FALLEN WARRIOR (?)"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Hermes: messenger of the gods",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What does the mythological figure on Panel B represent?",
+      "possible_answers": [
+        "A fallen warrior or a defeated enemy",
+        "Archers engaged in combat",
+        "A scene depicting a mythological battle with an ambiguous outcome"
+      ]
+    }
+  },
+  {
+    "id": 7864,
+    "image": "https://YOUR_IMAGE_HOST/images/0A1F555B-F4F2-4074-9559-D96D3FA0C97C_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "HYDRIA",
+        "Date": "-400 to -300",
+        "Attribution": "KERCH by UNKNOWN",
+        "Decoration": "Body: DIONYSOS AND ARIADNE SEATED, APHRODITE (?) WITH TYMPANON, PANS (ONE AT PITHOS), ECHO (?), EROS, SATYR WITH HARP"
+      },
+      "Additional Content": {
+        "Description": "Seated Dionysos kissing Ariadne, two maenads, pan with syrinx. On the right above the handle a winged female figure draped into a himation (Nyx).",
+        "Mythological": "Ariadne: daughter of Minos :: Dionysos: Greek god :: Aphrodite: goddess :: Nyx: personification :: Eros: personification",
+        "Findspot": "Kyrene",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of the winged female figure on the hydria's decoration?",
+      "possible_answers": [
+        "It represents Nyx, the personification of night.",
+        "It could symbolize Eros, the god of love."
+      ]
+    }
+  },
+  {
+    "id": 7871,
+    "image": "https://YOUR_IMAGE_HOST/images/D496F2AA-070E-48A6-A7FC-B0C2C9CB6276_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "OLPE",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "Body: APOLLO PLAYING KITHARA BETWEEN HERMES AND ARTEMIS, DEER"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the mythological significance of the deer in the black-figure olpe decoration?",
+      "possible_answers": [
+        "The deer could symbolize Artemis as she is often associated with animals, specifically deer, which were her sacred creatures.",
+        "The deer may represent Apollo, who is depicted playing the kithara but is not typically associated with deer directly in ancient Greek mythology.",
+        "The presence of the deer might indicate a narrative scene where the characters are hunting or participating in a ritual involving animals, which is common in mythological representations."
+      ]
+    }
+  },
+  {
+    "id": 7877,
+    "image": "https://YOUR_IMAGE_HOST/images/AB05C413-EC28-4546-84DA-5698F9BF3DDC_4_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "LEKYTHOS",
+        "Date": "-500 to -450",
+        "Attribution": "ATHENA P by HASPELS",
+        "Decoration": "Body: ATHENA SEATED, OWL STANDING ON SHIELD, OWL ON ALTAR, COLUMNS"
+      },
+      "Additional Content": {
+        "Description": "Athena im Heiligtum (l. und r. dorische Säule mit Architrav). Athena sitzt auf einem Hocker, sie trägt Helm und Ägis. In ihrer Linken hält sie ihre Lanze, in der Rechten eine Phiale. Eule zu ihrer Rechten sitzt auf dem Schild, Eule zu ihrer Linken auf einem Altar mit aufgesetzten Voluten. Ähnliche Darstellung vom selben Maler (jedoch drei statt zwei Eulen): Lekythos. Kansas City 34. 289",
+        "Mythological": "Athena: goddess",
+        "Findspot": "",
+        "Artist": "Athena Painter: Attic vase painter",
+        "Dating": "500 - 490 BCE"
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of the owl on the lekythos?",
+      "possible_answers": [
+        "The owl represents wisdom and is associated with Athena as her symbol.",
+        "The owl is likely a decorative element chosen for its aesthetic appeal, as owls are found in various Greek vase decorations."
+      ]
+    }
+  },
+  {
+    "id": 7884,
+    "image": "https://YOUR_IMAGE_HOST/images/4C6A9970-BDDE-4DE5-A450-0B088D01B181_7_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "LEKYTHOS",
+        "Date": "-475 to -425",
+        "Attribution": "",
+        "Decoration": "Body: FUNERARY, CHARON IN BOAT, WOMAN AT TOMB"
+      },
+      "Additional Content": {
+        "Description": "In the centre a grave stele. Charon is standing in his boat wearing a short chiton and no head-covering, stretching his right hand out towards a woman on the other side of the stele who is holding a vase and a basket with fillets.",
+        "Mythological": "Charon I: ferryman",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What does the woman at the tomb represent in this mythological context?",
+      "possible_answers": [
+        "The goddess of the dead, given her position holding symbolic items.",
+        "A living person seeking entry into the underworld, as indicated by Charon's gesture.",
+        "An allegorical figure symbolizing the soul or spirit of the deceased."
+      ]
+    }
+  },
+  {
+    "id": 7887,
+    "image": "https://YOUR_IMAGE_HOST/images/7A698BDA-845B-4689-949A-0CCF26F47053_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "KRATER, BELL",
+        "Date": "-400 to -300",
+        "Attribution": "KERCH by SCHEFOLD",
+        "Decoration": "A: APHRODITE RIDING IN SHELL, EROTES, WOMEN SEATED"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Aphrodite: goddess :: Cupido: Roman deity",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": "400 - 390 BCE"
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of the woman seated on the left side of the krater's decoration?",
+      "possible_answers": [
+        "She is a representation of Aphrodite, given her iconography with a shell, which is often linked to her birth from the sea.",
+        "She could be interpreted as a muse or a companion of the mythological figures, reflecting the common practice of depicting muses alongside goddesses in Greek art."
+      ]
+    }
+  },
+  {
+    "id": 7888,
+    "image": "https://YOUR_IMAGE_HOST/images/E30546E3-C549-41F9-99A8-4A4C747163A0_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "LEKYTHOS",
+        "Date": "-500 to -450",
+        "Attribution": "<em>Manner of</em> PHOLOS P by HAMPE",
+        "Decoration": "Body: SELENE IN CHARIOT, MAN IN CHITON, HERMES, YOUTH"
+      },
+      "Additional Content": {
+        "Description": "chariot of Nyx being prepared for her journey; full moon above her head; two gods (one of them Hermes) and a servant taking care of the horses",
+        "Mythological": "Astra: stars :: Selene: goddess",
+        "Findspot": "Eretria (Euboea)",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the role of the youthful figure in the chariot scene?",
+      "possible_answers": [
+        "a companion of the moon goddess",
+        "the personification of the night",
+        "a messenger of the gods"
+      ]
+    }
+  },
+  {
+    "id": 7891,
+    "image": "https://YOUR_IMAGE_HOST/images/FB0FA6A0-1839-4F1B-B533-F6870804F168_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "LEKYTHOS",
+        "Date": "-525 to -475",
+        "Attribution": "",
+        "Decoration": "Body: APOLLO PLAYING KITHARA BETWEEN ARTEMIS AND ATHENA"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of Apollo playing a kithara between Artemis and Athena on the lekythos?",
+      "possible_answers": [
+        "The scene depicts a mythological narrative where Apollo, as the god of music and poetry, is shown playing his instrument, highlighting his role in the arts, while facing Artemis and Athena, emphasizing harmony among the gods of nature and wisdom.",
+        "The artist may have intended to convey a different message, such as Apollo's role in prophecy or healing, which could explain the kithara, but the exact symbolism remains open to interpretation due to the ambiguity in historical records."
+      ]
+    }
+  },
+  {
+    "id": 7899,
+    "image": "https://YOUR_IMAGE_HOST/images/71CC2832-647C-4441-8F01-042A4ED782C6_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "LEKYTHOS, SQUAT",
+        "Date": "-400 to -300",
+        "Attribution": "",
+        "Decoration": "Body: DIONYSOS BETWEEN ATHENA AND DEMETER (BOTH SEATED), PERSEPHONE, TRIPTOLEMOS APOLLO ?"
+      },
+      "Additional Content": {
+        "Description": "Im Zentrum Demeter, auf Kasten sitzend, Szepter im rechten Arm, rechts daneben Kore, Fackel in beiden Händen, rechts daneben Mann (Herakles, Eubouleus oder Apollon?), an Felsen lehnend, Fackel in linker Hand, zwischen Kore und Mann schwebend Triptolemos auf Flügelwagen mit Schlangen, in linker Hand Ähren. Links von Demeter Dionysos, Thyrsosstab in linker Hand, links davon Athena, sitzend, Lanze in rechter Hand, Schild (angelehnt) unter linkem Arm. Boreas attacking Oreithyia (I).",
+        "Mythological": "Apollon: god :: Athena: goddess :: Demeter: Greek goddess :: Dionysos: Greek god :: Eubouleus: Eulisinian hero :: Herakles: divine Greek hero :: Persephone: daughter of Demeter :: Triptolemos :: Kore: (Persephone) :: Oreithyia I: daughter of Erechtheus :: Boreas: north wind",
+        "Findspot": "Kertch, Pantikapaion",
+        "Artist": "Salting Painter: Apulian vase painter",
+        "Dating": "350 - 325 BCE"
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "Who is the man on the right side of the lekythos who is leaning against a rock with a torch in his left hand?",
+      "possible_answers": [
+        "Herakles",
+        "Eubouleus",
+        "Apollo"
+      ]
+    }
+  },
+  {
+    "id": 7921,
+    "image": "https://YOUR_IMAGE_HOST/images/F8DE9D6E-7540-487E-AF3A-FD3654025615_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, BELLY, TYPE B",
+        "Date": "-550 to -500",
+        "Attribution": "SWING P by BÖHR",
+        "Decoration": "A: HERAKLES AND THE LION, WOMAN, HERMES | B: YOUTH DEPARTING, CHARIOT, YOUTH, BIRD, SNAKE"
+      },
+      "Additional Content": {
+        "Description": "Herakles and the Nemean Lion. With woman, hermes, Athena and Iolaos.",
+        "Mythological": "Herakles: divine Greek hero",
+        "Findspot": "",
+        "Artist": "Swing Painter: Attic vase painter",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of the woman depicted on the amphora with Herakles and the Nemean Lion?",
+      "possible_answers": [
+        "The woman may represent Athena, given her presence alongside Herakles and her association with the lion in the context of the myth.",
+        "The woman could be interpreted as Hera, suggesting a familial relationship between Herakles and his mother, which is a common theme in Herakles' story."
+      ]
+    }
+  },
+  {
+    "id": 7949,
+    "image": "https://YOUR_IMAGE_HOST/images/06153779-3748-483E-A878-338F4D01865B_7_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, BELLY, TYPE A",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "A: ATHENA IN CHARIOT, HERAKLES, DRAPED MAN, YOUTH, HERMES | B: GODDESS (ARTEMIS ?) IN CHARIOT, APOLLO PLAYING KITHARA, HERMES, DEER, BIRD"
+      },
+      "Additional Content": {
+        "Description": "Athena mounting a chariot, a horse beyond probably led by Herakles. Beyond a charioteer. Before the chariot a youth holds a horse.",
+        "Mythological": "Herakles: divine Greek hero",
+        "Findspot": "",
+        "Artist": "Leagros Group: Attic vase painters",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the identity of the draped man on the amphora?",
+      "possible_answers": [
+        "Hermes",
+        "Herakles",
+        "Unknown"
+      ]
+    }
+  },
+  {
+    "id": 7990,
+    "image": "https://YOUR_IMAGE_HOST/images/EC4BCC1F-7073-4F94-8867-E6EAB73976EF_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, BELLY, TYPE B",
+        "Date": "-575 to -525",
+        "Attribution": "LOUVRE F 6, P OF by LO PORTO",
+        "Decoration": "A: WARRIOR, BETWEEN DRAPED MEN | B: MAN OR YOUTH BETWEEN DRAPED MEN"
+      },
+      "Additional Content": {
+        "Description": "Seite A: Im Zentrum sitzt eine weibliche Figur nach rechts auf einem Diphros (Oberkörper nicht erhalten. Evtl. Reste eines Helmes (Athena) oder Reste einer Krone (Hera)). Links von ihr ein bärtiger Mann nach rechts, mit Lanze in der Hand. Links außen ein nackter Jüngling, der auf seinem Kopf einen Weidenkorb trägt. Rechts von der zentralen Gestalt läuft Hermes nach rechts, Kopf zurückgewandt, mit Flügelschuhen, Petasos und Kerykeion. Rechts außen eine männliche Figur nach links, in der rechten Hand eine Frucht oder ein Ei. Unter dem Diphros steht ein Schwan. Seite B: Im Zentrum steht eine weibliche Figur nach rechts (Hera?), rechts neben ihr Hermes nach rechts, zurückblickend, mit Flügelschuhen, Petasos und Kerykeion. Am Bidlrand je eine männliche Figur, zum Zentrum gerichtet. Vor Hermes befindet sich ein Schwan, zwischen den beiden zentralen Figuren ein Vogel.",
+        "Mythological": "Athena: goddess :: Hera: wife of Zeus :: Hermes: messenger of the gods",
+        "Findspot": "unknown",
+        "Artist": "Affecter: Attic vase painter",
+        "Dating": "550 - 525 BCE"
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of the central female figure on the amphora?",
+      "possible_answers": [
+        "She represents Athena, the goddess of wisdom and war.",
+        "She might symbolize Hera, the wife of Zeus.",
+        "She could be interpreted as a mythical or allegorical figure."
+      ]
+    }
+  },
+  {
+    "id": 8020,
+    "image": "https://YOUR_IMAGE_HOST/images/121722A9-2C9C-4BAD-8716-80B9A0F2A9B8_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "KRATER, BELL",
+        "Date": "-400 to -300",
+        "Attribution": "KERCH by SCHEFOLD",
+        "Decoration": "A: SYMPOSIUM, YOUTHS AND WOMEN (HETAIRAI), WITH HARP, CUP, DRINKING HORN, EROTES, YOUTH AT CALYX KRATER, BIRD | B: PERSEUS WITH THE HEAD OF MEDUSA, ATHENA SEATED, ARTEMIS, DIONYSOS (?), ARES, ZEUS SEATED, HERA, APOLLO, NIKAI FLYING WITH WREATHS, SNAKE, OLIVE TREE"
+      },
+      "Additional Content": {
+        "Description": "in the centre Athena and Perseus with the head of Gorgo; above Zeus with beard, coat and sceptre, seated; flying Nike; on the right Hera and Pan; on the left Dioskouroi",
+        "Mythological": "Hera: wife of Zeus",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": "370 BCE"
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "Who is depicted as the central figure in panel B?",
+      "possible_answers": [
+        "Perseus",
+        "Zeus",
+        "Nike"
+      ]
+    }
+  },
+  {
+    "id": 8091,
+    "image": "https://YOUR_IMAGE_HOST/images/A6C31A9B-5A75-4DB3-9AB6-04C3CBB796AF_6_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "KRATER, COLUMN",
+        "Date": "-450 to -400",
+        "Attribution": "<em>Compare</em> HEPHAISTOS P by VOS | <em>Manner of</em> LATER MANNERIST by VOS",
+        "Decoration": "A: RETURN OF HEPHAISTOS, HEPHAISTOS ON MULE, SATYR AND MAENAD | B: WOMAN BETWEEN DRAPED YOUTHS, ONE WITH STAFF"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Hephaistos: god",
+        "Findspot": "",
+        "Artist": "Hephaistos Painter: Attic vase painter",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of the mule on Hephaistos' back in the red-figure krater?",
+      "possible_answers": [
+        "He is transporting Hermes, signifying his role as the protector of travelers.",
+        "The mule represents Hephaistos' physical disability and his journey from Mount Olympus to the workshop below.",
+        "It symbolizes Hephaistos' connection to the underworld and his descent into the depths of the earth."
+      ]
+    }
+  },
+  {
+    "id": 8110,
+    "image": "https://YOUR_IMAGE_HOST/images/9F601048-076F-4A9F-86DA-CC52DEC5EAE8_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "KRATER, VOLUTE",
+        "Date": "-450 to -400",
+        "Attribution": "<em>Manner of</em> KLEOPHON P by CAHN",
+        "Decoration": "A: TRIPTOLEMOS SEATED IN WINGED CHARIOT DRAWN BY SNAKES WITH PHIALE, DEPARTING, DEMETER WITH OINOCHOE, PERSEPHONE, WOMEN WITH TORCHES, ONE SEATED | B: DIONYSOS WITH THYRSOS AND KANTHAROS, PAPPOSILENOS WITH WINESKIN, MAENADS, ONE WITH LYRE, ONE WITH OINOCHOE AND TORCH (?) | Under handle 1: PAN IN DEER SKIN | Under handle 2: SATYR IN LEOPARD SKIN WITH THYRSOS"
+      },
+      "Additional Content": {
+        "Description": "A: Triptolemos nach rechts auf schwebendem Flügelwagen mit zwei Schlangen, in linker Hand Phiale, davor Kore frontal, Kopf nach links, in rechter Hand Kanne (ausgießend), in linker Hand Ähren, hinter ihr Frau mit Szepter in rechter Hand (Hekate?), hinter Triptolemos Frau nach rechts, Kopf nach links, in linker Hand Fackel, in rechter Hand Kanne, dahinter Demeter nach rechts auf Fels sitzend, mit Sakkos, in Linker Fackel.Henkelzonen: links Pan nach links, rechts Silen nach rechts.B: Dionys. Thiasos. Lyraspielerin, Papposilen, Dionysos, Frau mit Fackel und Oinochoe.",
+        "Mythological": "Demeter: Greek goddess :: Dionysos: Greek god :: Hekate: goddess :: Pan: goat-god :: Persephone: daughter of Demeter :: Triptolemos :: Kore: (Persephone)",
+        "Findspot": "unknown",
+        "Artist": "manner of the Kleophon Painter: Attic vase painter(s)",
+        "Dating": "435 - 425 BCE"
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of the phiale held by Kore in Panel A?",
+      "possible_answers": [
+        "It symbolizes her role as a giver of grain and fertility.",
+        "It symbolizes the contrast between darkness and light, hinting at a mythological narrative involving the underworld.",
+        "It symbolizes her role as a messenger and guardian of crossroads."
+      ]
+    }
+  },
+  {
+    "id": 8322,
+    "image": "https://YOUR_IMAGE_HOST/images/E3065620-4EA3-4B85-9CF6-0C8551744147_3_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-575 to -525",
+        "Attribution": "TYRRHENIAN GROUP by UNKNOWN",
+        "Decoration": "A1: HERAKLES WITH SWORD AND NESSOS, DEIANEIRA, BETWEEN HERMES (TWICE), ATHENA AND WOMAN WITH WREATH, NONSENSE INSCRIPTION | AB2: ANIMAL FRIEZE, EAGLE, BOAR, SIRENS, PANTHERS, BIRD | AB3: ANIMAL FRIEZE, SIRENS, PANTHER, GOAT | B1: FIGHT, WARRIORS, ONE IN NEBRIS, BETWEEN WOMEN BETWEEN HORSEMEN, NONSENSE INSCRIPTIONS, DEVICE, BIRD"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Nessos: centaur",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of the 'Nessos' figure on this amphora?",
+      "possible_answers": [
+        "It represents the centaur Nessos from Greek mythology.",
+        "It might symbolize a mythological creature related to Necessity (Necessus) in Roman mythology.",
+        "It could depict a mythological figure associated with the river where Nessus was killed."
+      ]
+    }
+  },
+  {
+    "id": 8330,
+    "image": "https://YOUR_IMAGE_HOST/images/9713B57F-089D-4524-A785-3D7D4A8FAC7A_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-550 to -500",
+        "Attribution": "MUNICH 1519, P OF by GORBUNOVA",
+        "Decoration": "A: GIGANTOMACHY, ATHENA AND GIANT, CHARIOT TURNING, DEVICES, HEAD OF BULL TWICE | B: HERAKLES AND APOLLO, STRUGGLE FOR THE TRIPOD"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Gigantes: giants",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of the bull's head depicted twice on the amphora?",
+      "possible_answers": [
+        "The bull's head may symbolize the power and strength of the Athenian forces, as it is common in depictions of mythological battles involving bulls, such as those between Athena and the Giants.",
+        "The repetition of the bull's head could be an artistic error, as it does not serve any clear symbolic purpose and is not typical in ancient Greek art.",
+        "The bull's head with devices around it might represent the bull’s connection to mechanical or technological elements, suggesting a blend of mythological figures with real-world technology in the context of the battle scene."
+      ]
+    }
+  },
+  {
+    "id": 8406,
+    "image": "https://YOUR_IMAGE_HOST/images/F92F8757-6F7F-4F70-8019-2B118072850A_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-550 to -500",
+        "Attribution": "<em>Manner of</em> ANTIMENES P by GORBUNOVA | BERKELEY 8.3376, GROUP OF by KUNZE-GOTTE",
+        "Decoration": "A: GIGANTOMACHY, POSEIDON, WEARING LION (?) SKIN, WITH NISYROS, GIANTS, ONE FALLEN | B: GIGANTOMACHY, POSEIDON WITH ROCK (NISYROS), GIANTS, ONE FALLING, DEVICES, BOAR"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Gigantes: giants",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of the lion skin worn by Poseidon on the amphora?",
+      "possible_answers": [
+        "The lion skin symbolizes Poseidon's connection to the Nemean lion, a legendary creature that was defeated by Heracles, highlighting his role as protector of the fates.",
+        "The lion skin represents Poseidon's association with lions in general, symbolizing his power over all beasts and his connection to the lion-god, Leo.",
+        "Poseidon's lion skin signifies his role as a god of the sea and earth, with the lion representing the divine authority of the land and the ocean."
+      ]
+    }
+  },
+  {
+    "id": 8407,
+    "image": "https://YOUR_IMAGE_HOST/images/F9743A3D-6786-4EF1-85F3-668195622BC0_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "HYDRIA",
+        "Date": "-550 to -500",
+        "Attribution": "<em>Circle of</em> ANTIMENES P by GORBUNOVA | <em>Manner of</em> ANTIMENES P by GORBUNOVA | PASIKLES P by AHLBERG-CORNELL",
+        "Decoration": "Body: HERAKLES (NAMED) AND TRITON, NEREUS (?), POSEIDON | Shoulder: HERAKLES AND THE LION, ATHENA, IOLAOS (?), TREE"
+      },
+      "Additional Content": {
+        "Description": "Fight between Herakles and Triton. Nereus as onlooker.",
+        "Mythological": "Nereus: sea god",
+        "Findspot": "",
+        "Artist": "manner of the Antimenes Painter: Attic vase painter(s)",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of Nereus depicted as an onlooker in the hydria?",
+      "possible_answers": [
+        "Nereus may represent a witness to the struggle between Herakles and Triton, highlighting the broader mythological context.",
+        "Nereus could symbolize the ocean's power, suggesting his role in controlling the sea during the conflict.",
+        "Nereus might simply be there for artistic balance, as he does not interact with the main figures, indicating a minor role in the narrative."
+      ]
+    }
+  },
+  {
+    "id": 8411,
+    "image": "https://YOUR_IMAGE_HOST/images/F2F78671-9A48-40FF-A0B5-4D93291BE825_3_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "CUP LITTLE MASTER LIP",
+        "Date": "-575 to -525",
+        "Attribution": "<em>Manner of</em> SAKONIDES by GORBUNOVA",
+        "Decoration": "AB1: HERAKLES AND THE LION | AB2: NONSENSE INSCRIPTION"
+      },
+      "Additional Content": {
+        "Description": "Herakles wrestles with the Nemean Lion.",
+        "Mythological": "Herakles: divine Greek hero",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What does the inscription on the cup's body represent?",
+      "possible_answers": [
+        "It is a nonsensical message left by someone who did not understand the art.",
+        "It is a reference to the myth of Herakles battling the Nemean Lion, connecting it to the scene depicted.",
+        "It could be an unintentional scribble made during the pottery-making process."
+      ]
+    }
+  },
+  {
+    "id": 8451,
+    "image": "https://YOUR_IMAGE_HOST/images/0C793ABE-C143-45AA-9D1A-DC66D377D4B5_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-500 to -450",
+        "Attribution": "FRIENDS OF THE CENTAURS, GROUP OF* by KUNZE-GOTTE | MALIBU CENTAURS, P OF* by KUNZE-GOTTE | WÜRZBURG 221, GROUP OF by BOTHMER",
+        "Decoration": "A: HERAKLES (WITHOUT LIONSKIN) AND PHOLOS IN LEOPARD SKIN, PITHOS | B: CENTAURS, ONE WITH ANIMAL SKIN, TREE"
+      },
+      "Additional Content": {
+        "Description": "A: Herakles seizing a centaur, wine barrel. B: Two centaurs.",
+        "Mythological": "Kentauroi und Kentaurides: hybrid creature",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of the hybrid creatures depicted on this amphora?",
+      "possible_answers": [
+        "The amphora portrays Kentauroi as warriors, symbolizing the conflict between humans and mythical beings.",
+        "The amphora depicts centaurs in various forms, highlighting their role as both allies and adversaries in mythological narratives."
+      ]
+    }
+  },
+  {
+    "id": 8595,
+    "image": "https://YOUR_IMAGE_HOST/images/9C3964AE-127E-4409-91CE-3AB000BEA409_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "LOUTROPHOROS FRAGMENT",
+        "Date": "-475 to -425",
+        "Attribution": "",
+        "Decoration": "Neck: PROCESSION, WOMEN, ONE WITH TORCHES, ONE WITH LOUTROPHOROS, YOUTH PLAYING PIPES"
+      },
+      "Additional Content": {
+        "Description": "Young crowned flute-player.",
+        "Mythological": "",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What could the youth playing pipes on the loutrophoros fragment represent?",
+      "possible_answers": [
+        "A musician in a procession celebrating a nuptial ritual.",
+        "A representation of Hermes, the messenger of the gods.",
+        "A mythical figure associated with the Muses."
+      ]
+    }
+  },
+  {
+    "id": 8656,
+    "image": "https://YOUR_IMAGE_HOST/images/14729CDA-9DFB-4D37-9E6A-E43F79364925_13_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "CUP",
+        "Date": "-575 to -525",
+        "Attribution": "<em>Compare</em> BMN P by BEAZLEY | <em>Near</em> BMN P by BEAZLEY",
+        "Decoration": "AB1: PROCESSION OF DRAPED MEN AND YOUTHS, SOME WITH DRINKING HORNS, DRAPED MAN PLAYING PIPES | AB2: HORSE RACE | Inside of rim: DOLPHINS"
+      },
+      "Additional Content": {
+        "Description": "All around the neck: procession of 34 figures to the r., preceded by an auletes facing l., the pipe case hanging from his elbow. The figures are all male, alternately men (bearded) and ephebes. Only the men carry offerings, alternately a drinking horn or a phiale with a piece of fabric hanging down from it.",
+        "Mythological": "",
+        "Findspot": "Menidi (Attica)",
+        "Artist": "",
+        "Dating": "560 - 540 BCE"
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of the drinking horns held by the bearded men in the procession on the cup?",
+      "possible_answers": [
+        "The drinking horns likely represent offerings made to deities, symbolizing reverence and worship.",
+        "The drinking horns could signify a narrative element, perhaps depicting a festival or gathering where libations were offered.",
+        "The horns might symbolize a ritualistic act tied to the race depicted elsewhere on the cup, indicating a sacrificial offering."
+      ]
+    }
+  },
+  {
+    "id": 8762,
+    "image": "https://YOUR_IMAGE_HOST/images/67ACCB5F-23D9-49FB-86B8-10E5C295D45D_6_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "CUP SIANA",
+        "Date": "-575 to -525",
+        "Attribution": "VINTAGE P* by BRIJDER",
+        "Decoration": "A1: DOGS CHASING HARE | A2: AGRICULTURE, VINTAGE, MEN TREADING GRAPES, MEN WITH BASKETS, MAN WITH AMPHORA AT PITHOS, DRAPED MAN SEATED | B1: HEAD OF WARRIOR BETWEEN SIRENS | B2: HORSEMEN | I: GORGON"
+      },
+      "Additional Content": {
+        "Description": "Silenoi treading grapes.",
+        "Mythological": "Silenoi: satyr",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of the depiction of men with amphoras at pithos on this cup?",
+      "possible_answers": [
+        "The men with amphoras likely represent wine production, as the scene may depict a ritual or everyday activity related to wine making.",
+        "The men with amphoras could symbolize merchants or traders, as they often carried goods including wine across different regions."
+      ]
+    }
+  },
+  {
+    "id": 9094,
+    "image": "https://YOUR_IMAGE_HOST/images/2C0D5DAA-BE20-40CA-BC58-26F8A1111830_3_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-550 to -500",
+        "Attribution": "NKA WITH SHOULDER PICTURES, CLASS by BOTHMER",
+        "Decoration": "A: GORGON BETWEEN EYES | B: WINGED WOMAN IN NEBRIS AND CHITONISKOS (IRIS) BETWEEN EYES"
+      },
+      "Additional Content": {
+        "Description": "Schulterbilder: Seite A: Zwischen zwei Augen eine Gorgo mit vier Flügeln, nach rechts rennend. Seite B: Zwischen zwei Augen geflügelte Iris mit Nebris, nach rechts rennend, beide Arme ausgestreckt.",
+        "Mythological": "Gorgo: three daemonic sisters :: Iris I: messenger of the gods",
+        "Findspot": "unknown",
+        "Artist": "",
+        "Dating": "533 - 500 BCE"
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of the Gorgon and the winged woman depicted on this amphora?",
+      "possible_answers": [
+        "The Gorgon and the winged woman represent two powerful mythological figures, demonstrating the artist's mastery of contrasting themes and the importance of these entities in ancient mythology.",
+        "The Gorgon and the winged woman symbolize the struggle between divine and human realms, reflecting the cultural tensions and beliefs of the Greek society during that period."
+      ]
+    }
+  },
+  {
+    "id": 9134,
+    "image": "https://YOUR_IMAGE_HOST/images/E58EFF7B-8557-4C7E-A6A6-C52686BB5B18_3_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, BELLY, TYPE B",
+        "Date": "-550 to -500",
+        "Attribution": "PRINCETON P by BÖHR",
+        "Decoration": "A: WOMAN, PUSHING WOMAN ON SWING, ANOTHER WOMAN AND CHILDREN, DRAPED MAN WITH STAFF | B: WOMAN CARRYING WOMAN ON HER BACK, MAN WITH STAFF, WOMAN"
+      },
+      "Additional Content": {
+        "Description": "Ein Mädchen sitzt auf einer Schaukel und wird von zwei weiteren Mädchen flankiert, denen je ein kleines Kind zugewandt ist. Das re. Mädchen stößt die Schaukelnde an. L. steht ein Mann mit einem Stab.",
+        "Mythological": "Erigone I: daughter of Ikarios I :: Ikarios I: Attic hero",
+        "Findspot": "",
+        "Artist": "Princeton Painter: Attic vase painter",
+        "Dating": "550 - 500 BCE"
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "Who is pushing the woman on the swing depicted in panel A?",
+      "possible_answers": [
+        "The woman on the swing himself",
+        "One of the children next to her",
+        "A man with a staff standing to the left"
+      ]
+    }
+  },
+  {
+    "id": 9184,
+    "image": "https://YOUR_IMAGE_HOST/images/69532921-0DFC-4058-BA33-1268C2E7A643_3_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "LEKYTHOS",
+        "Date": "-525 to -475",
+        "Attribution": "",
+        "Decoration": "Body: THE SPHINX OF THEBES, WITH YOUTH, ONLOOKERS (DRAPED MEN), DOG, IVY"
+      },
+      "Additional Content": {
+        "Description": "Sphinx dominating a youth, three onlookers.",
+        "Mythological": "Sphinx (Thebana): winged monster",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of the dog in the sphinx's decoration?",
+      "possible_answers": [
+        "The dog represents the guardian spirit of the sphinx.",
+        "The dog symbolizes the dog-headed Sphinx from Egyptian mythology.",
+        "The dog signifies the domesticated pet of the figures depicted."
+      ]
+    }
+  },
+  {
+    "id": 9308,
+    "image": "https://YOUR_IMAGE_HOST/images/91E58995-23DC-46B2-98BD-72B7BB372E3E_3_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "HYDRIA",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "Body: ASSEMBLY OF GODS, HERAKLES AND ATHENA, OWL, ZEUS, HERA, APHRODITE, HERMES, ARES | Shoulder: FIGHT, HORSEMEN AND WARRIORS, ONE IN NEBRIS, ONE WITH BOEOTIAN SHIELD, DEVICE, DISCS"
+      },
+      "Additional Content": {
+        "Description": "Three seated couples: Hermes and Ares, Herakles and Athena, Zeus and Hera. Hebe stands next to Hera.",
+        "Mythological": "Ares: god :: Herakles: divine Greek hero :: Hera: wife of Zeus :: Hermes: messenger of the gods",
+        "Findspot": "",
+        "Artist": "manner of the Antimenes Painter: Attic vase painter(s)",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of the assembly scene depicted on the hydria?",
+      "possible_answers": [
+        "The assembly scene could represent a gathering of gods and heroes to discuss matters of importance in the world of ancient Greece.",
+        "The scene might depict a council of the gods in Mount Olympus, deliberating on major affairs affecting the heavens and earth."
+      ]
+    }
+  },
+  {
+    "id": 9332,
+    "image": "https://YOUR_IMAGE_HOST/images/CF4DA5E8-AE41-4631-82A3-DBDBDDF8400C_11_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "PELIKE FRAGMENTS",
+        "Date": "-425 to -375",
+        "Attribution": "",
+        "Decoration": "A: THEATRICAL (?) NIKE, HYGIEIA, APOLLO, DIONYSOS, SATYRS, MAENADS, TRIPOD, PANTHER, KOMODIA (NAMED) | B: CENTAUROMACHY, THESEUS, PEIRITHOOS (NAMED), LAPITHS AND CENTAURS, SOME NAMED, RAPE OF WOMAN"
+      },
+      "Additional Content": {
+        "Description": "Des Nikai décorent un trépied. Plus loin Apollon, Dionysos et sa suite. Au-dessous des personnifications nommées par des inscriptions: Komodia, Paidia, Ga(lene II), Thaleia (IV). Below on the right is probably Tragodia.",
+        "Mythological": "Apollon: god :: Dionysos: Greek god :: Komodia: personification :: Nike: goddess :: Paidia: personification :: Thaleia IV: maenad :: Tragodia: personification :: Galene II: maenad",
+        "Findspot": "Ampurias Emporion",
+        "Artist": "",
+        "Dating": "410 - 400 BCE"
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What does the depiction of Tragodia on the vase signify?",
+      "possible_answers": [
+        "The depiction of Tragodia refers to a tragic scene related to Greek theater.",
+        "Tragodia could represent a satyr play, given the presence of other mythological figures like Satyrs and Maenads."
+      ]
+    }
+  },
+  {
+    "id": 9393,
+    "image": "https://YOUR_IMAGE_HOST/images/571CC027-7EE2-462A-93F4-399223B8471F_5_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "HYDRIA",
+        "Date": "-400 to -300",
+        "Attribution": "HIPPOLYTOS P by UNKNOWN | KERCH by UNKNOWN",
+        "Decoration": "Body: POSEIDON AND AMYMONE, SEATED, EROS, YOUTH WITH HORNS IN LEOPARD SKIN, BIRD, HYDRIA ON ROCK"
+      },
+      "Additional Content": {
+        "Description": "Poseidon and Amymone seated, with Eros and a young Pan.",
+        "Mythological": "Amymone: Danaid :: Eros: personification :: Pan: goat-god :: Poseidon: god",
+        "Findspot": "",
+        "Artist": "Hippolytus Painter: Attic vase painter",
+        "Dating": "375 - 350 BCE"
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of the figures depicted on the red-figure hydria in relation to ancient mythology?",
+      "possible_answers": [
+        "The scene represents a myth about Amymone being seduced by Poseidon, which aligns with the mythological figures present.",
+        "The hydria may symbolize the themes of love and desire, as suggested by the presence of both Eros and a youth representing Pan, but it could also depict a different narrative not directly tied to specific myths."
+      ]
+    }
+  },
+  {
+    "id": 9404,
+    "image": "https://YOUR_IMAGE_HOST/images/985E6AF4-D4B3-498B-9594-F92D2836A77B_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "OINOCHOE",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "Body: ODYSSEUS AND THE SIRENS, MEN AND YOUTHS ROWING IN SHIP BETWEEN ROCKS, ODYSSEUS TIED TO MAST"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Odysseus: king of Ithaka",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the exact scene depicted on the body of this vase?",
+      "possible_answers": [
+        "Odysseus being tied to the mast while listening to the Sirens, with men and youths rowing his ship through treacherous waters",
+        "A gathering of mythological figures at a feast, possibly related to the Odyssey but not directly depicting the Sirens and Odysseus narrative"
+      ]
+    }
+  },
+  {
+    "id": 9521,
+    "image": "https://YOUR_IMAGE_HOST/images/44788522-A55B-4758-B1B5-D17BBC3C9A47_3_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "LEKYTHOS",
+        "Date": "-525 to -475",
+        "Attribution": "BOWDOIN P by SCHAUENBURG",
+        "Decoration": "Body: SPHINX FLYING CARRYING THEBAN YOUTH"
+      },
+      "Additional Content": {
+        "Description": "Sphinx carrying off a youth.",
+        "Mythological": "Sphinx (Thebana): winged monster",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "Who is the intended audience of the sphinx depicted on this lekythos?",
+      "possible_answers": [
+        "The sphinx might represent a guardian figure protecting the Theban city-state.",
+        "The sphinx could symbolize a divine force or a mythological being in a religious context.",
+        "The sphinx may have served as a representation of the artist's personal symbolic narrative."
+      ]
+    }
+  },
+  {
+    "id": 9559,
+    "image": "https://YOUR_IMAGE_HOST/images/80058F73-516E-47B2-863A-737FA69BD525_3_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "KRATER, BELL",
+        "Date": "-475 to -425",
+        "Attribution": "",
+        "Decoration": "A: SACRIFICE TO APOLLO (?) (YOUTH WITH TRAY, DRAPED MAN AT ALTAR, COLUMN, WOMEN, NIKE WITH TRIPOD, BUKRANION, TREE) | B: DRAPED YOUTHS, ONE SEATED, AND DRAPED MAN WITH STAFF"
+      },
+      "Additional Content": {
+        "Description": "Nike bringt Votivdreifuß, um ihn auf einer ionischen Säule hinter einem rechteckigen Block-Altar (Basis, Holzstoß) zu platzieren. Es handelt sich wohl um den Siegerpreis einer Dithyrambos-Aufführung. Boukranion, Baum.",
+        "Mythological": "Nike: goddess",
+        "Findspot": "unknown",
+        "Artist": "",
+        "Dating": "475 - 425 BCE"
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of the boukranion on the red-figure krater?",
+      "possible_answers": [
+        "It represents the sacrifice of an animal offering, as suggested by the other elements like the altar and sacrifice to Apollo.",
+        "The boukranion might symbolize victory, reflecting the mythological significance of Nike holding a boukranion in her hand as depicted on other Greek vases."
+      ]
+    }
+  },
+  {
+    "id": 9560,
+    "image": "https://YOUR_IMAGE_HOST/images/A77B886B-0747-4A8A-80B8-82CD00269AF3_4_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-550 to -500",
+        "Attribution": "",
+        "Decoration": "A: GIGANTOMACHY, ATHENA WITH BOEOTIAN SHIELD, DIONYSOS IN LEOPARD SKIN, GIANTS, LION, DEVICES, TRIPOD, IVY WREATH | B: ARCHERS AND WARRIORS IN AMBUSH (CROUCHING), SHIELD DEVICES, KANTHAROS, DISCS"
+      },
+      "Additional Content": {
+        "Description": "Dionysos and Athena against a giant, another one fleeing.",
+        "Mythological": "Dionysos: Greek god :: Athena: goddess :: Gigantes: giants",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the meaning of the scene on the amphora?",
+      "possible_answers": [
+        "The amphora depicts a mythological battle between the Greek gods (Dionysos and Athena) and the Giants, with Dionysos using his leopard skin and Athena defending herself with her Boeotian shield.",
+        "The amphora illustrates an ambush scene where archers and warriors are prepared to attack, emphasized by their crouching stances and weapons, suggesting a theme of warfare or strategy rather than a direct conflict with giants."
+      ]
+    }
+  },
+  {
+    "id": 9627,
+    "image": "https://YOUR_IMAGE_HOST/images/C601E6F1-5506-4584-88EB-71AB2EC9672A_3_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "LEKYTHOS",
+        "Date": "-525 to -475",
+        "Attribution": "GELA P by HASPELS | GELA P by JOHANSEN",
+        "Decoration": "Body: ODYSSEUS ESCAPING FROM POLYPHEMUS, RAMS WITH MEN TIED UNDER, TREE, CAVE"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Odysseus: king of Ithaka",
+        "Findspot": "",
+        "Artist": "Gela Painter: Attic vase painter",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "Who is the artist attributed to this lekythos based on the attributions provided?",
+      "possible_answers": [
+        "Gela P by HASPELS",
+        "Gela P by JOHANSEN"
+      ]
+    }
+  },
+  {
+    "id": 9637,
+    "image": "https://YOUR_IMAGE_HOST/images/120F2A36-3804-4658-9242-1E116F81D69A_15_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "STAMNOS",
+        "Date": "-475 to -425",
+        "Attribution": "ACHILLES P by SOMMER",
+        "Decoration": "Body: ZEUS (WITH SCEPTRE), PURSUING AIGINA (?), WOMEN, DRAPED MEN WITH STAFF"
+      },
+      "Additional Content": {
+        "Description": "Zeus bearded, with wreath, chiton and coat; holding sceptre; pursuing a female figure (Aigina?); on the left male figure (Sisyphos?); on the right fleeing female person",
+        "Mythological": "Aigina: nymph :: Asopos I: river god :: Sisyphos I: king of Ephyra :: Zeus: god",
+        "Findspot": "",
+        "Artist": "Achilles Painter: Attic vase painter",
+        "Dating": "450 - 440 BCE"
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of the female figure being pursued by Zeus in the vase decoration?",
+      "possible_answers": [
+        "The figure might represent Aigina, a nymph who was believed to have originated from the island of Aigina.",
+        "Zeus is pursuing a fleeing female figure, possibly symbolizing the myth of Sisyphos, who was condemned to roll a boulder up a mountain forever."
+      ]
+    }
+  },
+  {
+    "id": 9638,
+    "image": "https://YOUR_IMAGE_HOST/images/C0500205-F5C1-42A2-A028-DA702E402933_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "CHOUS",
+        "Date": "-450 to -400",
+        "Attribution": "",
+        "Decoration": "Body: YOUTHS, ONE KNEELING, ONE WITH FOOT ON ROCK, CHOUS WITH WREATH, BUILDING (TEMPLE ?)"
+      },
+      "Additional Content": {
+        "Description": "Kinderagon in einem Heiligtum mit Kännchen als Siegespreis. Im Hintergrund kleiner Tempel (drei Säulen, Giebel, Akrotere; innen mit Zweigen dekoriert). Wohl kein Gebäude in Fernansicht, sondern eher ein absichtlich der Welt der Kinder angepaßtes kleines Sakralgebäude, wie auch sonst die Gegenstände auf Choenkännchen der Größe der Kinder entsprechen.Zuordnung zu Festen: Anthesterien (van Hoorn).",
+        "Mythological": "Dionysos: Greek god",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": "420 - 400 BCE"
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of the building depicted on the vase in relation to the mythological figure Dionysos?",
+      "possible_answers": [
+        "It represents the temple where Dionysos is worshipped, reflecting his role as a god of wine and fertility.",
+        "The building might symbolize a miniature sanctuary dedicated to Dionysos, emphasizing his importance in local religious practices.",
+        "The structure could be a representation of the Maenad's cave where Dionysos is believed to have been born."
+      ]
+    }
+  },
+  {
+    "id": 9979,
+    "image": "https://YOUR_IMAGE_HOST/images/8B7E22D6-7461-4F14-974A-758B9126F5E3_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "PELIKE",
+        "Date": "-475 to -425",
+        "Attribution": "",
+        "Decoration": "A: PHINEUS, SEATED, BETWEEN BOREADS (ZETES AND KALAIS) | B: DRAPED MAN WITH STAFF"
+      },
+      "Additional Content": {
+        "Description": "Blind Phineus seated on a throne talking to the Boreads. The Boreads are bearded, wearing Thracian dress, boots and holding lances.",
+        "Mythological": "Boreadai: descendants of Boreas :: Phineus I: seer",
+        "Findspot": "",
+        "Artist": "Nausicaa Painter: Attic vase painter",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of the Boreads depicted between Phineus on the red-figure pelike?",
+      "possible_answers": [
+        "They represent Phineus's guides in his blindness.",
+        "They symbolize Phineus's past as a seer.",
+        "They could be interpreted as protectors or companions during his imprisonment."
+      ]
+    }
+  },
+  {
+    "id": 10078,
+    "image": "https://YOUR_IMAGE_HOST/images/90332289-EF5B-4918-B07A-D8004F3DDC15_3_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "HYDRIA",
+        "Date": "-450 to -400",
+        "Attribution": "<em>Manner of</em> MEIDIAS P by HORNBOSTEL | BRUSSELS A 3099, CLASS OF by STEINHART",
+        "Decoration": "Body: APHRODITE (NAMED) SEATED WITH MIRROR, GODDESSES (GRACES ?), WITH INCENSE BURNER AND BOX, ONE SEATED, BIRD"
+      },
+      "Additional Content": {
+        "Description": "Aphrodite sitting together with three other women (charites?); Aphrodite holds a mirror in her right hand",
+        "Mythological": "",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of the incense burner and box depicted on the hydria?",
+      "possible_answers": [
+        "They symbolize offerings made to the gods.",
+        "The incense burner and box are decorative elements without significant meaning.",
+        "The items represent a ritual related to the Graces, emphasizing the theme of beauty."
+      ]
+    }
+  },
+  {
+    "id": 10147,
+    "image": "https://YOUR_IMAGE_HOST/images/56202498-4C58-4DBB-B8BF-13CD749F057C_3_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "CHOUS",
+        "Date": "-500 to -450",
+        "Attribution": "",
+        "Decoration": "Body: KOMOS, MAN SINGING AND URINATING INTO OINOCHOE, YOUTH (WITH OINOCHOE) WITH STAFF AND BASKET, CHOUS WITH IVY"
+      },
+      "Additional Content": {
+        "Description": "Attisch-rotfigurige Choenkanne. Bildfeld: Zecher und Pais. Am Boden ein bekränzter Ch.-> 54042",
+        "Mythological": "",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": "470 BCE"
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What does the youth with a staff and a basket represent in the mythological context of this Chous?",
+      "possible_answers": [
+        "The youth with a staff and a basket likely represents a minor deity or hero associated with agricultural activities, possibly connected to Demeter.",
+        "The youth with a staff and a basket could represent a messenger god like Hermes, carrying a staff to symbolize his role as a guide and protector.",
+        "This youth might be depicted in a scene of playful interaction, perhaps symbolizing the joy and carefree nature of the young."
+      ]
+    }
+  },
+  {
+    "id": 10151,
+    "image": "https://YOUR_IMAGE_HOST/images/5777B5DB-0EFD-4D3D-A615-A072017D7C57_7_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "CUP LITTLE MASTER LIP",
+        "Date": "-575 to -525",
+        "Attribution": "EPITIMOS P by UNKNOWN | EPITIMOS by SIGNATURE | LYDOS by UNKNOWN",
+        "Decoration": "AB1: HORSEMAN | AB2: SIGNATURE | Exergue: COCKS | I: HERMES IN NEBRIS BETWEEN ZEUS AND GODDESS (HERA ?), BOTH SEATED ON STOOLS, GODDESS (HEBE ?) | Under handle: SPHINXES"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Hebe I: personification :: Hera: wife of Zeus",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "Who is the seated goddess in the exergue of the cup?",
+      "possible_answers": [
+        "Hebe",
+        "Hera",
+        "Unknown"
+      ]
+    }
+  },
+  {
+    "id": 10152,
+    "image": "https://YOUR_IMAGE_HOST/images/5D6AF8C6-5E26-4E81-A4B4-D650FA6F5785_13_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "AMPHORA, NECK",
+        "Date": "-525 to -475",
+        "Attribution": "BAREISS P by BOTHMER | MEDEA GROUP by BOTHMER",
+        "Decoration": "A: ATHENA MOUNTING CHARIOT, HERAKLES, HERMES | B: WARRIOR, FALLING, BETWEEN HORSEMEN IN THRACIAN CLOAKS"
+      },
+      "Additional Content": {
+        "Description": "Athena mounting a chariot. Herakles standing beyond. With Hermes.",
+        "Mythological": "Herakles: divine Greek hero",
+        "Findspot": "",
+        "Artist": "Bareiss Painter: Attic vase painter",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of the warrior falling between the horsemen in the B section of the amphora?",
+      "possible_answers": [
+        "The warrior falling represents the defeat of the horsemen, symbolizing the mythological tale where Heracles defeats centaurs.",
+        "This could depict a scene from a different myth where warriors fall in battle against horsemen, reflecting a broader theme of conflict."
+      ]
+    }
+  },
+  {
+    "id": 10158,
+    "image": "https://YOUR_IMAGE_HOST/images/01C62210-F238-41DD-9791-98266181DFDB_5_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "KRATER, CALYX",
+        "Date": "-425 to -375",
+        "Attribution": "<em>Manner of</em> KADMOS P by KRON | NIKIAS P by MCPHEE",
+        "Decoration": "A: BIRTH OF ERICHTHONIOS, ATHENA, GE, HERMES, APOLLO SEATED, HEPHAISTOS, ZEUS, APHRODITE (ALL NAMED), NIKE, OWL FLYING WITH WREATH | B: EOS AND KEPHALOS, YOUTH IN CHLAMYS AND PETASOS WITH STONE"
+      },
+      "Additional Content": {
+        "Description": "A: Zeus with wreath, coat, bolt and sceptre watching the scene; Hermes, Hephaistos, Nike and Aphrodite present as well; in the centre Ge with Erechtheus and Athena; behind Zeus Epimetheus or Prometheus. B: Eos pursuing Kephalos, Kallimachos (?) is fleeing to the left.",
+        "Mythological": "Eos: Greek goddess :: Kallimachos: companion of Kephalos :: Erechtheus: king of Athens :: Hephaistos: god :: Nike: goddess",
+        "Findspot": "",
+        "Artist": "Nikias Painter: Attic vase painter",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the mythological significance of the central figure Ge in the context of the krater's scene?",
+      "possible_answers": [
+        "Ge is depicted as the Earth Mother, emphasizing the importance of the natural world in the context of the birth of Erechtheus.",
+        "Ge is portrayed as a personification of the earth, symbolizing fertility and growth, aligning with her position at the center of the scene.",
+        "There is scholarly disagreement about Ge's identity within this specific scene, with some interpreting her role differently based on varying historical debates over her mythological significance."
+      ]
+    }
+  },
+  {
+    "id": 10161,
+    "image": "https://YOUR_IMAGE_HOST/images/609A926D-9484-42F2-A376-50B0364CFAE8_9_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "LEKYTHOS, SQUAT",
+        "Date": "-450 to -400",
+        "Attribution": "MEIDIAS P by NEILS | MEIDIAS P by UNKNOWN",
+        "Decoration": "Body: BIRTH OF ERICHTHONIOS, ATHENA, GE, KEKROPIDS, WOMEN"
+      },
+      "Additional Content": {
+        "Description": "Die Geburt des Erichthonios: Ge oder Attike reicht das nackte Kind der behelmten Athena. Oberhalb von ihr sind die Kekropiden. Neun weitere Frauen wohnen der Geburt bei: Fünf stehen und sitzen hinter Ge/Attike und halten Girlanden und Ketten (Laut Neils: Paidia, Hygieia, Eudaimonia, Eutychia und Harmonia). Die anderen befinden sich hinter Athena. Rosenzweig bezeichnet sie als Aphrodite, Peitho und eventl. (so Neils) Eunomia und Eukleia. Zuordnung zu Festen (Szene mit Aphrodite): Arrephoria (Rosenzweig).",
+        "Mythological": "Athena: goddess :: Attike: personification :: Erechtheus: king of Athens :: Ge: personification :: Erichthonios: king of Athens",
+        "Findspot": "",
+        "Artist": "Meidias Painter: Attic vase painter",
+        "Dating": "425 - 400 BCE"
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "Who is depicted as giving birth in the central scene on the kylix?",
+      "possible_answers": [
+        "Athena",
+        "Ge or Attica"
+      ]
+    }
+  },
+  {
+    "id": 10221,
+    "image": "https://YOUR_IMAGE_HOST/images/1F17726B-09AD-48FD-A054-2FA0F8D55C4D_2_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "CHOUS",
+        "Date": "-425 to -375",
+        "Attribution": "",
+        "Decoration": "Body: EROS WITH BALL PULLING CART, TABLE WITH CHOUS"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Eros: personification",
+        "Findspot": "",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of the 'EROS WITH BALL PULLING CART' decoration on this artifact?",
+      "possible_answers": [
+        "It symbolizes the playful nature of Eros, the Greek god of love, as he engages in a joyful activity.",
+        "The cart and ball might represent Eros's role in guiding souls in the afterlife, referencing his connection to death and rebirth.",
+        "This decoration could depict the myth of Eros and Phobe, where Eros acts as a messenger between gods."
+      ]
+    }
+  },
+  {
+    "id": 10222,
+    "image": "https://YOUR_IMAGE_HOST/images/0588D04D-F596-4419-9F7A-5C8DDB36793D_1_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "RED-FIGURE",
+        "Shape": "LEKYTHOS",
+        "Date": "-450 to -400",
+        "Attribution": "<em>Compare</em> PALERMO 16, GROUP OF by LEZZI-HAFTER",
+        "Decoration": "Body: CHILD (HELEN) IN EGG ON ALTAR, LEDA"
+      },
+      "Additional Content": {
+        "Description": "Birth of Enorches from the egg in the presence of his mother Daito.",
+        "Mythological": "Enorches: son of Thyestes :: Helene: cause of the Trojan war",
+        "Findspot": "Nola",
+        "Artist": "",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the significance of the egg depicted on the lekythos?",
+      "possible_answers": [
+        "The egg represents the mythological origin of Enorches, who was hatched from an egg.",
+        "The egg symbolizes the creation of Helen, leading to the Trojan War."
+      ]
+    }
+  },
+  {
+    "id": 10299,
+    "image": "https://YOUR_IMAGE_HOST/images/773911F0-FC04-47A2-9ADA-A6CFF578EF4A_3_ac001001.jpg",
+    "input_text": {
+      "Basic Metadata": {
+        "Fabric": "ATHENIAN",
+        "Technique": "BLACK-FIGURE",
+        "Shape": "LEKYTHOS",
+        "Date": "-500 to -450",
+        "Attribution": "HAIMON GROUP by ALEXANDRESCU | HAIMON GROUP by DIMITRIU",
+        "Decoration": "Body: GIGANTOMACHY, ATHENA AND GIANT BETWEEN HORSEMEN"
+      },
+      "Additional Content": {
+        "Description": "",
+        "Mythological": "Gigantes: giants",
+        "Findspot": "",
+        "Artist": "Haimon Group: Attic vase painters",
+        "Dating": ""
+      }
+    },
+    "task": "ambiguous_prompt",
+    "model_output": {
+      "question": "What is the central mythological figure on this lekythos depicted in a gigantomachy scene?",
+      "possible_answers": [
+        "Athena, as she is directly engaged with a giant.",
+        "One of the two horsemen depicted near Athena.",
+        "The giant, though the details are unclear due to the complexity of the scene."
+      ]
+    }
+  }
+]
