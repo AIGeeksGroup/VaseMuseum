@@ -8,7 +8,7 @@ Official repository for **VaseMuseum**, a multimodal agent framework for trustwo
 >
 > \*Equal contribution. †Project lead. <sup>#</sup>Corresponding author.
 
-### [Paper](#) | [Project Page](https://aigeeksgroup.github.io/VaseMuseum/) | [Demo](#)
+### [Paper](https://arxiv.org/abs/2607.06374) | [Website](https://aigeeksgroup.github.io/VaseMuseum/) 
 
 ---
 
