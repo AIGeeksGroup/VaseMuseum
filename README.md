@@ -4,7 +4,7 @@ Official repository for **VaseMuseum**, a multimodal agent framework for trustwo
 
 > **VaseMuseum: Digital Intelligent Museum for Ancient Greek Pottery**
 >
-> [Jiazi Wang](https://github.com/wangjiazi)\*, [Nonghai Zhang](https://github.com/sleepyDogseasea)\*, [Qiushi Xie](https://Qiushi0919.github.io/)\*, [Zeyu Zhang](https://steve-zeyu-zhang.github.io/)\*†, Yufeng Chen, [Yang Zhao](https://yangyangkiki.github.io/), Ling Shao, [Hao Tang](https://ha0tang.github.io/)<sup>#</sup>
+> [Jiazi Wang](https://github.com/wangjiazi)\*, [Nonghai Zhang](https://github.com/sleepyDogseasea)\*, [Qiushi Xie](https://Qiushi0919.github.io/)\*, [Zeyu Zhang](https://steve-zeyu-zhang.github.io/)\*†, Yufeng Chen, [Yang Zhao](https://yangyangkiki.github.io/), [Ling Shao](https://ling-shao.github.io/), [Hao Tang](https://ha0tang.github.io/)<sup>#</sup>
 >
 > \*Equal contribution. †Project lead. <sup>#</sup>Corresponding author.
 
